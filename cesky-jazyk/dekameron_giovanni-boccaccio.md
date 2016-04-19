@@ -34,7 +34,7 @@ Florencie, 14. století.
 
 ### Kompoziční výstavba
 
-Dílo obsahuje 100 novel (10 dní po 10 novelách).
+Rámcové uspořádání. Dílo obsahuje 100 novel (10 dní po 10 novelách).
 
 ### Literární druh a žánr
 
