@@ -53,6 +53,8 @@ Odehrává se ve dvou časových rovinách – „tenkrát“ (čas blahobytu) a
 
 ### Kompoziční výstavba
 
+Básně nevelké rozsahem (kromě básně Svatý Kopeček).tce
+
 ### Literární druh a žánr
 
 Lyricko-epické básně.
@@ -75,7 +77,13 @@ Volný verš. Sporadický rým.
 
 Wolkerova prvotina.
 
+Další díla např. **Těžká hodina** - sbírka sociálních balad, kde řeší problémy pracujících a obyčejných lidí.
+
 ### Literální / obecně kulturní kontext
+
+- **Proletářská poezie**
+
+Je určena dělníkům a obyčejným pracujícím lidem. Zaměřeno proti vykořisťování, kapitalistům, upřednostňuje kolektivní zájmy před zájmy jedince, bojuje proti válkám.
 
 - **Vitalismus** (život)
 

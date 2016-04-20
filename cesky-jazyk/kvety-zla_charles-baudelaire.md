@@ -15,21 +15,45 @@ Celkem 140 básní rozdělených do 6 oddílů:
 
 ### Téma a motiv
 
+- **téma**
+
+- **motiv**
+
+Splín a ideál - smutek; bolest; melancholie; beznaděj; sen.
+
+Pařížské obrazy - sociální motivy; velkoměto; lidé; svítání; soumrak.
+
+Víno - alkoholové opojení; nereálnost.
+
+Květy zla - pesimismus; beznaděj; zničení; krev; temno.
+
+Revolta - výsměch, vzdor.
+
+Smrt - konec, zánik, nová naděje.
+
 ### Časoprostor
+
+Paříž, 19. století.
 
 ### Kompoziční výstavba
 
 ### Literární druh a žánr
 
-Lyrika.
+Lyrické básně.
 
 ### Vypravěč / lyrický subjekt
 
 ### Postava
 
+Jelikož se jedná o básnickou sbírku, nelze hovořit o konkrétních postavách.
+
 ### Vyprávěcí způsoby
 
+Nepřímá řeč.
+
 ### Typy promluv
+
+Nevlastní přímá řeč.
 
 ### Veršovaná výstavba
 
@@ -38,6 +62,8 @@ Verše jsou pravidelné. Rým většinou střídavý (ABAB) nebo obkročný (ABB
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
+
+Kniha odsouzena z mravnostních důvodů.
 
 ### Literální / obecně kulturní kontext
 
