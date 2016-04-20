@@ -17,6 +17,8 @@ Celkem 140 básní rozdělených do 6 oddílů:
 
 - **téma**
 
+Autor se pokouší vystihnout své pocity, při myšlení na svoje vzpomínky. Snaží se popsat kontrast mezi láskou, životem, smrtí, ošklivostí a krásou.
+
 - **motiv**
 
 Splín a ideál - smutek; bolest; melancholie; beznaděj; sen.
