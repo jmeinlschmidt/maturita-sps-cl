@@ -53,7 +53,7 @@ Odehrává se ve dvou časových rovinách – „tenkrát“ (čas blahobytu) a
 
 ### Kompoziční výstavba
 
-Básně nevelké rozsahem (kromě básně Svatý Kopeček).tce
+Básně nevelké rozsahem (kromě básně Svatý Kopeček).
 
 ### Literární druh a žánr
 
