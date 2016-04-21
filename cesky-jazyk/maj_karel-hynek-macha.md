@@ -54,11 +54,13 @@ Oslava májové přírody, láska, kritika tehdejší společnosti, nezvratný o
 
 ### Časoprostor
 
-Okolí Doks u Máchova jezera.
+Okolí Doks u Máchova jezera. Přelom 18. a 19. století.
 
 ### Kompoziční výstavba
 
 Chronologický postup; retrospektivní ve vzpomínkových pasážích.
+
+Obsahuje 4 zpěvy a 2 mezizpěvy.
 
 ### Literární druh a žánr
 
