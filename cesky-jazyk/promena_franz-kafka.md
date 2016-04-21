@@ -16,17 +16,19 @@ III. Řehoř se léčil více než měsíc. Rodina mu nyní každý večer otev�
 
 - **téma**
 
-Rodinné vztahy po přeměně.
+Přeměna člověka ve hmyz a následné rodinné vztahy.
 
 - **motiv**
 
-Přeměna; hmyz; vztahy; necitlivost; odpor; finanční problémy; byt.
+Přeměna; hmyz; vztahy; necitlivost; odpor; finanční problémy; byt; úzkost; touha o pochopení.
 
 ### Časoprostor
 
 Neurčený čas v bytě Samsových.
 
 ### Kompoziční výstavba
+
+Chronologický postup. Obsahuje 3 části, nečlěněno na kapitoly.
 
 ### Literární druh a žánr
 
