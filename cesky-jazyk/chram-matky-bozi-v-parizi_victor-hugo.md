@@ -16,9 +16,11 @@ Po popravě Quasimodo zmizel a po nějaké době byl nalezen v Esmeraldině hrob
 
 - **téma**
 
+Láska ošklivého a společnosti zavrhovaného Quasimoda ke krásné cikánské tanečnici Esmeraldě.
+
 - **motiv**
 
-Kritika společnosti; lži; přetvářky; opovržení postíženými; 
+Kritika společnosti; lži; přetvářky; opovržení postíženými; tragická láska; napínavost; oddanost; tragická smrt.
 
 ### Časoprostor
 
@@ -30,7 +32,7 @@ Chronologický postup s retrospektivními odbočkami do minulosti.
 
 ### Literární druh a žánr
 
-Epický román, psán prózou.
+Epika. Historický román, psán prózou.
 
 ### Vypravěč / lyrický subjekt
 
