@@ -12,11 +12,11 @@ Děj začíná ve chvíli, kdy se do anglického Yorku přistěhuje obchodník j
 
 - **téma**
 
-Život na neobydleném ostrově
+Život na neobydleném ostrově.
 
 - **motiv**
 
-Pustý ostrov; 30 let samoty; lidojedi; ztroskotání.
+Pustý ostrov; 30 let samoty; lidojedi; ztroskotání; příroda; osud; útěk; ztroskotání.
 
 ### Časoprostor
 
@@ -24,11 +24,11 @@ Rovníková oblast na ostrově vzdáleném asi 50 mil od Brazilského prostřed�
 
 ### Kompoziční výstavba
 
-Chronologický postup. Jedna dějová linie. Forma deníkových záznamů.
+Chronologický postup. Jedna dějová linie. Forma deníkových záznamů. Nečleněno na kapitoly.
 
 ### Literární druh a žánr
 
-Dobrodružný román, pasný prózou (ne verši), epika.
+Epika. Dobrodružný román, psán prózou.
 
 ### Vypravěč / lyrický subjekt
 
