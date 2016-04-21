@@ -22,7 +22,7 @@ Jak rodová nenávist dokáže smařit život mladých lidí.
 
 - **motiv**
 
-Tragická (ne nešťastná) láska; zbytečnost krvavých sporů; spor Martelů a Kapuletů.
+Tragická (ne nešťastná) láska; zbytečnost krvavých sporů; spor Martelů a Kapuletů; souboje a smrt.
 
 ### Časoprostor
 
@@ -30,11 +30,11 @@ Verona a Mantova, Itálie; 16. století.
 
 ### Kompoziční výstavba
 
-Chronologická. Člení se na prolog a pět dějství.
+Chronologický postup. Člení se na prolog a 5 dějství. 121 stran.
 
 ### Literární druh a žánr
 
-Klasická tragédie.
+Drama. Klasická tragédie.
 
 ### Vypravěč / lyrický subjekt
 
