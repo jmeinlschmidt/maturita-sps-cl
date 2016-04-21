@@ -62,11 +62,11 @@ Posluhovačka, Řehořem opovrhovala. Nenazývala ho jménem, nazývala ho jen t
 
 ### Vyprávěcí způsoby
 
-Přímá řeč.
+Nepřímá řeč.
 
 ### Typy promluv
 
-Pásmo vypravěče.
+Pásmo vypravěče. Vnitřní monology Řehoře.
 
 ### Veršovaná výstavba
 
