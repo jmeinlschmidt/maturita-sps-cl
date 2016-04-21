@@ -18,7 +18,7 @@ Vliv peněz na lidské vztahy.
 
 - **motiv**
 
-Lakota; pokrytectví; zišnost; cynismus; postavení žen ve společnosti.
+Lakota; pokrytectví; zišnost; cynismus; postavení žen ve společnosti; záliba v penězích; lidská chamtivost.
 
 ### Časoprostor
 
@@ -30,13 +30,7 @@ Kompoziční postup. Odehrává se v jeden čas, na jednom místě a má jeden d
 
 ### Literární druh a žánr
 
-- **druh**
-
-Drama
-
-- **žánr**
-
-Komedie
+Drama. Komedie. Psáno prózou.
 
 ### Vypravěč / lyrický subjekt
 
@@ -105,4 +99,3 @@ Autoři staví na rozumu a vědě a snaží se o překonání náboženské ideo
 - **preromantismus**
 
 Vytvářelo ho především měšťanstvo. Vzorem jim je venkovský, nezkažený člověk a prostý způsob života. Autoři zdůrazňovali citové hodnoty prostého člověka a tvůrčí svobodu. Odmítá feudalismus, ale také chladné rozumářství.
-
