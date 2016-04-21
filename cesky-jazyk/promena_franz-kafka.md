@@ -76,4 +76,18 @@ Pásmo vypravěče. Vnitřní monology Řehoře.
 
 ### Kontext autorovy tvorby
 
+-	**obecné rysy Kafkových děl**
+
+Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesimismus. Záhadné, neznáme postavy (nemají jméno atd.). O hlavních postavách nevíme téměř nic (neznáme jejich minulost, vzhled, rodinné zázemí). Prvky v knize - odcizení člověka od rodiny, nereálnost.
+
 ### Literální / obecně kulturní kontext
+
+Další autoři např. **Franz Werfel** (Čtyřicet dnů), **Gustav Meyrink** (Golem).
+
+- **Světová próza, 1. polovina 20. století**
+
+Tematicky i žánrově velmi pestrá. Řadu podnětů z přírodních a společenských věd. V popředí problematika válečné doby. Uplatňovány umělecké směry – realismus (dějová linie v logické časové posloupnosti zaměřena na psychiku), naturalismus (nezkreslená realita), experimentální próza (bourá dějovou linii, prolíná se mnoha časovými a významovými rovinami, složitá symbolika, experiment s jazykem).
+
+-	**Německy psaná literatura v českých zemích**
+
+Autoři, kteří byli německého původu a byli Židé. Měli problém s vydáváním svých knih, protože psali německy. Převážně žili v Praze. 
