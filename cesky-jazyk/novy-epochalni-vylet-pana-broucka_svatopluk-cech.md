@@ -24,11 +24,11 @@ Praha 19. a 15. století.
 
 ### Kompoziční výstavba
 
-Chronologická kompozice, ale i retrospektiva. 14. kapitol.
+Chronologický postup, ale i retrospektiva. 14. kapitol.
 
 ### Literární druh a žánr
 
-Satirický román (ne historický), psaný prózou. 
+Epika. Satirická povídka (ne historická), psána prózou.
 
 ### Vypravěč / lyrický subjekt
 
