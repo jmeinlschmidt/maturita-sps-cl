@@ -28,7 +28,7 @@ Otázka lidských vztahů - především problém viny a trestu.
 
 - **motiv**
 
-Smutek; naděje.
+Smutek; naděje; vina a trest.
 
 ### Časoprostor
 
@@ -36,11 +36,11 @@ Smutek; naděje.
 
 ### Kompoziční výstavba
 
-Chronologický postup.
+Chronologický postup. 142 stran.
 
 ### Literární druh a žánr
 
-Lyricko-epická sbírka baladických básní.
+Lyricko-epická sbírka baladických básní. Rámcové lyrické básně.
 
 ### Vypravěč / lyrický subjekt
 
