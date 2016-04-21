@@ -16,13 +16,17 @@ Představení reality války z pohledu vojáka v zákopech.
 
 - **motiv**
 
-Válka; přátelství; konflikt mládí a smrti; ztráta iluzí; snaha přežít; drsnost doby; umírání.
+Válka; přátelství; konflikt mládí a smrti; ztráta iluzí; snaha přežít; drsnost doby; umírání; trápení; snaha přežít.
 
 ### Časoprostor
 
+Období 1. světové války ve Francii a Německu.
+
 ### Kompoziční výstavba
 
-Chronologický postup.
+Chronologický postups prvky retrospektivy.
+
+Rozděleno na kapitoly. 173 stran, 12 kapitol.
 
 ### Literární druh a žánr
 
