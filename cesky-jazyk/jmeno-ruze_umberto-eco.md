@@ -20,7 +20,11 @@ V závěrečné fázi románu se dovídáme, že všechny vraždy a další mrtv
 
 - **téma**
 
+Náboženská a středověká polotika.
+
 - **motiv**
+
+Náboženství; teologie, filozofie, život a myšlení duchovních.
 
 ### Časoprostor
 
