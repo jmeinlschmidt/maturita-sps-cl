@@ -40,6 +40,8 @@ Drama. Klasická tragédie.
 
 Repliky - přímá řeč postav; ich-forma.
 
+Nezúčastněný vypravěč; er-forma.
+
 ### Postava
 
 - **Romeo**
@@ -64,10 +66,28 @@ Dialog.
 
 ### Veršovaná výstavba
 
-\-\-\-
+Jambický verš (pro Shakespeara typický).
 
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
 
+Anglická renesance, přelom 16. a 17. Století
+
+Další díla např. komedie **Zkrocení zlé ženy**, **Něco za něco**, tragédie **Julius caesar**, **Hamlet** a pohádkové hry **Zimní pohádka**, **Bouře**.
+
+- **autor**
+
+Největší dramatik světové literatury. Neví se kdy přesně se narodil odhaduje se 23.4.1564, jisté je však pouze to že byl pokřtěn 26.4.1564. Narodil se v Anglii ve Stratfordu nad Avonou.
+
 ### Literální / obecně kulturní kontext
+
+- **Renesance**
+
+Znovuzrození antiky, 13. - 16. století. Ostře a důrazně se postavili proti středověku, obrácení zájmu od boha k člověku. Myšlenkový směr humanismus - střed zájmu je člověk, základní proud v době renesance.
+
+Další autoři např. ital **Giovanni Bocacio** (Dekameron) a **Dante Alighiery** (Božská komedie).
+
+V knize: jednotlivé postavy se postupně vyvíjejí, např. Romeo a Julie postupem času mentálně dozrávají, otec Vavřinec zprvu nechce pomáhat Romeovi a Julii, ale nakonec jim pomůže a oddá je.
+
+Vliv na další druhy umění (filmové zpracování, divadelní představení, hudební či výtvarná díla).
