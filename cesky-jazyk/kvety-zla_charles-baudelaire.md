@@ -39,9 +39,11 @@ Paříž, 19. století.
 
 ### Kompoziční výstavba
 
+Básnická sbírka s cca. 140 básněmi.
+
 ### Literární druh a žánr
 
-Lyrické básně.
+Lyrika. Poezie. Různé žánry, nejčastěji sonet (vyznačuje se strukturou 14 veršů a logickým členěním).
 
 ### Vypravěč / lyrický subjekt
 
