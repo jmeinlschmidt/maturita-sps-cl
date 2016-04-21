@@ -26,11 +26,11 @@ Mezilidské vztahy.
 
 - **motiv**
 
-Žertovné příběhy; milostné příběhy; mor; nepřízeň osudu; karma; vychytralost.
+Žertovné příběhy; milostné příběhy; mor; nepřízeň osudu; karma; vychytralost; překvapení.
 
 ### Časoprostor
 
-Florencie, 14. století.
+Venkovské sídlo ve Florencii, 14. století.
 
 ### Kompoziční výstavba
 
@@ -38,13 +38,7 @@ Rámcové uspořádání. Dílo obsahuje 100 novel (10 dní po 10 novelách).
 
 ### Literární druh a žánr
 
-- **druh**
-
-Epika
-
-- **žánr**
-
-Novela; rámcová povídka.
+Epika. Novela a rámcová povídka.
 
 ### Vypravěč / lyrický subjekt
 
