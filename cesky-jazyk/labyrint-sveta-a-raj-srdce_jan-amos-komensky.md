@@ -18,11 +18,11 @@ Teologičtější. Starozákonní Šalamoun ve své knize Kazatel nenašel řeš
 
 - **téma**
 
-Pomíjivost světa
+Pomíjivost světa.
 
 - **motiv**
 
-Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě.
+Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským živokem.
 
 ### Časoprostor
 
