@@ -18,9 +18,11 @@ Hořkost nad životem; zklamání dobou; myšlenky anarchismu, antimilitarismu a
 
 ### Časoprostor
 
+Vydáno roku 1901.
+
 ### Kompoziční výstavba
 
-Titulní báseň vyjadřuje filozofický postoj celé sbírky - život se žije právě teď a tady, není třeba dbát svazujících pravidel a zvyklostí, je nutné se od nich oprostit a užívat si dne.
+Obsahuje 34 básní. Titulní báseň vyjadřuje filozofický postoj celé sbírky - život se žije právě teď a tady, není třeba dbát svazujících pravidel a zvyklostí, je nutné se od nich oprostit a užívat si dne.
 
 Trávit čas pozdního nedělního odpoledne v Prateru je hloupé, lepší je zabíjet čas popíjením piva z prasklé sklenice (báseň Neděle).
 
