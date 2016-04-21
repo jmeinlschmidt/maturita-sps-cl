@@ -18,7 +18,7 @@ Popis autorova mládí v době komunismu.
 
 - **motiv**
 
-Komunismus; cenzura; dospívání.
+Komunismus; cenzura; dospívání; zesměšňování.
 
 ### Časoprostor
 
@@ -26,15 +26,13 @@ Praha a Sázava, 1968 – 1989.
 
 ### Kompoziční výstavba
 
+Zprvu retrospektivní postup, později chronologický. Výpisky z Kvidova deníčku. Některé kapitoly zpracovány jako divadelní hra.
+
+Obsahuje 244 stran. Členěno na kapitoly. V kapitolách jsou určité podkapitoly.
+
 ### Literární druh a žánr
 
-- **druh**
-
-Epika.
-
-- **žánr**
-
-Román - rodinný, humoristický, autobiografický.
+Epika. Román - rodinný, humoristický, autobiografický.
 
 ### Vypravěč / lyrický subjekt
 
