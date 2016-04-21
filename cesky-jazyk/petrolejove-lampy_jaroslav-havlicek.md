@@ -16,13 +16,21 @@ Zachycení mezilidských vztahů v rodině v pozadí psychické choroby projevuj
 
 - **motiv**
 
-Psychycká choroba; síla ženy.
+Psychycká choroba; síla ženy; měšťanství; předurčení lidského života.
 
 ### Časoprostor
 
 Přelom 19. a 20. století na statku v Jilemnici.
 
 ### Kompoziční výstavba
+
+Chronologický postup a gradující děj.
+
+Kniha má 354 stran a je dělena na 3 části.
+
+1. Lampy svítí a prostírá se
+2. Sytý u stolu
+3. Lampy zhasínají
 
 ### Literární druh a žánr
 
@@ -36,7 +44,7 @@ Er-forma.
 
 - **Štěpánka Kyliánová**
 
-Vyčleněna ze společnosti, chová se jako chlap (pije pivo, hraje kuželky), je výstřední, nevypadá podle tehdejších představ jako dáma, je tvrdohlavá, hromotluk, je prostořeká => muži o ní nemají zájem; hraje v divadle, líbí se jí důstojníci a chtěla by dítě, je obětavá.
+Vyčleněna ze společnosti, chová se jako chlap (pije pivo, hraje kuželky), je výstřední, nevypadá podle tehdejších představ jako dáma, je tvrdohlavá, hromotluk, je prostořeká -> muži o ní nemají zájem; hraje v divadle, líbí se jí důstojníci a chtěla by dítě, je obětavá.
 
 - **Pavel Malina**
 
