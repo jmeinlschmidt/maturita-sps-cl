@@ -6,23 +6,35 @@
 
 Rozděleno do 3 dějství.
 
-1. Helena a chůva Nana mluví o dění kolem robotů.
-1. Roboti se bouří, všechny pobijí a přežije jen Alquist.
-1. Alquist se snaží najít tajemství výroby robotů.
+- **předehra**
+
+Helena se seznamuje s lidmi v továrně, ti se do ní zamilují včetně Alquista a Domina, Domin ji požádá o ruku a ona souhlasí.
+
+- **1. dějství**
+
+Helena se svou chůvou Nanou hovoří o robotech, zpráva, že se přestali rodit děti, obklíčení roboty na ostrově, spálení listin na výrobu robotů.
+
+- **2. dějství**
+
+Helena se přizná ke zničení Russomových listin (jediná šance na vykoupení), roboti se bouří a všechny pobijí.
+
+- **3. dějství**
+
+Alquist se snaží ve své pracovně objevit tajemství výroby robotů, roboti ho přemluví, ať jednoho z nich rozebere a zkoumá. Má to být Helena, Primus se chce obětovat – Alquist pozná, že roboti jsou schopni citů.
 
 ### Téma a motiv
 
 - **téma**
 
-Příběh a vztahy lidí v továrně R.U.R. Negativní vliv techniky na lidstvo – ženy nerodí.
+Příběh a vztahy lidí v továrně R.U.R.
 
 - **motiv**
 
-Negativní vliv techniky na lidstvo – ženy nerodí. Adam a Eva, Bible.
+Negativní vliv techniky na lidstvo – ženy nerodí; Příběh z budoucnosti s roboty; Varuje před nebezpečím vývoje techniky; otázka práv robotů.
 
 ### Časoprostor
 
-Budoucnost, Rossanův ostrov.
+Neurčitá udoucnost, Rossanův ostrov - ostrov na výrobu robotů.
 
 ### Kompoziční výstavba
 
@@ -32,7 +44,7 @@ Chronologická kompozice. 83 stran. Předehra a 3 dějství.
 
 - **druh**
 
-Satiricko–kritické drama (s prvky utopismu)
+Vědecko-fantastické a satiricko–kritické drama (s prvky utopismu).
 
 - **žánr**
 

@@ -8,7 +8,11 @@ Dvě části, celkem 54 kapitol.
 
 - **Labyrint světa**
 
-Výpravná část, kde se rozhodl prozkoumat svět, aby zjistil, jaký je smysl a cíl všeho lidského snažení.
+Výpravná část, kde se poutník rozhodl prozkoumat svět, aby zjistil, jaký je smysl a cíl všeho lidského snažení. Má 2 průvodce - Vševěd Všudybud a Mámení Mámil. Dostane brýle mámení, které jsou nasazeny křivě. 
+
+Svět je vyobrazen jako jedno město obsahující náměstí a 6 ulic - 6 stavů (domovní, řemeslníky, učence, duchovní, vládce a vojáky).
+
+Shledává, že vše je marné.
 
 - **Ráj srdce**
 
@@ -22,25 +26,19 @@ Pomíjivost světa.
 
 - **motiv**
 
-Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským živokem.
 
 ### Časoprostor
+Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským živokem; kritika společenských nedostatků.
 
 17\. století. Smyšlené město, které představuje celý svět.
 
 ### Kompoziční výstavba
 
-Chronologická
+Chronologický postup. 2 části, 54 kapitol.
 
 ### Literární druh a žánr
 
-- **druh**
-
-Epika
-
-- **žánr**
-
-Filozofický román (alegorie)
+Epika. Filozofický román (alegorie).
 
 ### Vypravěč / lyrický subjekt
 

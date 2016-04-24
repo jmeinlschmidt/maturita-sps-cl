@@ -66,7 +66,7 @@ Dialog.
 
 ### Veršovaná výstavba
 
-Jambický verš (pro Shakespeara typický).
+Pětistopý Jambický verš (pro Shakespeara typický), tzv. blankvers.
 
 ## Literárněhistorický kontext
 

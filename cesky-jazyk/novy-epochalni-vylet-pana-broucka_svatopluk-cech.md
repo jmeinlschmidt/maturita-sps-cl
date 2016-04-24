@@ -16,7 +16,7 @@ Lidská zbabělost a chlubení.
 
 - **motiv**
 
-Vlastenectví; husitství; zbabělost; odvaha; kritika maloměšťáctví; prospěchářství; bezcharakternost.
+Vlastenectví; husitství; zbabělost; odvaha; kritika maloměšťáctví; prospěchářství; bezcharakternost; Jan Žižka; husitství.
 
 ### Časoprostor
 
@@ -24,7 +24,7 @@ Praha 19. a 15. století.
 
 ### Kompoziční výstavba
 
-Chronologický postup, ale i retrospektiva. 14. kapitol.
+Chronologický postup, ale i retrospektiva. 14. kapitol. 173 stran.
 
 ### Literární druh a žánr
 

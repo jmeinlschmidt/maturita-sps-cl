@@ -8,13 +8,15 @@
 
 - **1. zpěv** 
 
+Poté co se Vilém dozví, že jeho milá Jarmila byla svedena (ještě před tím, než se poznali), zavraždí svůdce, aniž by tušil, že je to jeho otec. Vilém je za tento skutek odsouzen na smrt. Za Jarmilou, která na Viléma čeká, přijíždí jeho druh a sdělí jí, že Vilém je uvězněn a čeká na smrt pro otcovraždu. Vilém je popraven a Jarmila pro žal a smutek skáče do jezera.
+
 Obraz Májové přírody, sebevražda Jarmily skokem do jezera. Motiv lásky a nevěry.
 
 - **2. zpěv**
 
 Vilém ve vězení, úvahy o vině. Kontrast v čase – věčnost přírody a omezenost jeho zbývajícího času do popravy. Pocit křivdy a vzdoru.
 
-- **intermezzo**
+- **mezizpěv**
 
 Půlnoční popraviště v přípravě na popravu Viléma.
 
@@ -22,7 +24,7 @@ Půlnoční popraviště v přípravě na popravu Viléma.
 
 Vrchol, poprava Viléma. Vilémovo vyznání lásky k přírodě a rodné zemi. Obžaloba společnosti.
 
-- **intermezzo**
+- **mezizpěv**
 
 Nářek Vilémových druhů.
 
@@ -64,9 +66,11 @@ Obsahuje 4 zpěvy a 2 mezizpěvy.
 
 ### Literární druh a žánr
 
-Lyricko-epická báseň (= dílo má děj a jsou zde líčeny i pocity).
+Lyricko-epická báseň (= dílo má děj a jsou zde líčeny i pocity). Poezie.
 
 ### Vypravěč / lyrický subjekt
+
+Vypraveč příběhu je Hynek (= sám autor).
 
 ### Postava
 

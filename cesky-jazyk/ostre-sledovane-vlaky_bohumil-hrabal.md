@@ -4,25 +4,29 @@
 
 ### Zasazení výňatku do kontextu díla
 
+- **děj**
+
+Miloš se coby muž dvakrát znemožnil před dívkou Mášou, nedokázal se s ní milovat. Podřezal si žíly. Stanicí projíždějí ostře sledované německé transporty a Miloš je zajat Němci. To by znamenalo smrt, ale Němec si všimne jeho jizvy na ruce a nechá ho jít. Pan výpravčí Hubička potiskl razítky zadek Zdeničce Svaté a je kvůli tomu podroben výslechu. Je shledán nevinným Do stanice přichází Rakušanka Vikoria Freie, se kterou Miloš vyzkouší kanape a dokáže si, že je muž. Posílený tímto vědomím se zhostí úkolu vhodit bombu do ostře sledovaného transportu zbraní. Bombu vhodí, ale je přitom viděn Němcem. Miloš po něm vystřelí a Němec po něm také. Oba se dlouho trápí ve smrtelných bolestech, až Miloš ulehčí Němcovo trápení dvěma dalšími střelami. Vlak vybouchne.
+
 ### Téma a motiv
 
 - **téma**
 
-Přechod chlapce v muže v období války.
+Dopad války na lidské životy - přechod chlapce v muže v období války.
 
 - **motiv**
 
-Sexuální nezkušenost; pokrytectví; nesmyslnost války; život na vesnici; válka.
+Sexuální nezkušenost; pokrytectví; nesmyslnost války; život na vesnici; válka; láska; zklamání; železnice.
 
 ### Časoprostor
 
-Druhá světová válka, 1945, Kostomlaty.
+Konec druhé světová válka, 1945. Malá železniční stanice Kostomlaty.
 
 ### Kompoziční výstavba
 
-Chronologický postup s prvky retrospektivy hlavního rdiny. 
+Chronologický postup s prvky retrospektivy hlavního hrdiny. 
 
-85 stran, členěno na 6 kapitol bez nápisu, plné železničního slangu.
+85 stran, členěno na 6 kapitol bez názvů, plné železničního slangu.
 
 ### Literární druh a žánr
 

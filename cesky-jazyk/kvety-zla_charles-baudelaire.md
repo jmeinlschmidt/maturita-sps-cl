@@ -39,7 +39,7 @@ Paříž, 19. století.
 
 ### Kompoziční výstavba
 
-Básnická sbírka s cca. 140 básněmi.
+Básnická sbírka s cca. 140 básněmi. Básně rozdělené do 6 oddílů. Předmluva, epilog a doslov.
 
 ### Literární druh a žánr
 

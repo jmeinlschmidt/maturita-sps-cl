@@ -18,7 +18,7 @@ Popis autorova mládí v době komunismu.
 
 - **motiv**
 
-Komunismus; cenzura; dospívání; zesměšňování.
+Komunismus; cenzura; dospívání; zesměšňování; neveselá doba veselýma očima; láska; rodina.
 
 ### Časoprostor
 
@@ -28,7 +28,7 @@ Praha a Sázava, 1968 – 1989.
 
 Zprvu retrospektivní postup, později chronologický. Výpisky z Kvidova deníčku. Některé kapitoly zpracovány jako divadelní hra.
 
-Obsahuje 244 stran. Členěno na kapitoly. V kapitolách jsou určité podkapitoly.
+Obsahuje 244 stran. 33 kapitol.
 
 ### Literární druh a žánr
 

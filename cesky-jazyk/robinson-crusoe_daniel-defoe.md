@@ -16,7 +16,7 @@ Děj začíná ve chvíli, kdy se do anglického Yorku přistěhuje obchodník j
 
 - **motiv**
 
-Pustý ostrov; 30 let samoty; lidojedi; ztroskotání; příroda; osud; útěk; ztroskotání.
+Pustý ostrov; 30 let samoty; lidojedi; ztroskotání; příroda; osud; útěk; ztroskotání; přátelství.
 
 ### Časoprostor
 

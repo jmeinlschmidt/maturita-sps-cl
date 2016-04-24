@@ -18,6 +18,8 @@ Hořkost nad životem; zklamání dobou; myšlenky anarchismu, antimilitarismu a
 
 ### Časoprostor
 
+Neurčité místo i čas.
+
 Vydáno roku 1901.
 
 ### Kompoziční výstavba
@@ -28,7 +30,7 @@ Trávit čas pozdního nedělního odpoledne v Prateru je hloupé, lepší je za
 
 ### Literární druh a žánr
 
-Osobní lyrika. Básně, popěvky.
+Osobní lyrika. Básně, popěvky. Poezie.
 
 ### Vypravěč / lyrický subjekt
 

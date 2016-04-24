@@ -26,7 +26,7 @@ Mezilidské vztahy.
 
 - **motiv**
 
-Žertovné příběhy; milostné příběhy; mor; nepřízeň osudu; karma; vychytralost; překvapení.
+Žertovné příběhy; milostné příběhy; mor; nepřízeň osudu; karma; vychytralost; překvapení; lidská hloupost; láska.
 
 ### Časoprostor
 

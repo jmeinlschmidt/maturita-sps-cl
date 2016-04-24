@@ -16,7 +16,7 @@ Zachycení mezilidských vztahů v rodině v pozadí psychické choroby projevuj
 
 - **motiv**
 
-Psychycká choroba; síla ženy; měšťanství; předurčení lidského života.
+Psychycká choroba; síla ženy; měšťanství; předurčení lidského života; touha po dítěti; nemoc; přátelství; život na vesnici.
 
 ### Časoprostor
 

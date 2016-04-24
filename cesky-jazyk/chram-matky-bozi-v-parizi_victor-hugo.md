@@ -20,11 +20,11 @@ Láska ošklivého a společnosti zavrhovaného Quasimoda ke krásné cikánské
 
 - **motiv**
 
-Kritika společnosti; lži; přetvářky; opovržení postíženými; tragická láska; napínavost; oddanost; tragická smrt.
+Kritika společnosti; lži; přetvářky; opovržení postíženými; tragická láska; napínavost; oddanost; tragická smrt; rozdíl sociálních vrstev.
 
 ### Časoprostor
 
-Paříž, 1482.
+Paříž, 15. století (1482).
 
 ### Kompoziční výstavba
 

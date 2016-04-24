@@ -49,7 +49,9 @@ Poezie prostých věcí a každodenního života; radost ze života; pokora; opr
 
 ### Časoprostor
 
-Odehrává se ve dvou časových rovinách – „tenkrát“ (čas blahobytu) a „teď“ (čas pokory).
+Neučité místo i čas. 
+
+Jedná se o období Wolkerova života když byl malý.
 
 ### Kompoziční výstavba
 

@@ -4,8 +4,6 @@
 
 ### Zasazení výňatku do kontextu díla
 
-Dílo rozděleno do kapitol, 1 kapitola = 1 den, celkem 7 dní = 7 kapitol. Dny rozděleny do mnišských zvyklostí latinskými číselnými názvy. Názvy podkapitol (Prima, Před nono, po noně atp.).
-
 - **děj**
 
 Děj se odehrává v nejmenováném hornoitalském opatství, kam na začátku knihy přijíždí františkán Vilém z Baskervillu se svým učněm novicem Adsem z Melku (který celé dílo retrospektivně zaznamenává), aby se zúčastnili disputace mezi papežskou legací a zástupci františkánského řádu s podporou císaře o chudobě církve . (V prologu je fiktivně označen za existující rukopis zaznamenaný v latině ve 14. Stol. a později přeložen do francouzštiny.)
@@ -32,7 +30,9 @@ Středověk, konec roku 1327 (14. století). Benediktýnský klášter v Itálii
 
 ### Kompoziční výstavba
 
-Retrospektivní postup; vyprávění formou vzpomínek, psané kroniky.
+Retrospektivní postup; vyprávění formou vzpomínek, psané kroniky. 
+
+Dílo rozděleno do kapitol, 1 kapitola = 1 den, celkem 7 dní = 7 kapitol. Dny rozděleny do mnišských zvyklostí latinskými číselnými názvy. Názvy podkapitol (Prima, Před nono, po noně atp.).
 
 ### Literární druh a žánr
 

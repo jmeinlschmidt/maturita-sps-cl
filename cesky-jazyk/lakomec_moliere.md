@@ -30,7 +30,7 @@ Kompoziční postup. Odehrává se v jeden čas, na jednom místě a má jeden d
 
 ### Literární druh a žánr
 
-Drama. Komedie. Psáno prózou.
+Drama. Komedie, psána prózou.
 
 ### Vypravěč / lyrický subjekt
 
