@@ -26,27 +26,27 @@ Např. Object Pascal, Visual Basic, C#, JavaScript...
 
 ### 6. Popiště 5 typů událostí komponent, které nesouvisí s myší (kurzorem) ani klávesnicí?
 
-- OnChange - při změně vlastností objektu
-- OnCreate - při (resp. po) vytvoření objektu
-- OnDestroy - při (resp. před) zničením objektu
-- OnActivate - při aktivaci objektu
-- OnFocus - při zaměření objektu, např. inputu pro text
+- `OnChange` - při změně vlastností objektu
+- `OnCreate` - při (resp. po) vytvoření objektu
+- `OnDestroy` - při (resp. před) zničením objektu
+- `OnActivate` - při aktivaci objektu
+- `OnFocus` - při zaměření objektu, např. inputu pro text
 
 ### 7. Popiště 3 typy událostí klávesnice, a kdy k nim dochází?
 
-- OnKeyDown - při stisknutí klávesy
-- OnKeyUp - při puštění klávesy
-- OnKeyPress - klávesa byla zmáčknuta
+- `OnKeyDown` - při stisknutí klávesy
+- `OnKeyUp` - při puštění klávesy
+- `OnKeyPress` - klávesa byla zmáčknuta
 
 ### 8. Popište 8 typů událostí myši (kurzoru), a kdy k nim dochází?
 
-- OnClick - při kliknutí
-- OnDblClick - při dvojkliku
-- OnMouseDown - při stisknutí myši
-- OnMouseUp - při uvolnění stisknutí myši
-- OnMouseWheel - při použití kolečka na myši
-- OnDragDrop - při přesouvání objektu myší
-- OnMouseLeave - když myš opustí plochu objektu
+- `OnClick` - při kliknutí
+- `OnDblClick` - při dvojkliku
+- `OnMouseDown` - při stisknutí myši
+- `OnMouseUp` - při uvolnění stisknutí myši
+- `OnMouseWheel` - při použití kolečka na myši
+- `OnDragDrop` - při přesouvání objektu myší
+- `OnMouseLeave` - když myš opustí plochu objektu
 
 ### 9. Coto je **handler** (ošetřující metoda) a k čemu slouží?
 
@@ -64,7 +64,7 @@ Parametry pro upřesnění události, ke které právě došlo.
 
 Pascal:
 ```pascal
-procedure TForm1.FormMouseMove(Sender: TObjekct; Shift: TShiftState; X, Y: Integer);
+procedure TForm1.FormMouseMove(Sender: TObject; Shift: TShiftState; X, Y: Integer);
 begin
   ...
 end;
