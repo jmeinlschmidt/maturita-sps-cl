@@ -4,7 +4,7 @@
 1. Tabulkové procesory
 1. Rastrová grafika
 1. Vektorová grafika
-1. Značkovací jazyk HTML
+1. [Značkovací jazyk HTML](html.md)
 1. Kaskádové styly CSS
 1. Značkovací jazyk XML
 1. Databáze a dotazovací jazyk SQL
