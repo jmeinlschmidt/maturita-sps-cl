@@ -6,7 +6,7 @@
 
 - **děj**
 
-Děj začíná ve chvíli, kdy se do anglického Yorku přistěhuje obchodník jménem Kreutznauer (Crusoe). Jeho třetí syn robinson chce být námořníkem. Otec s Robinsonem snem nesouhlasí, protože na moři mu zemřel nejstarší syn Jakub. Jeho přítel mu nabídne, aby s ním jel do Londýna. Neodolá a ihned odplouvá. Odtud odplouvá s kapitánem Dubbleyem do Guineji. Tato loď je ale přepadena piráty a Robinson je zajat a prodán do otroctví. Podaří se mu utéct na portugalské lodi, ale loď ztroskotá a on se ocitne sám na opuštěném ostrově, kde je nucen naučit se přežít. Obdělá kousek půdy, ochočí si několik zvířat, postaví krb a i jinak svůj nechtěný příbytek dále zdokonaluje. V průběhu života na ostrově uvidí Robinson ztroskotanou loď, na které přežil jen pes. Crusoe z této lodě také použil mnoho předmětů a zbraní. Jednoho dne narazí na stopy v písku. Patří lidojedům. Vysvobodí jejich oběť a podle dne této události nazve zachráněného Pátkem. Pátek je velice učenlivý a brzy se naučí anglicky. Jediné rozpory mezi nimi pramení z rozdílu v jejich vyznání. Po 28 letech Robinsonova pobytu na ostrově zakotví u břehu anglická loď, na které propukla vzpoura. Robinson kapitánovi pomůže vzbouřence porazit a za odměnu je i s Pátkem vzat na palubu a odvezen do Anglie. Vůdce povstání nechají na ostrově se vším, co zde Robinson zbudoval. V Anglii se shledává se svými příbuznými, které opustil, ale vidí i mnoho negativních změn ve společnosti (kritika společnosti), například stoupl počet otroků. Po sedmi letech se vrací na ostrov, aby našel velmi civilizovanou skupinu lidí.
+Děj začíná ve chvíli, kdy se do anglického Yorku přistěhuje obchodník jménem Kreutznauer (Crusoe). Jeho třetí syn Robinson chce být námořníkem. Otec s Robinsonem snem nesouhlasí, protože na moři mu zemřel nejstarší syn Jakub. Jeho přítel mu nabídne, aby s ním jel do Londýna. Neodolá a ihned odplouvá. Odtud odplouvá s kapitánem Dubbleyem do Guineji. Tato loď je ale přepadena piráty a Robinson je zajat a prodán do otroctví. Podaří se mu utéct na portugalské lodi, ale loď ztroskotá a on se ocitne sám na opuštěném ostrově, kde je nucen naučit se přežít. Obdělá kousek půdy, ochočí si několik zvířat, postaví krb a i jinak svůj nechtěný příbytek dále zdokonaluje. V průběhu života na ostrově uvidí Robinson ztroskotanou loď, na které přežil jen pes. Crusoe z této lodě také použil mnoho předmětů a zbraní. Jednoho dne narazí na stopy v písku. Patří lidojedům. Vysvobodí jejich oběť a podle dne této události nazve zachráněného Pátkem. Pátek je velice učenlivý a brzy se naučí anglicky. Jediné rozpory mezi nimi pramení z rozdílu v jejich vyznání. Po 28 letech Robinsonova pobytu na ostrově zakotví u břehu anglická loď, na které propukla vzpoura. Robinson kapitánovi pomůže vzbouřence porazit a za odměnu je i s Pátkem vzat na palubu a odvezen do Anglie. Vůdce povstání nechají na ostrově se vším, co zde Robinson zbudoval. V Anglii se shledává se svými příbuznými, které opustil, ale vidí i mnoho negativních změn ve společnosti (kritika společnosti), například stoupl počet otroků. Po sedmi letech se vrací na ostrov, aby našel velmi civilizovanou skupinu lidí.
 
 ### Téma a motiv
 
@@ -16,7 +16,7 @@ Děj začíná ve chvíli, kdy se do anglického Yorku přistěhuje obchodník j
 
 - **motiv**
 
-Pustý ostrov; 30 let samoty; lidojedi; ztroskotání; příroda; osud; útěk; ztroskotání; přátelství.
+Pustý ostrov; 30 let samoty; kritika společnosti; lidojedi; ztroskotání; příroda; osud; útěk; ztroskotání; přátelství.
 
 ### Časoprostor
 
