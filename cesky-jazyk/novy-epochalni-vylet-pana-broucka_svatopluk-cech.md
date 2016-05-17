@@ -64,11 +64,13 @@ Pásmo vypravěče.
 
 - **Ruchovci**
 
-Škola národní; usilovali o posílení vlastenectví, myšlenka slovanské jednoty, silný zájem o venkov, historická tématika (auror např. S. Čech).
+Škola národní; usilovali o posílení vlastenectví, myšlenka slovanské jednoty, silný zájem o venkov, historická tématika (autor např. S. Čech).
 
 - **Lumírovci**
 
 Škola kosmopolitní; chtěli povznést českou literaturu na evropskou úroveň, prostřednictvím překladů, experimentovali s evropskými žánry – např. sonet (autor např. J. Vrchlický) 
+
+---
 
 - **Jaroslav Vrchlický**
 
