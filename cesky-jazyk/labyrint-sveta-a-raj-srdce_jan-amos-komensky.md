@@ -26,9 +26,9 @@ Pomíjivost světa.
 
 - **motiv**
 
+Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským živokem; kritika společenských nedostatků.
 
 ### Časoprostor
-Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským živokem; kritika společenských nedostatků.
 
 17\. století. Smyšlené město, které představuje celý svět.
 
@@ -72,16 +72,14 @@ Přímá řeč.
 
 ### Kontext autorovy tvorby
 
-Dílo vzniká ještě před jeho odchodem z Čech, alegorické dílo. Popis tehdejší společnosti –> její ostrá kritika – přetvářka a touha po majetku. Psáno bohatou češtinou, složitá souvětí.
+Dílo vzniká ještě před jeho odchodem z Čech, alegorické dílo. Popis tehdejší společnosti – její ostrá kritika, přetvářka a touha po majetku. Psáno bohatou češtinou, složitá souvětí.
 
 ### Literální / obecně kulturní kontext
 
 - **období baroka**
 
-Během 17. století. Velký vliv má zlatá barva; zdobný směr, sochy v pohybu. Život se opět točí kolem církve; jedná se o opak renesance. Zásada "Buď to jde po dobrém nebo za pomoci panovníka. Vznikají nový svatí, př. Jan Nepomucký.
+Během 17. století. Velký vliv má zlatá barva; zdobný směr, sochy v pohybu. Život se opět točí kolem církve; jedná se o opak renesance. Zásada "Buď to jde po dobrém nebo za pomoci panovníka. Vznikají noví svatí, př. Jan Nepomucký.
 
-- **znaky barokní literatury**
-
-Hlavně náboženská literatura, duchovní písně a lyrika. Pro dnešního čtenáře velice složité, převládají velmi dlouhá souvětí. Je založen ana kontrastech/protikladech: *bůh–ďábel, nebe–peklo, voda–víno*. Klade důraz hlavně na city ne na rozum. 
+Hlavně náboženská literatura, duchovní písně a lyrika. Pro dnešního čtenáře velice složité, převládají velmi dlouhá souvětí. Je založen ana kontrastech/protikladech: *bůh–ďábel, nebe–peklo, voda–víno*. Klade důraz hlavně na city, ne na rozum. 
 
 **Torquisto Tasso**: ital, Osvobozený Jeruzalém (nábožensko-filozofický epos, konflikt křesťanů a muslimů – velmi aktuální i v dnešní době, černo-bíle pojaté postavy).
