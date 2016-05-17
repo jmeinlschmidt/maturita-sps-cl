@@ -68,7 +68,7 @@ Rým střídavý nebo sdružený.
 
 ### Kontext autorovy tvorby
 
-Další básnické sbírky - **Radosti života**, **Nové verše**, **Don Juan**, **Potulná národ**.
+Další básnické sbírky - **Radosti života**, **Nové verše**, **Don Juan**, **Potulný národ**.
 
 Dobové kritiky Gellnera odsoudily s odmítavostí a podrážděností. Poukazovaly na nemorálnost, nízkost, vulgaritu a monotematičnost jeho prvotiny. Nadšení sklidil pouze u blízkého okruhu přátel z básnických a uměleckých kruhů. Přijetí širší veřejnosti přišlo až po jeho smrti s nástupem další a další generace čtenářů.
 
