@@ -1,13 +1,13 @@
 # Software
 
-1. Rozdělení aplikací a softwarové licence
-1. Tabulkové procesory
-1. Rastrová grafika
-1. Vektorová grafika
+1. [Rozdělení aplikací a softwarové licence](licence.md)
+1. [Tabulkové procesory](tabulkove-procesory.md)
+1. [Rastrová grafika](rastrova-grafika.md)
+1. [Vektorová grafika](vektorova-grafika.md)
 1. [Značkovací jazyk HTML](html.md)
-1. Kaskádové styly CSS
-1. Značkovací jazyk XML
-1. Databáze a dotazovací jazyk SQL
+1. [Kaskádové styly CSS](css.md)
+1. [Značkovací jazyk XML](xml.md)
+1. [Databáze a dotazovací jazyk SQL](databaze.md)
 1. [Algoritmizace](algoritmizace.md)
 1. [Datové struktury](datove-struktury.md)
 1. [Vývojové diagramy, UML a návrhové vzory](vyvojove-diagramy.md)
