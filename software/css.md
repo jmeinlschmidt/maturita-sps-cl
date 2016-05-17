@@ -18,6 +18,8 @@ selektor {
 }
 ```
 
+Hodnoty barev lze zapisovat v několika formátech. Jednak lze použít anglický název pro barvu (např. `red` pro červenou), jednak hexazápis (např. `#ff0000` pro červenou), jednak RGB (např. `rgb(255, 0, 0)` pro červenou) atp.
+
 ## Selektory
 
 Základním selektorem je selektor pro element, který se zapisuje jménem dané značky (bez špičatých závorek), tzn. např. `div` či `img`.
