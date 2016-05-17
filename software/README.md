@@ -16,9 +16,9 @@
 1. [Objektově orientované programování](objektove-orientovane-programovani.md)
 1. [Událostmi řízené programování](udalostmi-rizene-programovani.md)
 1. [Webové aplikace](webove-aplikace.md)
-1. Komunikace na linkové vrstvě OSI/ISO - aktivní prvky
-1. Komunikace na síťové vrstvě OSI/ISO - směrovače
-1. Bezdrátové sítě
+1. [Komunikace na linkové vrstvě OSI/ISO - aktivní prvky](aktivni-prvky.md)
+1. [Komunikace na síťové vrstvě OSI/ISO - směrovače](smerovace.md)
+1. [Bezdrátové sítě](bezdratove-site.md)
 1. [GNU/Linux - struktura, zavádění OS](linux_struktura-a-zavadeni-os.md)
 1. [Windows - struktura, zavádění OS](windows_struktura-a-zavadeni-os.md)
 1. [GNU/Linux - instalace a konfigurace OS](linux_instalace-a-konfigurace-os.md)
