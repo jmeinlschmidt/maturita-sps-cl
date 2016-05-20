@@ -129,7 +129,7 @@ Požadavek se přenáší pomocí URL adresy a je omezen zhruba na 2000 znaků. 
 
 ### 24. Popište, jak funguje požadavek typu POST a jak mohou být předány data serveru?
 
-Požadavek se přenášý samostaně a není součástí URL. Parametry jsou skryté a neukládají se.
+Požadavek se přenáší samostaně a není součástí URL. Parametry jsou skryté a neukládají se.
 
 ### 25. Co je to AJAX a jaké je využití u webových aplikací?
 
