@@ -64,4 +64,10 @@ Vědecko-fantastické a satiricko–kritické drama (s prvky utopismu).
 
 ### Kontext autorovy tvorby
 
+Další díla např.:
+
+- **Bílá nemoc**
+
+Divadelní hra. Po světě se rozšiřuje choroba. Dr. Galén zná lék, ale pro vydání požaduje celosvětový mír. Majitel zbrojařských závodů chce vyléčit. Zastavení zbrojení maršál odmítá; nakonec je také nakažen, a tak souhlasí. Doktor Galén je cestou ušlapán a lék zničen.
+
 ### Literální / obecně kulturní kontext

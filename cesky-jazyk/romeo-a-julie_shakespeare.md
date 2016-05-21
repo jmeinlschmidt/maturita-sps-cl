@@ -84,6 +84,14 @@ Vliv na další druhy umění (filmové zpracování, divadelní představení, 
 
 Největší dramatik světové literatury. Neví se kdy přesně se narodil odhaduje se 23.4.1564, jisté je však pouze to že byl pokřtěn 26.4.1564. Narodil se v Anglii ve Stratfordu nad Avonou.
 
+---
+
+Další díla např.:
+
+- **Hamlet**
+
+Divadelní hra. Dánskému přinci Hamletovi se zjeví duch nedávno zesnulého otce. Poví mu o své vraždě - vrahem je Hamletův strýc Claudius. Vdova po králi se vdává za Claudia. Hamlet prahne po pomstě, předstírá šílenství. Herci zincinují královu vraždu. Claudius utíká. Claudius vyhání Hamleta do Anglie s dopisem, že mají zabít toho, kdo jej přinese. Hamlet upraví dopis a vrací se do Dánska. Nakonec se navzájem zabije s Claudiem a královna vypila jed ve vínu.
+
 ### Literální / obecně kulturní kontext
 
 - **Renesance**

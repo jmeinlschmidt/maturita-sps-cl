@@ -28,11 +28,11 @@ Praha a Sázava, 1968 – 1989.
 
 Zprvu retrospektivní postup, později chronologický. Výpisky z Kvidova deníčku. Některé kapitoly zpracovány jako divadelní hra.
 
-Obsahuje 244 stran. 33 kapitol.
+Členěno na kapitoly.
 
 ### Literární druh a žánr
 
-Epika. Román - rodinný, humoristický, autobiografický.
+Epika. Román - rodinný, společenský, humoristický, autobiografický.
 
 ### Vypravěč / lyrický subjekt
 
@@ -80,8 +80,9 @@ Pásmo vypravěče, er-formou.
 
 ### Kontext autorovy tvorby
 
-Další díla např. **Výchova dívek v Čechách**, **Román pro ženy**, **Účastníci zájezdu**, **Názory na vraždu**.
+Bylo zfilmováno. Rané období autorovy tvorby – jedno z jeho prvních děl; česká literatura po roce 1990. V době vydání byla kniha velmi úspěšná. Vrcholné dílo autora.
 
+Další díla např. **Výchova dívek v Čechách**, **Román pro ženy**, **Účastníci zájezdu**, **Názory na vraždu**.
 
 ### Literální / obecně kulturní kontext
 

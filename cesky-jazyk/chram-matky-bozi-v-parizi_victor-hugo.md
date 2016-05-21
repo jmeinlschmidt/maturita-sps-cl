@@ -73,3 +73,7 @@ Pásmo vypravěče.
 ### Kontext autorovy tvorby
 
 ### Literální / obecně kulturní kontext
+
+- **Romantismus**
+
+*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román. 
