@@ -72,6 +72,16 @@ Pásmo vypravěče.
 
 ### Kontext autorovy tvorby
 
+Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy romány. Dílo bylo mnohokrát zfilmováno.
+
+--- 
+
+Další díla např.:
+
+- Bídníci
+- Dělníci moře
+- Cromwell
+
 ### Literální / obecně kulturní kontext
 
 - **Romantismus**
