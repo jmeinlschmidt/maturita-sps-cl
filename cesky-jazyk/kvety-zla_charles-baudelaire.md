@@ -69,6 +69,20 @@ Verše jsou pravidelné. Rým většinou střídavý (ABAB) nebo obkročný (ABB
 
 Kniha odsouzena z mravnostních důvodů.
 
+---
+
+Další díla např.:
+
+- **Malíř moderního života**
+
+- **Umělé ráje**
+
+Studie narkotických stavů.
+
+- **Malé básně v próze**
+
+Vyšly posmrtně, 50 krátkých próz, tématem je Paříž.
+
 ### Literální / obecně kulturní kontext
 
 - **Symbolismus**
@@ -78,3 +92,37 @@ Umělecké hnutí. Cílem zachytit věc, která nelze racionálně popsat (nála
 - **Dekadence** (úpadek)
 
 Morbidita, mysticismus, erotická přesycenost.
+
+---
+
+Další autoři např.:
+
+- **Paul Verlaine**
+
+(1844–1896) [pól verlén], představitel prokletých básníků a symbolismu. Žil bohémským životem. Žil s Rimbaudem, propadl tuláctví a alkoholu, rozchod = postřelil ho, 2 roky ve vězení za sodomii.
+
+Moudrost - předvedení polepšení.
+
+Dávno a nedávno, Verše saturnské – inspirovány Baudelairem.
+
+- **Jean Artur Rimbaud**
+
+(1854–1891) [žan artyr rembo] Zřejmě nejproslulejší z prokletých básníků. Velmi nadaný – geniální dítě, výborný student, ale nepřizpůsobivý – 2 x utekl z domova. Podle F. X. Šaldy „božský rošťák“. Veškeré dílo napsal mezi 15. a 20. rokem, publikoval jen v časopisech. 
+
+Mé tuláctví – forma sonetu, volné řazení představ.
+
+Román – příběh letní lásky, rozděleno do čtyřverší.
+
+Sbírka básní v próze Iluminace - objevena náhodně, tajemné asociace, vydána posmrtně Verlainem.
+
+Skladba Opilý koráb (1871) - asi nejznámější dílo, koráb = básník.
+
+- **Oscar Wilde**
+
+(1854–1900) dramatik, básník, prozaik, představitel dekadence, Angličan. Ženatý s bohatou ženou – zabezpečen, 2 synové. Homosexuální vztah – odsouzen k nuceným pracím, žena ho opustila, zemřel v bídě. 
+
+Sbírka Básně. 
+
+Drama: Jak je důležité míti Filipa, Ideální manžel.
+
+Próza: pohádky Šťastný princ a jiné pohádky; Obraz Doriana Graye (1891) – dekadentní román.

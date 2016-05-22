@@ -86,16 +86,28 @@ V 18. století věda dospěla k novému chápání světa; centry Londýn a Pař
 
 - **klasicismus**
 
-Od latinského slova vzorný,vynikající.
+17 století. Vznikl ve Francii. Odklon od víry. Oporou je rozumová báseň (cit je podřízen rozumu). Vzorem je antické umění. Krása je hledána v přírodě a pravdě. Tvorba má jednotná pravidla a řád. Literatura má žánr nízký (komedie, frašky) a vysoký (tragédie, eposy).
 
-Umělecký směr. Autoři usilují o tvorbu zaměřenou na společenské a mravní problémy. Vychází z racionalismu (důraz na rozum).
+---
 
-K základním znakům tohoto proudu patří jednotné principy, pevný řád a rozumová kázeň. Autoři přísně dodržovali myšlenku jednoty místa, času a děje. (Moliére)
+Další autoři např.:
 
-- **osvícenectví**
+- **Pierre Corneille**
 
-Autoři staví na rozumu a vědě a snaží se o překonání náboženské ideologie a absolutismu. Ideologie západní Evropě v 18.století, zejména v Anglii a Francii. Rozvíjela se technika, průmysl i přírodní vědy, a proto stoupenci tohoto názoru prosazovali svobodu vědeckého bádání. 
+(1606–1684) Autor tzv. hrdinských tragédií, celkem 22 her inspirovaných antikou. Vytvořil pravidla tragédie. 
 
-- **preromantismus**
+Horatius, Polyeuktes, Cinna, Lhář
 
-Vytvářelo ho především měšťanstvo. Vzorem jim je venkovský, nezkažený člověk a prostý způsob života. Autoři zdůrazňovali citové hodnoty prostého člověka a tvůrčí svobodu. Odmítá feudalismus, ale také chladné rozumářství.
+- **Jean Racine**
+
+(1639–1699) Tragédie psychologické, s ženskými hrdinkami, milostně laděné příběhy. 
+
+Např. Faidra: Faidra eroticky touží po nevlastním synovi Hippolytovi, ten však miluje Aricii. Faidra ve vzteku žaluje manželovi Théseovi, a ten nechává syna usmrtit bohy. Faidru tíží svědomí, páchá sebevraždu.
+
+Andromacha, Britannicus, Berenika, Bajazet, Ifigénie v Aulidě, Esther.
+
+- **Jean de La Fontaine**
+
+(1621–1695) Básník, prozaik, dramatik, člen Francouzské akademie. 
+
+Eunuch, Škádlivé povídky, básně Adónis.

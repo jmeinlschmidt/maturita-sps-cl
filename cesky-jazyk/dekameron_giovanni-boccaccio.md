@@ -66,4 +66,62 @@ Pásmo vypravěče.
 
 ### Kontext autorovy tvorby
 
+Novely vznikaly v letech 1348–1353, autor se nechal inspirovat antickými, orientálními a dobovými prameny, ale také vlastními milostnými zážitky. Kniha byla církví odsouzena, ale dnes je vnímána jako vrcholné dílo italské renesance. Sám autor ji chtěl spálit, ale jeho přítel Francesco Petrarca mu to rozmluvil.
+
+---
+
+Další díla např.:
+
+- **Život Dantův**
+
+První Dantův životopis.
+
+- **O rodokmenech pohanských bohů**
+
+Latinsky, inspirace řeckým a římským bájeslovím.
+
+- **Fiesolské nymfy**
+
+Báseň, pastýřský epos.
+
 ### Literální / obecně kulturní kontext
+
+- **Renezance**
+
+*14-15 století.* Zrodila se v Itálii, ve Florencii. Společně se vyvíjel i myšlenkový směr humanismus. Humanismus = zdůrazňuje lidskou osobnost, svobodný rozvoj osobnosti. Člověk věří ve vlastní schopnosti a rozum. Hodně nauková literatura: cestopisy, lékařské knihy. Hojné využití alegorie (jinotaj)= konkrétní obraz slouží k vyjádření abstraktního pojmu (síla = lev). 
+
+---
+
+Další autoři např.:
+
+- **Dante Alighieri**
+
+(1265-1321) Z Florencie, proti papeži – 20 let ve vyhnanství. 
+
+Božská komedie – psáno 15 let ve vyhnanství, duchovní epos, vyjádření lásky k Beatrici.
+
+- **Francesco Petrarca**
+
+(1304-1374) Z Florencie, ve vyhnanství – studoval práva v Avignonu. Kněz, platonická láska se šlechtičnou Laurou. 
+
+Sonety Lauře (Zpěvník) – dvě části (za života Laury, po její smrti)
+- 366 milostných básní, většina formou sonetu.
+
+- **William Shakespeare**
+
+(1564–1616) V 18 letech se oženil o osm let starší ženou Annou Hathawayovou (26 let). Před rokem 1592 se Shakespeare připojil ke kočovným divadelníkům. Roku 1592 hrál v různých londýnských divadelních společnostech. 
+
+**I. období** – píše hlavně veselohry, historické hry (z anglických dějin a starověkých dějin)
+
+komedie: Zkrocení zlé ženy, Sen noci svatojánské, Kupec benátský, Mnoho povyku pro nic, Veselé paničky windsorské, Jak se vám líbí, Večer tříkrálový
+
+Ve většině her je hlavní hrdinkou energická žena, protipól středověké ženy-světice
+historické hry: Jindřich IV., Jindřich V., Jindřich VI., Richard II., Richard III., Julius Caesar
+
+tragédie: Romeo a Julie (1595) – předjímá následující tvůrčí období
+
+**II. období** – zřetelný obrat, optimismus vyprchává, hry jsou pesimističtější
+
+tragédie: Hamlet, Othello, Macbeth, Král Lear, Antonius a Kleopatra
+
+Sonety – sbírka 154 sonetů (znělek), část oslavuje přítele, část dámu černé pleti

@@ -104,10 +104,43 @@ Pásmo vypravěče v ich-formě. Typické jsou dialogy - Vilém promlouvá s Ads
 
 ### Kontext autorovy tvorby
 
-Další díla např. **Ostrov včerejšího dne**, **Tajemný planem královny Loany** či **Pražský hřbitov**.
+Další díla např.:
+
+- **Ostrov včerejšího dne**
+- **Tajemný planem královny Loany**
+- **Pražský hřbitov**
 
 ### Literální / obecně kulturní kontext
 
 Avantgardní literatura 2. poloviny 20. století (60. léta až po současnost). 
 
 Autentičnost, s tím související podrobné popisy prostředí, jedinečnost, historický kontext, který se prolíná s detektivním žánrem, hororovými prvky, mysticismem a s filosofickými úvahami.
+
+--- 
+
+Další autoři např.:
+
+- **Jorge Luis Borges**
+
+(1899–1986) Argentinský spisovatel. Většinu času trávil v otcově knihovně. V 6 letech dokonale ovládal angličtinu a později i francouzštinu a němčinu. 
+
+*Dějiny věčnosti*, *Šest problémů pro Dna Isidra Parodiho*.
+
+- **Salman Rushdie**
+
+(\*19.6.1947) Britský spisovatel indicko-muslimského původu. Jeho první román *Grimus* zůstal bez povšimnutí, proslavil ho až jeho druhý román Děti půlnoci. Studoval historii na Cambridgi. Než se stal spisovatelem, pracoval pro dvě reklamní agentury. V roce 2007 byl Rushdiemu udělen rytířský titul za zásluhy o literaturu. V květnu 2008 byl zvolen do americké akademie umění a literatury.
+
+*Děti půlnoci*, *Satanské verše*, *Hamba*.
+
+- **Vladimír Nabokov** 
+
+(1899–1977) Psal ruskou a anglickou prózu a poezii pod pseudonynem Sirin. Pocházel z dobře situované rodiny, což mu umožnilo se kvalitně vzdělávat. Studoval v Petrohradě, kde se naučil anglicky a francouzsky. Přestěhoval se do Paříže, kde pracoval jako učitel, překladatel a instruktor tenisu. Po německé okupaci působil na Cornellově univerzitě jako profesor ruské literatury. Také byl velmi uznávaným znalcem motýlů.
+
+*Mašeňka*, *Smích ve tmě*, *Pozvání na popravu*, *Dar*.
+
+- **Vladimír Macura**
+
+(1945–1999) Český spisovatel, literární vědec a kritik. Překládal z estonštiny. Získal Státní cenu za literaturu za díla Guvernantka a Český sen. Ve svých bádáních se zabýval především dobou NO. Roku 1993 se stal ředitelem Ústavu pro českou literaturu. 
+
+*Guvernantka*, *Medikus*, *Informátor*, tetralogie *Ten, který bude*.
+

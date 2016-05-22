@@ -60,12 +60,49 @@ Pásmo vypravěče, er-forma.
 
 ### Veršovaná výstavba
 
+\-\-\-
+
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
 
-Román je první ze čtyř, které Havlíček za svého života dokončil.
+Román je první ze čtyř, které Havlíček za svého života dokončil. Bylo zfilmováno.
 
-Bylo zfilmováno.
+---
+
+Další díla např.:
+
+- **Neviditelný**
+
+Děj se odehrává v bohaté rodině, která se postupně rozpadá. Hlavním hrdinou je inženýr Petr, který si vezme dědičku továrny. Po svatbě zjistí, že s nimi v domě žije bláznivý strýček, který si myslí, že je neviditelný. Tento stav postupně rozvrátí jeho manželství a Petrova žena se nakonec také zblázní.
+
+- **Ta třetí**
+
+Příběh bezvýznamného úředníka, který se potácí mezi dvěma ženami. Nakonec ztrácí obě a zvolí si tu třetí - smrt.
+
+- **Helimadoe**
+
+Příběh pěti sester (Helena, Lidmila, Marie, Dora, Ema), které jsou ovládány podivínským otcem lékařem. Dílem provází mladý vypravěč Emil. 
 
 ### Literální / obecně kulturní kontext
+
+Další autoři např.:
+
+- **Egon Hostovský**
+
+(1908–1973) Redaktor v nakladatelství, později úředník ministerstva zahraničí. R. 1941 emigroval do USA, zaměstnanec československého konzulátu v New Yorku. Po 2. sv. válce se vrátil, r. 1948 znovu emigroval (Dánsko, Norsko, USA).
+
+*Žhář*, *Případ profesora Körnera* (líčí profesora s komplexem méněcennosti, který se snaží překonat volbou přátel a manželky, vyhledává silnější osobnosti, jeho snaha ztroskotá a on podléhá ještě větším depresím.).
+
+- **Jarmila Glazarová**
+
+(1901–1977) Měla o 29 strašího manžela, lékaře Podivínského. Pracovala jako kulturní atašé na československém velvyslanectví v Moskvě.
+
+*Vlčí jáma*, *Advent* (Františka hledá své ztracené dítě, když ho najde, zachrání ho před jistou smrtí a pomstí se na surovém muži a jeho milence, kteří způsobili její a synovo utrpení.).
+Václav Řezáč (1901-1956)
+- vlastním jménem Václav Voňavka
+- redaktor Lidových novin
+- ředitel nakladatelství Československý spisovatel 
+dílo: Rozhraní, Kluci, hurá za ním, Poplach v kovářské uličce, Černé světlo
+Bitva - Odehrává se v létě 1947 a líčí boj mezi komunistickými a antikomunistickými silami o pohraničí. Autor vycházel spíše z předem daných představ o osidlování než z faktů na místě poznaných.
+

@@ -62,15 +62,15 @@ Pásmo vypravěče, ich-formou.
 
 Dílo zfilmováno, např. Trosečník, Tajúplný ostrov, Ztraceni, Kdo přežije...
 
-- **Moliére** - **Lakomec**
+Za své první dílo *The Shortest Way with the Dissenters* byl uvězněn na 5 měsíců. Politicky činný, pokoušel se sjednotit parlamenty Anglie a Skotska.
 
-Viz samostatný PL.
+---
 
-- **Jonathan Swift** - **Gulliverovy cesty**
+Další díla např.:
 
-Čtyřdílný filozofický román; Cesta do Liliputu, Cesta do Brobdingnagu, Cesta do Laputy, Cesta do země Hvajninimů.
-
-Gulliver nejprve vypráví o sobě a své rodině. Jak byl poprvé sveden k cestování. V jižních mořích ale ztroskotá a plave, až se dostane šťastně na břeh v zemi Liliputu. Je zajat a odvezen dále do země. Liliputský císař se vypraví za G. do vězení a ustanovuje učence, kteří mají G. naučit jejich řeči. G. si sice svou laskavostí dopomůže k přízni, ale přesto jsou mu odebrány pistole a šavle. G. začne bavit neobyčejným způsobem císaře a jeho šlechtice a šlechtičny a je za jistých podmínek puštěn na svobodu. G. jede do hlavního města liliputské říše – Mildenda, kde rozmlouvá s nejvyšším tajemníkem o záležitostech říše a nabízí se, že bude císaři sloužit ve válkách. Potom překazí neobyčejnou válečnou lstí vpád a je vyznamenán vysokou hodností. Císařovnin palác zachvátí náhodou požár a G. přispěje k záchraně zbývající části paláce. G. zkoumá vědu, zákony a zvyky Liliputských. Náhle se však dozví, že má být obžalován z velezrady a uteče do sousední země – Blefuska. Chvíli tam žije a pak najde šťastnou náhodou možnost, jak odejít. Po menších nesnázích se dostane zpět do Anglie.
+- **Dobrodružství piráta Singletona**
+- **Moll Flandersová**
+- **Deník morového roku**
 
 ### Literální / obecně kulturní kontext
 
@@ -88,6 +88,30 @@ K základním znakům tohoto proudu patří jednotné principy, pevný řád a r
 
 Autoři staví na rozumu a vědě a snaží se o překonání náboženské ideologie a absolutismu. Ideologie západní Evropě v 18.století, zejména v Anglii a Francii. Rozvíjela se technika, průmysl i přírodní vědy, a proto stoupenci tohoto názoru prosazovali svobodu vědeckého bádání. 
 
-- **preromantismus**
+---
 
-Vytvářelo ho především měšťanstvo. Vzorem jim je venkovský, nezkažený člověk a prostý způsob života. Autoři zdůrazňovali citové hodnoty prostého člověka a tvůrčí svobodu. Odmítá feudalismus, ale také chladné rozumářství.
+Další autoři např.:
+
+- **Denis Diderot**
+
+(1713-1784) Francouz, filozof, spisovatel, teoretik umění, výtvarný kritik. Hlavní organizátor Encyklopedie, redaktor – 1000 hesel
+román Jeptiška – kritika praxe v klášterech, psaný formou dopisů hrdinky Zuzany.
+
+- **Voltaire**
+
+(1694-1778) Francouz, dramatik, spisovatel, filozof, historik. Často ostře a jízlivě útočil proti každému projevu nesvobody – často ve vězení. Část života musel strávit v Anglii a v Berlíně, zemřel na svém panství na hranicích Švýcarska a Francie . 
+
+Candide neboli Optimismus – satiricko-filozofický román, hlavní hrdina – morálně čistý Candid.
+
+- **Charles Louis de Montesquieu**
+
+(1689-1755) Francouz, historik, filozof, myslitel, spisovatel
+- milovník římského starověku, vysoký právní úředník. 
+
+Perské listy – satirický román, zesměšňuje marnivost a povrchnost ve vyšších kruzích očima Peršanů
+
+- **Jonathan Swift**
+
+(1667-1745) Angličan.
+
+Gulliverovy cesty – utopický alegorický román – fiktivní cestopis kapitána Gullivera = kritika anglické společnosti

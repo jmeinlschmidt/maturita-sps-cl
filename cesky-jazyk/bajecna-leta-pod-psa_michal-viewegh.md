@@ -18,7 +18,7 @@ Popis autorova mládí v době komunismu.
 
 - **motiv**
 
-Komunismus; cenzura; dospívání; zesměšňování; neveselá doba veselýma očima; láska; rodina.
+Komunismus; cenzura; dospívání; zesměšňování; neveselá doba veselýma očima; láska; rodina; v době komunismu vzdělání nic neznamenalo.
 
 ### Časoprostor
 
@@ -82,10 +82,50 @@ Pásmo vypravěče, er-formou.
 
 Bylo zfilmováno. Rané období autorovy tvorby – jedno z jeho prvních děl; česká literatura po roce 1990. V době vydání byla kniha velmi úspěšná. Vrcholné dílo autora.
 
-Další díla např. **Výchova dívek v Čechách**, **Román pro ženy**, **Účastníci zájezdu**, **Názory na vraždu**.
+Další díla např.:
+
+- **Román pro ženy**
+
+2001, román, který je tak trochu parodií na typické ženské romány.
+
+- **Účastníci zájezdu**
+
+1996, román, vykreslení situace autobusového zájezdu do zahraničí.
+
+- **Názory na vraždu**
+
+1990, novela s detektivní zápletkou.
 
 ### Literální / obecně kulturní kontext
 
 - **Próza konce 20. století**
 
 Začíná sametovou revolucí 17. listopadu 1989. Spojení tří literárních proudů, konec politické cenzury. Mnoho ne zcela hodnotných knih (vycházely zbrkle s mnoha chybami). Existují soukromá nakladatelství, obnova kontaktů se světem.
+
+---
+
+Další autoři:
+
+- **K. Legátová**
+
+(1919-2012) Prozaička, autorka rozhlasových her. Spjata s Brnem, celý život učitelka. 
+
+Želary.
+
+- **Miloš Urban**
+
+(* 1967) Spisovatel, překladatel, redaktor. Rodiče diplomaté, vyrostl v Londýně. Vystudoval anglistiku a nordistiku na UK. 
+
+Pole a palisáda, Hastrman – cena Magnesia Litera, Poslední tečka za rukopisy.
+
+- **Jaroslav Rudiš**
+
+(* 1972) Prozaik, scenárista, dramatik. Vystudoval němčinu a dějepis na PdF v Liberci. Vystřídal mnoho profesí (manager kapely, prodavač, učitel, novinář). Redaktor deníku Právo. 
+
+Nebe nad Berlínem, scénář k filmu a román Grandhotel, komiks Alois Nebel.
+
+- **Petra Hůlová**
+
+(* 1979) Prozaička z umělecké rodiny. Vystudovala obor mongolistika a kulturologie. 
+
+Paměť mojí babičce – cena Magnesia Litera, Umělohmotný třípokoj, Stanice Tajga.

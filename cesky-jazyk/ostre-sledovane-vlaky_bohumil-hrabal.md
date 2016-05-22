@@ -60,13 +60,35 @@ Dívka Miloše.
 
 ### Vyprávěcí způsoby
 
+Přímá řeč.
+
 ### Typy promluv
 
+Pásmo vypravěče.
+
 ### Veršovaná výstavba
+
+\-\-\-
 
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
+
+Další díla např.:
+
+- **Pábitelé**
+
+- **Taneční hodiny pro starší a pokročilé**
+
+Celý text je jedna dlouhá věta, ovlivněn moderní prózou. 
+
+- **Obsluhoval jsem anglického krále**
+
+Hlavní hrdina Jan Dítě je malého vzrůstu, vnucuje se do vyšších vrstev.
+
+- **Slavnosti sněženek**
+
+Soubor povídek o obyvatelích chytové oblasti Kersko.
 
 ### Literální / obecně kulturní kontext
 
@@ -75,3 +97,19 @@ Dívka Miloše.
 Oficiálně vydávaná i zakázaná.
 
 Uvolnění kontroly nad literaturou, scelování povolené a zakázané literatury, formální i jazykové experimenty. Pro českou literaturu představovala 60. léta 20. století dobu nebývalého rozkvětu. V letech 1958 - 1968 došlo k oslabení moci komunistické vlády, což bylo způsobeno zejména vlnou kritiky stalinismu v 50. letech i pozdější ekonomickou krizí. V české kultuře se tato situace projevila především uvolněním kontroly nad vydávanými pracemi, postupně tak došlo ke scelování povolené a do té doby zakázané literatury i rozšíření publikačních možností dříve zakázaných autorů. Hledáním nových způsobů vyjádření svých názorů i pocitů spisovatelé reagovali zejména na schmetismus literatury 40. a 50. let. Básníci, prozaici i dramatici se často pouštěli do formálních i jazykových experimentů, mnozí byli ovlivněni existencialismem. V českých podmínkách se uplatnil i nový román, absurdní drama a experimentální poezie. Výrazným kulturním fenoménem doby se staly tzv. malé scény, jako např. Semafor.
+
+--- 
+
+Další autoři např.:
+
+- **Ota Pavel**
+
+Spisovatel a novinář v Československém rozhlase. 
+
+*Smrt krásných srnců* (povídky o dětství a dospívání, chalupě převozníka Proška u řeky Berounky, židovských transportech, poválečné nadšení a zklamání), *Jak jsem potkal ryby* (navázání na povídky Smrt krásných srnců), *Zlatí úhoři* (povídky o lásce k rybaření), *Dukla mezi mrakodrapy* (o fotbalistech Dukly, povídky se sportovní tematikou).
+
+- **Vladimír Páral**
+
+(*1932) Pracoval jako výzkumný pracovník v chemii, poté se stal spisovatelem z povolání. 
+
+*Veletrh splněných přání*, *Soukromá vichřice* (román o nemožnosti změnit dosavadní existenci), *Katapult* (tragikomedický obraz ústeckého úředníka chemičky a jeho mileneckých vztahů).

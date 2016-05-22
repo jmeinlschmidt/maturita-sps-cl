@@ -58,6 +58,8 @@ Er-forma.
 
 ### Postava
 
+\-\-\-
+
 ### Vyprávěcí způsoby
 
 ### Typy promluv
@@ -69,6 +71,8 @@ Pravidelný verš. Rým většinou střídavý.
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
+
+Básnická sbírka o 13 básních je Erbenovým největším dílem, vyšla roku 1853. Kniha je výsledek téměř 20letého úsilí, básně nejprve vycházely časopisecky, první (Poklad) v roce 1838.
 
 - **rysy Erbenovy balady**
 
@@ -85,3 +89,7 @@ Fáze:
 1. Obranná (70. léta 18. Století – poč. 19. stol.)
 2. fáze ofenzivní (poč. 19. až 20. léta 19. století)
 3. fáze vyvrcholení (30. až 50. léta 20. stol.)
+
+---
+
+Soubor epických básní: Petr Bezruč - Slezské písně.

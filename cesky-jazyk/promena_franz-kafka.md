@@ -86,9 +86,20 @@ Pásmo vypravěče. Vnitřní monology Řehoře.
 
 Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesimismus. Záhadné, neznáme postavy (nemají jméno atd.). O hlavních postavách nevíme téměř nic (neznáme jejich minulost, vzhled, rodinné zázemí). Prvky v knize - odcizení člověka od rodiny, nereálnost.
 
-### Literální / obecně kulturní kontext
+---
 
-Další autoři např. **Franz Werfel** (Čtyřicet dnů), **Gustav Meyrink** (Golem).
+Další díla např.:
+
+- **Process**
+
+Román. Hlavní hrdina Josef K. od dne svých 30. narozenin
+- čím se provinil? – žil monotónní život, nesnažil se vymanit ze stereotypu, neprojevil odpor vůči procesu.
+
+- **Nezvěstný (Amerika)** 
+
+Nedokončený román, mladík cestuje lodí do Ameriky, bydlí u přítele. 
+
+### Literální / obecně kulturní kontext
 
 - **Světová próza, 1. polovina 20. století**
 
@@ -97,3 +108,19 @@ Tematicky i žánrově velmi pestrá. Řadu podnětů z přírodních a společe
 -	**Německy psaná literatura v českých zemích**
 
 Autoři, kteří byli německého původu a byli Židé. Měli problém s vydáváním svých knih, protože psali německy. Převážně žili v Praze. 
+
+---
+
+Další autoři např.:
+
+- **Franz Werfel**
+
+Z pražských německých spisovatelů čtenářsky nejpřístupnější autor. Světově proslulý dramatik a prozaik – velmi úspěšný i v USA, r. 1924 získal československou státní cenu. Syn židovského továrníka – sám být továrníkem nechtěl (schválně se neučil, šel studovat práva, žil bohémsky).
+
+Čtyřicet dnů (nejslavnější román, napínavý, z doby první světové války).
+
+- **Gustav Meyrink** 
+
+Nemanželské dítě herečky a ministra. Bankéř. Narozen ve Vídni, zemřel ve Starnbergu, v Praze prožil 25 let života. Často provokoval svými aférami – měl sklon k mystice – uvězněn za vyvolávání duchů a spiritismus → odchází z Prahy. Dokonale vystihuje tajemnou atmosféru magické Prahy.
+
+Golem (napínavý hrůzostrašný román z prostředí staré Prahy).

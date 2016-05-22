@@ -32,20 +32,96 @@ Chronologický postup s retrospektivou ve formě vzpomínek.
 
 ### Literární druh a žánr
 
-Epika. Psychologický román, psán prózou.
+Epika. Psychologický román s autobiografickými rysy, psán prózou.
 
 ### Vypravěč / lyrický subjekt
 
+Ich-forma - Stingo.
+
 ### Postava
+
+- **Stingo**
+
+Pochází z amerického Jihu – z Virgínie, Styronovo alter-ego - postava se silně autobiografickými rysy, začínající dvaadvacetiletý nadaný spisovatel, zamilovaný do Sophie, po většinu knihy panic, je mladicky naivní.
+
+- **Sophie**
+
+Polka z Krakova, nežidovka, traumatizovaná prožitkem pobytu v Osvětimi, blondýnka s modrýma očima = árijské rysy, miluje klasickou hudbu, hovoří plynně francouzsky a německy, byla vdaná a měla dvě děti, byla věřící, ale po Osvětimi víru ztratila, upnula se na Nathana a slepě ho milovala, touží po novém lepším životě, ale stále trpí pocity viny, je velmi citlivá, má ráda sex.
+
+- **Nathan**
+
+Američan, žid, schizofrenik závislý na drogách, v důsledku toho lhář, má dvě podoby – dokáže být milý, pracovitý, obětavý, vtipný, ale pod drogami je zlý, urážející, žárlivý a násilnický.
+
+- **vztahy mezi postavami**
+
+**Sophie + Nathan** – milenci, partneři, kteří se velmi milují, ale jejich vztah je bouřlivý
+
+**Sophie + Stingo** – přátelé, důvěrníci, Stingovi jedinému se Sophie svěřuje
+
+**Sophie + Nathan + Stingo** – přátelé, spolubydlící
 
 ### Vyprávěcí způsoby
 
+Přímá řeč.
+
 ### Typy promluv
 
+Pásmo vypravěče - Stingo.
+
 ### Veršovaná výstavba
+
+\-\-\-
 
 ## Literárněhistorický kontext
 
 ### Kontext autorovy tvorby
 
+Jedná se o Styronův čtvrtý poslední román. 
+
+Námět ke knize údajně autora napadl při návštěvě Československa a polské Osvětimi roku 1974. 
+
+Kniha vyšla roku 1979 a vzbudila značný ohlas. V jižní Africe byla zakázána kvůli otevřené sexualitě a vulgárním výrazům. V Polsku byla zakázána kvůli přiznání polského antisemitismu. V roce 1980 se stala bestsellerem a získala Národní knižní cenu.
+
+Román vyvolal rozporuplné pocity, autorovi bylo vyčítáno především to, že sám holocaust nezažil.
+
+---
+
+Další díla např.:
+
+- **Zapal tento dům**
+
+Druhý román, o umělecké krizi.
+
+- **Ulehni v temnotách**
+
+Prvotina, román, velký úspěch – oceněno Římskou cenou.
+
+- **Viditelná temnota**
+
+Román o boji s depresí, silně autobiografické.
+
 ### Literální / obecně kulturní kontext
+
+- **Zobrazení druhé světové války ve světové literatuře**
+
+Východní literatura – Rusko: oslavování hrdinství, popisování válečných scén.
+
+Západní literatura – Evropa, USA: líčení válečných hrůz, satira, moderní postupy.
+
+- **Jižanská próza**
+
+Autoři, kteří pocházejí z Jihu Spojených států, z území bývalé Konfederace. Vzniká od 20. let 20. století. Typicky jižanská témata: dozvuky otroctví, rasová diskriminace, násilí, tělesně a duševně postižení lidé, důraz na zemědělství, silná víra – protestantství. Pod vlivem modernismu, metoda proudu vědomí.
+
+---
+
+Další autoři např.:
+
+- **Thomas Keneally**
+
+(*1935) Australský prozaik, dramatik, herec. 
+
+Román Schindlerova archa: námět k filmu Schindlerův seznam, zpracování osudů Oskara Schindlera – válečný zbohatlík, který chtěl zachránit tisícovku „svých židů“.
+
+- **Robert Merle**
+
+(1908–2004) Francouzský prozaik, dramatik, překladatel.
