@@ -104,8 +104,7 @@ Božská komedie – psáno 15 let ve vyhnanství, duchovní epos, vyjádření 
 
 (1304-1374) Z Florencie, ve vyhnanství – studoval práva v Avignonu. Kněz, platonická láska se šlechtičnou Laurou. 
 
-Sonety Lauře (Zpěvník) – dvě části (za života Laury, po její smrti)
-- 366 milostných básní, většina formou sonetu.
+Sonety Lauře (Zpěvník) – dvě části (za života Laury, po její smrti) 366 milostných básní, většina formou sonetu.
 
 - **William Shakespeare**
 
