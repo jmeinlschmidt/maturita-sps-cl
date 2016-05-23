@@ -26,7 +26,7 @@ Základním selektorem je selektor pro element, který se zapisuje jménem dané
 
 Dále můžeme selektorem vybrat identifikátor (atribut `id`) pomocí mřížky, tzn. `#jmeno-identifikatoru`, nebo třídu (atribut `class`) pomocí tečky, tzn. `.jmeno-tridy`.
 
-Obecné atributy, resp. elementy, které tyto atributy obsahují, lze vybírat pomocí hranatých závorek, tzn. `[img]`.
+Obecné atributy, resp. elementy, které tyto atributy obsahují, lze vybírat pomocí hranatých závorek, tzn. `[src]`.
 
 ```css
 #menu {
@@ -37,7 +37,7 @@ Obecné atributy, resp. elementy, které tyto atributy obsahují, lze vybírat p
   vlastnost: hodnota;
 }
 
-[img] {
+[src] {
   vlastnost: hodnota;
 }
 ```
