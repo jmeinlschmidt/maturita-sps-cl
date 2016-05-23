@@ -74,6 +74,17 @@ Pásmo vypravěče.
 
 ### Kontext autorovy tvorby
 
+Listina zakázaných autorů. Emigroval do Ameriky.
+
+Literární úspěch založen na napínavém ději, účinné charakteristice postav, nekompromisním, humanistickém, antifašistickém a animilitárním postoji.
+
+---
+
+Další díla např.:
+
+- **Černý obelisk**
+- **Cesta zpátky**
+
 ### Literální / obecně kulturní kontext
 
 Reakce na 1. světovou válku, meziválečná literatura, reakce na 2. světovou válku. 
