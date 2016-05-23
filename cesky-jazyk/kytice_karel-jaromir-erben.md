@@ -78,6 +78,14 @@ Básnická sbírka o 13 básních je Erbenovým největším dílem, vyšla roku
 
 Typickým hrdinou je žena, motiv provinění a nepřiměřeného trestu, člověk je proti silám, které ho obklopují, bezmocný, čas neurčitý, místo neurčité, symbolické(les, chalupa, rybník).
 
+--- 
+
+Další díla např.:
+
+- **České pohádky**
+- **Tulák**
+- **Písně národní v Čechách**
+
 ### Literální / obecně kulturní kontext
 
 - **Národní obrození**
