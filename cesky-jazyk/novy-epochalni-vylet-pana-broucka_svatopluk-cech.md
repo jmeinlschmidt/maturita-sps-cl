@@ -84,6 +84,8 @@ Další díla např.:
 
 ---
 
+Další autoři např.:
+
 - **Jaroslav Vrchlický**
 
 Selské balady – sociální a vlastenecká tématika, náměty z českých dějin, baladické příběhy selských bouří, časté postavy lidových rebelů, vůdců boje za právo a spravedlnost, i známých historických postav.
