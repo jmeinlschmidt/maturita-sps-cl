@@ -76,14 +76,6 @@ Další díla např.:
 
 V 18. století věda dospěla k novému chápání světa; centry Londýn a Paříž. Předmětem zájmů vědců byly všechny oblasti lidské činnosti.
 
-- **klasicismus**
-
-Od latinského slova vzorný,vynikající.
-
-Umělecký směr. Autoři usilují o tvorbu zaměřenou na společenské a mravní problémy. Vychází z racionalismu (důraz na rozum).
-
-K základním znakům tohoto proudu patří jednotné principy, pevný řád a rozumová kázeň. Autoři přísně dodržovali myšlenku jednoty místa, času a děje. (Moliére)
-
 - **osvícenectví**
 
 Autoři staví na rozumu a vědě a snaží se o překonání náboženské ideologie a absolutismu. Ideologie západní Evropě v 18.století, zejména v Anglii a Francii. Rozvíjela se technika, průmysl i přírodní vědy, a proto stoupenci tohoto názoru prosazovali svobodu vědeckého bádání. 
