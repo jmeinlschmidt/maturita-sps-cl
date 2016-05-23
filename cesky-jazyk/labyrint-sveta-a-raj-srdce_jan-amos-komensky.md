@@ -74,6 +74,14 @@ Přímá řeč.
 
 Dílo vzniká ještě před jeho odchodem z Čech, alegorické dílo. Popis tehdejší společnosti – její ostrá kritika, přetvářka a touha po majetku. Psáno bohatou češtinou, složitá souvětí.
 
+---
+
+Další díla např.:
+
+- **Didactica**
+- **Didactica magna**
+- **O poezii české**
+
 ### Literální / obecně kulturní kontext
 
 - **období baroka**
