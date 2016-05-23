@@ -104,6 +104,10 @@ Pásmo vypravěče v ich-formě. Typické jsou dialogy - Vilém promlouvá s Ads
 
 ### Kontext autorovy tvorby
 
+Umberto Eco je italským spisovatelem celosvětově proslulým, řazeným k představitelům postmoderny. Vystudoval středověkou filozofii a literaturu. Tato témata se stala častým motivem v jeho knížkách. Stal se lektorem na univerzitě v Bologni. Napsal i několik odborných prací, ale je znám převážně díky svým románům
+
+---
+
 Další díla např.:
 
 - **Ostrov včerejšího dne**
