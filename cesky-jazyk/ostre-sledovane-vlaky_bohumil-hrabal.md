@@ -74,6 +74,12 @@ Pásmo vypravěče.
 
 ### Kontext autorovy tvorby
 
+Většina postav byla inspirována jeho spolupracovníky. Většina děj inspirována jeho zkušenostmi.
+
+V době svého vzniku byla novela velmi úspěšná, přestože nevyvolávala jen pozitivní reakce. Vyčítán byl především vulgarismus.
+
+---
+
 Další díla např.:
 
 - **Pábitelé**
