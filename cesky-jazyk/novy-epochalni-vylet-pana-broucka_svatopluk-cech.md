@@ -60,6 +60,18 @@ Pásmo vypravěče.
 
 ### Kontext autorovy tvorby
 
+Fantastické příběhy pana Broučka autora proslavily. 
+
+Psal žánrově bohatá díla.
+
+---
+
+Další díla např.:
+
+- **Žižka**
+- **Slávie**
+- **Ikaros**
+
 ### Literální / obecně kulturní kontext
 
 - **Ruchovci**
