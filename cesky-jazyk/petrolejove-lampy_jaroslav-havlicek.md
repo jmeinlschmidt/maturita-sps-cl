@@ -86,6 +86,12 @@ Příběh pěti sester (Helena, Lidmila, Marie, Dora, Ema), které jsou ovládá
 
 ### Literální / obecně kulturní kontext
 
+- **Psychologický proud**
+
+Zabývá se psychologií postav. Rozvrácené postavy, osudy, tragédie a lidské vnímání.
+
+---
+
 Další autoři např.:
 
 - **Egon Hostovský**
