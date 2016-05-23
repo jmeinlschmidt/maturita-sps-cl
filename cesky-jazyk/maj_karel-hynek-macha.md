@@ -104,8 +104,28 @@ Rýmy sdružené, střídavé, obkročné. Opakování počáteční formy.
 
 Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. Kritika náboženství a boha, který připustil smrt dvou mladých lidí. Soudobí úmělci jeho dílo zavrhli - projevoval málo vlastenectví.
 
+---
+
+Další díla např.:
+
+- **Cikáni**
+- **Mnich**
+- **Márinka**
+
 ### Literální / obecně kulturní kontext
 
 30\. - 40. léta mezníkem ve společenském vývoji. Šíření obrození i do nižších vrstev. Zvýšení poptávky po knihách i spotřebním zboží.
 
 Čeština se stala jazykem veřejného života a projevem národního cítění. Emancipační hnutí žen, vznik dívčích škol.
+
+- **Romantismus**
+
+*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román. 
+
+---
+
+Další autoři např.: 
+
+- Victor Hugo
+
+Chrám matky boží v Paříži (O Quasimodovi a lásce k Esmeraldě).
