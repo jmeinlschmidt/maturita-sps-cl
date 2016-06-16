@@ -1,6 +1,6 @@
 # Ostře sledované vlaky - Bohumil Hrabal
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
