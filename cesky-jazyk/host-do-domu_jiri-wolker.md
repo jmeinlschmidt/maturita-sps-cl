@@ -1,6 +1,6 @@
 # Host do domu - Jiří Wolker
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
