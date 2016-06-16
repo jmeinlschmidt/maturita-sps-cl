@@ -1,6 +1,6 @@
 # Chrám Matky Boží v Paříži - Victor Hugo
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
