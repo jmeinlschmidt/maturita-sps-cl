@@ -1,6 +1,6 @@
 # Labyrint světa a ráj srdce - Jan Amos Komenský
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
