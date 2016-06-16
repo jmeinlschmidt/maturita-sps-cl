@@ -1,6 +1,6 @@
 # Báječná léta pod psa - Michal Viewegh
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
