@@ -1,6 +1,6 @@
 # Po nás ať přijde potopa - František Gellner
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 

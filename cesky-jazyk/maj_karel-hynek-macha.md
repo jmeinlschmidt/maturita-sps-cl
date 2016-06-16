@@ -1,6 +1,6 @@
 # Máj - Karel Hynek Mácha
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 

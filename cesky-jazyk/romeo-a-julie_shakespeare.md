@@ -1,6 +1,6 @@
 # Romeo a Julie - Shakespeare
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 

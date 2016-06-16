@@ -1,6 +1,6 @@
 # Nový epochální výlet pana Broučka, tentokráte do XV. století - Svatopluk Čech
 
-## Analýza úměleckého textu
+## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
