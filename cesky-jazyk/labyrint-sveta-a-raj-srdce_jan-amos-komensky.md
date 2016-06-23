@@ -64,6 +64,8 @@ Přímá řeč.
 
 ### Typy promluv
 
+Monology i dialogy.
+
 ### Veršovaná výstavba
 
 \-\-\-
