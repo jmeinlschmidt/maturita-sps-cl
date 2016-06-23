@@ -26,7 +26,7 @@ Paříž; 17. století.
 
 ### Kompoziční výstavba
 
-Kompoziční postup. Odehrává se v jeden čas, na jednom místě a má jeden děj.
+Chronologický postup. Odehrává se v jeden čas, na jednom místě a má jeden děj.
 
 ### Literární druh a žánr
 
