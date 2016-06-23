@@ -26,7 +26,7 @@ Pomíjivost světa.
 
 - **motiv**
 
-Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským živokem; kritika společenských nedostatků.
+Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve světě; cesta lidským životem; kritika společenských nedostatků.
 
 ### Časoprostor
 
@@ -34,7 +34,7 @@ Marnost; bezmoc; smysl života v křesťanství; putování; podoba zla ve svět
 
 ### Kompoziční výstavba
 
-Chronologický postup. 2 části, 54 kapitol.
+Chronologický postup. 2 části, 54 kapitol (kapitoly jsou značeny římskými číslicemi). Úvod zahrnuje mapu fiktivního světa, motto, věnování a slovo ke čtenáři. Kniha také obsahuje vysvětlivky, pro lepší porozumění.
 
 ### Literární druh a žánr
 
