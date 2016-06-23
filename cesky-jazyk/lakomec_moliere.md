@@ -26,7 +26,7 @@ Paříž; 17. století.
 
 ### Kompoziční výstavba
 
-Chronologický postup. Odehrává se v jeden čas, na jednom místě a má jeden děj. Členěno do 5 aktů.
+Chronologický postup. Odehrává se v jeden čas, na jednom místě a má jeden děj. Členěno do 5 aktů. Složitější komediální zápletka.
 
 ### Literární druh a žánr
 
