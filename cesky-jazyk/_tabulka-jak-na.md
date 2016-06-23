@@ -15,6 +15,7 @@
   - např. ruský venkov, válka, láska, mezilidské vztahy
 - motiv = nejdrobnější téma (souhrn motivů tvoří téma)
   - vychází z daného úryvku, je také neomezený, avšak konkrétnější než téma
+  - utváří téma
   - např. růže, zbraň, oblaka, nenávist
 
 ### časoprostor
