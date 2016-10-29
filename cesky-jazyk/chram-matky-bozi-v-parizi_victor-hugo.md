@@ -39,6 +39,7 @@ Epika. Historický román, psán prózou.
 Vševědoucí vypravěč, er-forma.
 
 ### Postava
+Typické romantické postavy založené na kontrastu - např. Quasimodův ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce atd.
 
 - **Quasimodo**
 
