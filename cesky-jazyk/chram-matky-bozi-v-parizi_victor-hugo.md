@@ -43,19 +43,19 @@ Typické romantické postavy založené na kontrastu - např. Quasimodův ohyzdn
 
 - **Quasimodo**
 
-Chudák; hluchý; téměř němý; braný za trestance; hrbáč; opovrhaný společností; oddaný; milý; statečný; trpělivý. Zamilovaný do Esmeraldy. 
+Pojmenoval ho jeho nálezce Claudius Frollo, Quasimodo v latině znamená "jaksi, přibližně, jen částečně", Frollo jméno zvolil, proto, že Quasimodo byl jen "přibližně člověkem". Typický romantický hrdina. Znetvořený, ale schopný čisté lásky k Esmeraldě. Osamělý. 
 
 - **Esmeralda**
 
-Krásná tanečnice; temperamentní; soucitná. Zamilovaná do Phoeba.
+Krásná cikánka, její krása a povaha je v kontrastu s prostředím, kde žije.
 
 - **Frollo**
 
-Kněz; pokrytecký; hrubý; žárlivý; mstivý. Chce Esmeraldu za ženu.
+Kněz, byl velmi inteligentní, už v osmnácti letech se stal doktorem čtyř fakult. V kontrastu s tím se stal spíše záporná postava - Esmeralda mu neopětovala svou lásku, a tak se uchýlil ke zlým činům. Hrubý, žárlivý a mstivý. 
 
 - **Phoebus**
 
-Velitel lučištníků. Krásný; bohatý; zahrává si s upřímnou a čistou láskou Esmeraldy.
+Velitel lučištníků, krásný a bohatý, avšak přelétavý a zasnoubený. S upřímnou láskou Esmeraldy si pouze zahrává.
 
 ### Vyprávěcí způsoby
 
@@ -87,4 +87,4 @@ Další díla např.:
 
 - **Romantismus**
 
-*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román. 
+*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Je kladen důraz na kontrast. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román. 
