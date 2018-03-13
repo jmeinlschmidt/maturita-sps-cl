@@ -7,9 +7,7 @@
 Rozděleno do 3 jednání (aktů) a celkem 14 obrazů.
 
 - **Autorova předmluva**
-    Prvním podnětem k vytvoření hry dal Čapkovi přítel a lékař, který objevil nové paprsky, jenž dokáží ničit zhoubný nádor, ale zároveň v sobě nachází paprsky smrti. S jejich pomocí by se mohl stát neblahým spasitelem světa (dr. Galén v díle). Pojednává o **ústupu humanismu** v poválečném světě.
-
-    Dílo vzniklo v kontextu předválečného, fašistického Německa. **Nespojovat přímo s druhou světovou válkou!** (pozn.)
+    První podnět k vytvoření hry dal Čapkovi jeho přítel a lékař, který objevil nové paprsky, jenž dokáží ničit zhoubný nádor, ale zároveň v sobě nachází paprsky smrti. S jejich pomocí by se mohl stát neblahým spasitelem světa (dr. Galén v díle). Pojednává o **ústupu humanismu** v poválečném světě.
 
     Dává do kontrastu úctu k životu a lidským právum, lásce k člověkovi, svobodě a míru **vs** třídu, národ, stát a rasu jako nositele všech lidských práv, kde se jednotlivec podřizuje kolektivu. *Režim = všemohoucí autorita*.
     
@@ -33,49 +31,66 @@ Rozděleno do 3 jednání (aktů) a celkem 14 obrazů.
 
 - **téma**
 
-x
+Varování před nacistickým Německem a úpadkem společnosti
 
 - **motiv**
 
-x
+Obava z konfliktu, fanatismus, demokratické smýšlení, pacifismus, antimilitarismus, 1. světová válka, nemoc, nenávist
+
+- Nemoc má symbolický význam:
+    - nemoc = nacismus, nemoc mysli
+	- bílá = čistota rasy
+	- bílá skvrna = hluboký rozvrat bílé rasy, který Čapek viděl v násilnických metodách a touze po světovládě
+- Konflikt *Galén vs. Maršál* = srážka dvou nesmiřitelných hodnot (ideály pacifismu a demokracie vs. diktatura)
+- Nebezpečí pro lidskou společnost je ve slepém následování davu (nahrazení vlastního názoru názory fanatiků, kolektivu)
+
 
 ### Časoprostor
 
-x
+Blíže neurčený čas před válkou ve fiktivním prostředí - podobnost s obdobím před 2. světovou válkou a nacistickým Německem.
 
 ### Kompoziční výstavba
 
-x
+Chronologické řazení textu. Dílo rozděleno na 3 akty, 14 obrazů + předmluva autora (seznámení s důvodem napsání díla).
+
 ### Literární druh a žánr
 
 - **druh**
 
-x
+Drama
 
 - **žánr**
 
-x
+Tragédie
 
 ### Vypravěč / lyrický subjekt
 
-x
+Není, jedná se o drama (divadelní hru).
 
 ### Postavy
 
-x
+- Doktor Galén: humanista; upřímný, idealistický a naivní; vychytralý; tvrdohlavý; bezbranný; k prosazení svého názoru potřebuje silný nástroj; obránce lidství a míru (tato postava obsahuje Čapkovy autobiografické prvky – snaha o demokratičnost, odpor k násilí, atd.)
+- Maršál: podobnost (ne náhodná) s Adolfem Hitlerem; vůdce a válkychtivý diktátor; cílevědomý; autoritativní; povýšený a násilnický
+- Baron Krüg: majitel zbrojařských závodů; bohatý; vlivný, ale přesto působí pod taktovkou Maršála
 
 ### Vyprávěcí způsoby
 
 ### Typy promluv
-
-x
+Psáno formou dialogů (z promluv jednotlivých postav vyplývají jejich vlastní charakteristiky).
 
 ### Veršovaná výstavba
-
 \-\-\-
 
-## Literárněhistorický kontext
+### Jazykové prostředky a jejich funkce ve výňatku
+- Srozumitelnost a **jednoduchost jazyka**, typický jazyk Karla Čapka (barvitost, bohatá slovní zásoba)
+- Spisovná čeština, odborné lékařské názvy v latině, anglické a německé fráze, emotivní výrazy, metafory...
+- Symbolika
+    - Maršálova země = nacistické Německo
+    - Malá země, proti které válčí = Československo...
+- Scénické poznámky (doplňují co člověk v danou chvíli dělá)
+- Paradox - Galén přesvědčil vůdce války, ale byl ušlapán těmi, za které bojoval
 
+## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
 x
@@ -84,9 +99,9 @@ x
 
 Další díla např.:
 
-- **Matka**
+**R.U.R.**
 
-Drama, námět od manželky Olgy, reakce na válku ve Španělsku. Matka si povídá se zemřelými muži ze své rodiny (s manželem a se 4 syny). Naživu je pouze Toni. Matka slyší v rádiu hlášení o tom, že jsou zabíjeny i děti, a sama posílá Toniho do války.
+Helena se seznamuje s lidmi v továrně, ti se do ní zamilují včetně Alquista a Domina, Domin ji požádá o ruku a ona souhlasí. Helena se svou chůvou Nanou hovoří o robotech, zpráva, že se přestali rodit děti, obklíčení roboty na ostrově, spálení listin na výrobu robotů. Helena se přizná ke zničení Russomových listin (jediná šance na vykoupení), roboti se bouří a všechny pobijí. Alquist se snaží ve své pracovně objevit tajemství výroby robotů, roboti ho přemluví, ať jednoho z nich rozebere a zkoumá. Má to být Helena, Primus se chce obětovat – Alquist pozná, že roboti jsou schopni citů.
 
 **Krakatit**
 
@@ -94,8 +109,9 @@ Román o zneužití vynálezu. Inženýr Prokop objevil třaskavinu, která byla
 
 ### Literální / obecně kulturní kontext
 
-Představitel humanistické demokratické literatury = demokratický proud. Meziválečná česká próza.
-
+- Představitel humanistické demokratické literatury. Meziválečná česká próza.
+- Demokratický proud - pragmatismus (pragmatik = **člověk opírající se o rozum**)
+- Pragmatismus - filozofický směr, který se vyznačuje zvláštním pojetím pravdy => pravdivé je to, co se osvědčí v praxi, důležitá je zkušenost jedince, **neexistuje absolutní pravda**, ale pojetí pravdy je vždy relativní
 ---
 
 Další autoři např.:
