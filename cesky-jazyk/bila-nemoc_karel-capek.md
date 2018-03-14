@@ -15,7 +15,7 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
     - **Ústupu humanismu** v poválečném světě, nahrazení vlastního rozumu názorem kolektivu, třídy, státu, režimu
     - **Kontrast** mezi úctou k životu, užívání vlastního rozumu, mírem, antimilitarismem **vs** podřízení se kolektivu, nadřazování rasy, národu, třídy.
     - **Kritika** režimu, jakožto všemohoucí autority.
-    - **Upozorňujě** na záměr fiktivní roviny (nezmiňuje nacismus, ani konkrétní režimy, ale ze hry je podobnost více než jasná)
+    - **Upozorňuje** na záměr fiktivní roviny (nezmiňuje nacismus, ani konkrétní režimy, ale ze hry je podobnost více než jasná)
     - **Snaží se apelovat**, jako jeden z mála si uvědomuje nebezpečí fanatismu a nacismu
     
     Avšak právě Bílá nemoc byla jedním z důvodů o pokus jeho zadržení Gestapem, jelikož dílo bylo později označeno za protiválečné. Čapek ale ještě dřívě (25. prosince 1938) umírá na zápal plic. (pozn.)
