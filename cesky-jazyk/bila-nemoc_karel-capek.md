@@ -160,17 +160,11 @@ Psáno formou dialogů (z promluv jednotlivých postav vyplývají jejich vlastn
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-x
-
----
-
-Další díla např.:
-
-**R.U.R.**
+1920 - **R.U.R.**
 
 Helena se seznamuje s lidmi v továrně, ti se do ní zamilují včetně Alquista a Domina, Domin ji požádá o ruku a ona souhlasí. Helena se svou chůvou Nanou hovoří o robotech, zpráva, že se přestali rodit děti, obklíčení roboty na ostrově, spálení listin na výrobu robotů. Helena se přizná ke zničení Russomových listin (jediná šance na vykoupení), roboti se bouří a všechny pobijí. Alquist se snaží ve své pracovně objevit tajemství výroby robotů, roboti ho přemluví, ať jednoho z nich rozebere a zkoumá. Má to být Helena, Primus se chce obětovat – Alquist pozná, že roboti jsou schopni citů.
 
-**Krakatit**
+1922 - **Krakatit**
 
 Román o zneužití vynálezu. Inženýr Prokop objevil třaskavinu, která byla schopná zničit svět. Třaskavinu mu někdo ukradne a on pátrá, kdo, všichni ji chtějí jen zneužít.
 
@@ -183,28 +177,22 @@ Román o zneužití vynálezu. Inženýr Prokop objevil třaskavinu, která byla
 
 Další autoři např.:
 
-- **Josef Čapek**
+- **Josef Čapek** (1887-1945)
 
-(1887-1945) Malíř (kubismus), básník, prozaik, dramatik.
+    - Malíř (kubismus), básník, prozaik, dramatik.
+    - Společné práce: Krakonošova zahrada, Ze života hmyzu, Adam stvořitel
+    - Vlastní práce: Stín kapradiny – baladická novela, dva mladíci zabili hajného, když je přistihl při pytlačení.
+    - Povídání o pejskovi a kočičce – pohádky.
+    - Básně z koncentračního tábora – vzpomínání na ženu, bratra,... život na svobodě.
+    - Zemřel krátce před osvobozením koncentračního tábora
 
-Společné práce: Krakonošova zahrada, Ze života hmyzu, Adam stvořitel
+- **Karel Poláček** (1892-1944)
+    - Rychnov nad Kněžnou, soudničkář a fejetonista v Lidových novinách. Židovský původ, zahynul roku 1944 v Osvětimi.
+    - Tvorba pro děti: Edudant a Francimor, Bylo nás pět. 
+    - Humoristické knihy: Michelup a motocykl, Muži v ofsajdu.
+    - Židovské anekdoty – rád vyprávěl vtipy.
 
-Vlastní práce: Stín kapradiny – baladická novela, dva mladíci zabili hajného, když je přistihl při pytlačení.
-
-Povídání o pejskovi a kočičce – pohádky.
-
-Básně z koncentračního tábora – vzpomínání na ženu, bratra,... život na svobodě.
-
-- **Karel Poláček**
-
-(1892-1944) Rychnov nad Kněžnou, soudničkář a fejetonista v Lidových novinách. Židovský původ, zahynul roku 1944 v Osvětimi.
-
-Tvorba pro děti: Edudant a Francimor, Bylo nás pět. 
-
-Humoristické knihy: Michelup a motocykl, Muži v ofsajdu.
-
-Židovské anekdoty – rád vyprávěl vtipy.
-
-- **Eduard Bass**
-
-(1888-1946) Spisovatel, novinář, redaktor, herec, autor textů pro kabaret. Klapzubova jedenáctka – moderní pohádka pro mládež. Cirkus Humberto – jediný autorův román, hodnocen nejvýš.
+- **Eduard Bass** (1888-1946)
+    - Spisovatel, novinář, redaktor, herec, autor textů pro kabaret
+    - Klapzubova jedenáctka – moderní pohádka pro mládež
+    - Cirkus Humberto – jediný autorův román, hodnocen nejvýš.
