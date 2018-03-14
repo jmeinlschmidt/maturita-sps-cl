@@ -91,11 +91,11 @@ Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, vál
 
 ### Časoprostor
 
-Blíže neurčený čas před válkou ve fiktivním prostředí - podobnost s obdobím před 2. světovou válkou a nacistickým Německem. Zmíňena královská rodina - Anglie a malý státeček.
+**Blíže neurčený čas před válkou ve fiktivním prostředí** - podobnost s obdobím před 2. světovou válkou a nacistickým Německem. Zmíňena královská rodina - Anglie a malý státeček.
 
 ### Kompoziční výstavba
 
-Chronologické řazení textu. Dílo rozděleno na 3 akty, 14 obrazů + předmluva autora (*seznámení s důvodem vytvoření hry*).
+Chronologické řazení textu. Dílo rozděleno na 3 akty, 14 obrazů (5-6-3) + předmluva autora (*seznámení s důvodem vytvoření hry*).
 
 ### Literární druh a žánr
 
