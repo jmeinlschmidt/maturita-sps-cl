@@ -35,7 +35,7 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
     - Dcera naprosto vážně zmiňuje, že **nemoc je prostředkem, aby se na světě udělalo místo mladším**.
         - V prvním jednání je otec proti, ale ve druhém jednání zjistí výhody a změní názor
     - Lék doktora Galena, začíná fungovat na poskytnutém 13. pokoji. Přijíždí delegace profesorů z Evropy. Poté i delegace s Maršálem. Z výsledků jsou nadšeni. Dvorní rada si přivlastňuje práci Galéna. Galén předstupuje před novináře a klade si požadavky, aby všechny státy ukončili zbrojení a válku jinak lék nevydá.
-        - Stojí proti zbrojení, ale v případě útoku souhlasí s obranou (**antimilitarista, nikoli pacifista**),
+        - Stojí proti zbrojení, ale v případě útoku souhlasí s obranou (**antimilitarista**, nikoli ~~pacifista~~),
         - **Nebude léčit bohaté, protože mají vliv zbrojení zastavit**
         - **Poukazuje, že lidé buď zemřou Bílou nemocí nebo válkou**
     - Dvorní rada se nenechá Galénem vydírat, zastává Maršálovi hodnoty, označuje Galéna za vlastizrádce a vyhazuje ho ze své kliniky
@@ -75,7 +75,7 @@ Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, vál
     - Nemoc = **nacismus, nemoc mysli**
 	- Bílá = **čistota rasy**
 	- Bílá skvrna = hluboký rozvrat bílé rasy, který Čapek viděl v násilnických metodách a touze po světovládě
-	- Konflikt *Galén vs. Maršál* = **srážka dvou nesmiřitelných hodnot** (ideály pacifismu a demokracie vs. diktatura)
+	- Konflikt *Galén vs. Maršál* = **srážka dvou nesmiřitelných hodnot** (ideály míru, antimilitarismu a demokracie vs. diktatura)
     - **Nebezpečí pro lidskou společnost je ve slepém následování davu (nahrazení vlastního názoru názory fanatiků, kolektivu)**
     - Paradox - Galén přesvědčil vůdce války, ale byl ušlapán těmi, za které bojoval
 
@@ -90,7 +90,7 @@ Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, vál
 	    - *Míra fanatismu je například vidět, když se Maršál dozví, že jeho jediný přítel Baron Krüg spáchá sebevraždu - cítí uvolnění, že může pokračovat ve zbrojení. Necítí lítost.*
 	- Doktor Galén odmít léčit bohaté, protože mají vliv zbrojení zastavit a jedině strachem je k tomu může donutit
 	- Baron Krüg nabízí peníze, ale doktor Galén ví, že strach o svůj život dokáže víc
-	- Stojí proti zbrojení, ale v případě útoku souhlasí s obranou (**antimilitarista**, nikoli pacifista)
+	- Stojí proti zbrojení, ale v případě útoku souhlasí s obranou (**antimilitarista**, nikoli ~~pacifista~~)
 	- malý, mizerný státeček = **Československo**
 
 ### Časoprostor
