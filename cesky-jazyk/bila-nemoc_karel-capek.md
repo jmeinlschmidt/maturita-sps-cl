@@ -6,6 +6,9 @@
 
 Rozděleno do 3 aktů (jednání) a celkem 14 obrazů (5-6-3) + autorova předmluva. Jednání jsou oddělena oponou.
 
+#### Stručný obsah
+Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou světovou válkou, v době růstu nacismu, fanatismu a agresivity Německa. Prostřednictvím ní se Čapek snaží jako jeden z mála proti tomuto varovat. Hra **pojednává o nemoci** (Bílá nemoc - malocenství; podobnost lepře), která postihuje lidi nad 40 let. Projevuje se bílou necitlivou skvrnou, silným zápachem pro své okolí, kdy se nemocný postupně zaživa rozpadá zevnitř (= nacismus, slepý fanatismus). Neexistuje lék. Avšak Doktor Galén lék nalezne, ale **požaduje ukončení válek a zbrojení**, jinak bude léčit jen chudé, kteří zbrojení nedokáží zvrátit. Nemocí se postupně nakazí vlastník zbrojařských závodů - Baron Krüg, dokonce i sám Maršál (podobnost s Hitlerem). Až tehdy přistoupí na Galenovi podmínky. Doktor Galen je ale i s lékem cestou k Maršálovi **ušlapán zfanatizovaným davem**.
+
 #### Podrobný obsah
 
 - **Autorova předmluva**
@@ -79,6 +82,7 @@ Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, vál
 - Ukázky symboliky z díla:
 	- Bílá skrvna nebolí, je bez citu, ale zápachem odpozuje všechny okolo = **dotyčný si svůj fanatismus neuvědomuje**
 	- Ti starší musí “vychcípat”, aby zbylo místo pro mladší = mladí se nechají lépe ovlivnit, převzít cizí názor (názor kolektivu)
+	- Lidé se důsledkem nemoci zevnitř postupně zaživa rozpadají
 	- Dvorní rada Sigelius: "Nemoc není kožního, ale čistě interního charakteru" = **myšleno nemoc mysli**
 	- Dvorní rada Sigelius: "Naprosto znecitlivělá"
 	- Dvorní rada Sigelius: "Doporučuje použití prostředku proti zápachu, ... Všechny malomocné pozavírat a nepouštět mezi zdravé lidi" = spíše výsměch
@@ -91,11 +95,11 @@ Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, vál
 
 ### Časoprostor
 
-**Blíže neurčený čas před válkou ve fiktivním prostředí** - podobnost s obdobím před 2. světovou válkou a nacistickým Německem. Zmíňena královská rodina - Anglie a malý státeček.
+Blíže neurčený čas před válkou ve fiktivním prostředí - podobnost s obdobím před 2. světovou válkou a nacistickým Německem. Zmíňena královská rodina - Anglie a malý státeček.
 
 ### Kompoziční výstavba
 
-Chronologické řazení textu. Dílo rozděleno na 3 akty, 14 obrazů (5-6-3) + předmluva autora (*seznámení s důvodem vytvoření hry*).
+Chronologické řazení textu. Dílo rozděleno na 3 akty, 14 obrazů + předmluva autora (*seznámení s důvodem vytvoření hry*).
 
 ### Literární druh a žánr
 
