@@ -64,11 +64,12 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
 
 - **téma**
 
-Varování před nacistickým Německem, úpadkem a fanatizací společnosti
+~~Varování před nacistickým Německem, úpadkem a fanatizací společnosti~~
+Přípravy na válku
 
 - **motiv**
 
-Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, válka, nemoc, nenávist, nacistické Německo, Hitler, touha po světovládě
+Fanatismus, demokratické smýšlení, obava s konfliktu, antimilitarismus, válka, příprava na válku, nemoc, nenávist, nacistické Německo, Hitler, touha po světovládě
 
 - Nemoc má symbolický význam:
     - Nemoc = **nacismus, nemoc mysli**
@@ -145,9 +146,9 @@ Není, jedná se o drama (divadelní hru).
     - syn se ke konci díla podílí na smrti Galéna
 
 ### Vyprávěcí způsoby
-- Srozumitelnost a **jednoduchost jazyka**, typický jazyk Karla Čapka (barvitost, bohatá slovní zásoba)
+- Srozumitelnost a **bohatost jazyka**, typický jazyk Karla Čapka (barvitost, bohatá slovní zásoba)
 - Spisovná čeština, odborné lékařské názvy v latině, anglické a německé fráze, emotivní výrazy, metafory...
-- Symbolika
+- Symbolika = **ALEGORIE (jinotaj; skrytý význam)**
 
 ### Typy promluv
 Psáno formou dialogů a monologů. Scénické poznámky (doplňují co člověk v danou chvíli dělá). Před začátkem každého aktu seznam vystupujících postav.
@@ -168,6 +169,11 @@ DCERA: Já jsem mluvila obecně, tati. Dnes přece mladý člověk
 nenajde žádnou existenci – Prostě není na světě tolik míst – Něco
 se už muselo stát, abychom my mladí mohli konečně žít a
 zakládat rodiny!
+
+- "lidé klidili" - spisovná čeština; hovorový výraz; metafora
+- "lidé vychcípat" - nespisovná čeština; slovo hanlivé (ve vztahu k lidem; ve vztahu ke zvířeti spíše jen citově zabarvené)
+
+Ukázka je převážně spisovná, obsahuje bohatou slovní zásobu, hovorové výrazy. Vyskytuje se nespisovný, hanlivý výraz. Ukázka je složena z dialogu - rozhovoru otce a dcery.
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
