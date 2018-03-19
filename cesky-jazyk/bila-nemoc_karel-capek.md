@@ -13,7 +13,7 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
 
 - **Autorova předmluva**
     - **Ústupu humanismu** v poválečném světě, nahrazení vlastního rozumu názorem kolektivu, třídy, státu, režimu
-    - **Kontrast** mezi úctou k životu, užívání vlastního rozumu, mírem, antimilitarismem **vs** podřízení se kolektivu, nadřazování rasy, národu, třídy.
+    - **Kontrast** mezi úctou k životu, užíváním vlastního rozumu, mírem, antimilitarismem **vs** podřízení se kolektivu, nadřazování rasy, národu, třídy.
     - **Kritika** režimu, jakožto všemohoucí autority.
     - **Upozorňuje** na záměr fiktivní roviny (nezmiňuje nacismus, ani konkrétní režimy, ale ze hry je podobnost více než jasná)
     - **Snaží se apelovat**, jako jeden z mála si uvědomuje nebezpečí fanatismu a nacismu
@@ -29,8 +29,8 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
     - Objevuje se Dvorní rada Sigelius (vede výzkum Bílé nemoci) a novinář - rozhovor.
     - Přichází Doktor Galén, snaží se zaujmout Dvorního radu svým lékem proti Bílé nemoci. Dvorní rada odmítá. Galén požaduje možnost ozkoušet lék na pacientech, ale nebude sdělovat jak lék funguje.
     - Objevuje se otec, matka - rozhovor. Otec čte v novinách interview s Dvorním radou Sigeliem.
-        - Nemoc přišla z Číny
-        - Všechny malomocné pozavírat a nepouštět mezi normální lidi
+        - Nemoc přišla z Číny (= lidé se báli věcí z východu; neznámo)
+        - Všechny malomocné pozavírat a nepouštět mezi normální lidi (= Čapek se docela přesně trefil do budoucích koncentračních táborů)
     - Otec nadává, že **malomocní zapáchají v domě**. Matka nabízí, že se o malomocnou babku postará, ale otec je zásadně proti, aby nezavlekla nemoc k nim domů.
     - Dcera naprosto vážně zmiňuje, že **nemoc je prostředkem, aby se na světě udělalo místo mladším**.
         - V prvním jednání je otec proti, ale ve druhém jednání zjistí výhody a změní názor
@@ -41,11 +41,10 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
     - Dvorní rada se nenechá Galénem vydírat, zastává Maršálovi hodnoty, označuje Galéna za vlastizrádce a vyhazuje ho ze své kliniky
 
 - **2. akt - Baron Krüg**
-    - Postupně se objevují
     - Rozhovor otec a matka: V práci podlehne otcovi na Bílou nemoc ředitel účtárny, raduje se, získá jeho místo, počítá kolik získá peněz navíc. **Otec oslavuje Bílou nemoc.** "Zaplať pánbůh za malomocenství!". **Matka oponuje.** Otec stále oslavuje malomocenství, válku, maršála. Mír je pitomá utopie. Kdo mluví proti zabíjení mluví proti našim největším zájmům. Matka stále oponuje, otec na závěr zjistí, že i ona má bílou skvrnu. - **Kontrast**
     - Otec vezme matku za Galénem. Galén zjišťuje, že otec je ředitelem účtárny Krügových zbrojařských závodů. Odmíta léčit. Zdrůrazňuje, že lidé jako otec mají vliv na zastavení zbrojení
     - **Baron Krüg také nemocný**, vyhledává pomoc Dvorního rady. Ten Galéna označuje za demagoga a utopistu. Nakonec Barona Krüga za ním posílá. Dvorní rada představuje plán na léčbu nemoci - převést všechny malomocné do střežených táborů.
-    - **Baron Krüg přestrojený za malomocného**. Galén ho pozná, odmítá léčbu. Baron Krüg navrhuje milióny, ale Galén trvá na nastolení míru, navrhuje zastavit Krügovo zbrojení. Krüg nedokáže splnit podmínky, odchází, **bojí se nemoci**.
+    - **Baron Krüg přestrojený za chudého**. Galén ho pozná, odmítá léčbu. Baron Krüg navrhuje milióny, ale Galén trvá na nastolení míru, navrhuje zastavit Krügovo zbrojení. Krüg nedokáže splnit podmínky, odchází, **bojí se nemoci**.
     - **Baron Krüg u Maršála**. Zmiňuje se o své nemoci. Prosí o zastavení zbrojení a války. Padá na kolena. Maršál proti, mluví o potřebách vlasti a nařizuje zvýšit výrobu zbraní.
     - Maršál vyhledá doktora Galéna. Vyvíjí tlak na léčbu Barona Krüga. Chce nechat Galéna zatknout. Galén poukazuje na schopnost Maršála uzavřít mír. Maršál se odvolává na národ. Galén trvá na svém. Maršál odchází a v tom zvoní telefon - Baron Krüg se zastřelil. **Maršál je potěšen smrtí Barona Krüga**. Pokračuje ve zbrojení
 
@@ -56,7 +55,7 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
         - Poprvé zmiňuje **malý, mizerný státeček**, který "beztrestně provokuje a ponižuje" a "soustavně ohrožuje náš mír"
         - Objevuje se **"My jsme tu válku nechtěli, ale my ji vyhrajeme, my jsme v právu!*"**
         - *Podobnost s Hitlerem (tluče se do hrudi, emotivní proslov, obhajuje válku)*
-    - **Maršál při tlučení se do hrudi zjistí necitlivost** a to, že je také nakažen Bílou nemocí. Tvrdé Maršála najednou pohltí strach, odvolává se k bohu, prosí, naříká. Zprvu odmítá léčbu doktora Galéna. Nakonec otáčí a **ze strachu volá doktora Galéna**.
+    - **Maršál při tlučení do hrudi zjistí necitlivost** a to, že je také nakažen Bílou nemocí. Tvrdého Maršála najednou pohltí strach, odvolává se k bohu, prosí, naříká. Zprvu odmítá léčbu doktora Galéna. Nakonec otáčí a **ze strachu volá doktora Galéna**.
     - Doktor Galén přijíždí k paláci, potká dav, vystupuje z auta. Dav skanduje, doktor Galén jim oponuje. Dav ho obestoupí, syn z prvního aktu pokřikuje že urazil Maršála. **Dav ho sevře, následně se rozestoupí a zjistí, že doktor Galén je mrtev**.
     - Syn do něj kope a pronáší **"alespoň je o jednoho zrádce míň, sláva maršálovi!"** Nalezne lahvičky s lékem, rozbíjí a dál oslavuje válku a maršála.
     - Hra končí valícím se zástupem, který skanduje "Maršál, Mar-šál!"
@@ -109,7 +108,8 @@ Drama
 
 - **žánr**
 
-Tragédie
+Utopická hra
+~~Tragédie~~ (tragédie má členění o *5 aktech!*)
 
 ### Vypravěč / lyrický subjekt
 
@@ -145,17 +145,29 @@ Není, jedná se o drama (divadelní hru).
     - syn se ke konci díla podílí na smrti Galéna
 
 ### Vyprávěcí způsoby
+- Srozumitelnost a **jednoduchost jazyka**, typický jazyk Karla Čapka (barvitost, bohatá slovní zásoba)
+- Spisovná čeština, odborné lékařské názvy v latině, anglické a německé fráze, emotivní výrazy, metafory...
+- Symbolika
+
 ### Typy promluv
-Psáno formou dialogů (z promluv jednotlivých postav vyplývají jejich vlastní charakteristiky).
+Psáno formou dialogů a monologů. Scénické poznámky (doplňují co člověk v danou chvíli dělá). Před začátkem každého aktu seznam vystupujících postav.
 
 ### Veršovaná výstavba
 \-\-\-
 
 ### Jazykové prostředky a jejich funkce ve výňatku
-- Srozumitelnost a **jednoduchost jazyka**, typický jazyk Karla Čapka (barvitost, bohatá slovní zásoba)
-- Spisovná čeština, odborné lékařské názvy v latině, anglické a německé fráze, emotivní výrazy, metafory...
-- Symbolika
-- Scénické poznámky (doplňují co člověk v danou chvíli dělá)
+OTEC: Ne, ale řekla to! Viď, to by bylo jen v pořádku, aby se tvůj
+otec a matka v padesáti létech klidili, viď, dceruško?
+
+DCERA: Ty to bereš hned tak osobně –
+OTEC: A jak to mám brát? Když se ti tak zamlouvá, že lidé kolem
+padesátky mají **vychcípat** – Já teda nevím, jak mám tvému názoru
+rozumět!
+
+DCERA: Já jsem mluvila obecně, tati. Dnes přece mladý člověk
+nenajde žádnou existenci – Prostě není na světě tolik míst – Něco
+se už muselo stát, abychom my mladí mohli konečně žít a
+zakládat rodiny!
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
