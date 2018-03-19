@@ -65,6 +65,7 @@ Divadelní hra vznikla v roce 1937. Období před Mnichovskou dohodou, druhou sv
 - **téma**
 
 ~~Varování před nacistickým Německem, úpadkem a fanatizací společnosti~~
+
 Přípravy na válku
 
 - **motiv**
