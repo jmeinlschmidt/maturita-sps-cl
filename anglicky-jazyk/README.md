@@ -51,7 +51,63 @@
 - a secondary school of general education - ***gymnázium***
 - a secondary technical school [GB] - *industrial high school [US]*
 
+## Rodina
+- to flatter - *to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere*
+    - I knew he was only flattering me because he wanted to borrow some money. 
+- to praise - *to express admiration or approval of the achievements or characteristics of a person or thing*
+    - He should be praised for his honesty. 
+- cheeky - *slightly rude or showing no respect, but often in a funny way*
+    - She's got such a cheeky grin. ***(= úšklebek)***
+    - Don't be so cheeky!
+ - kind - ***laskavý, milý, hodný, přátelský***
+ - pleasant - ***příjemný, zábavný, veselý***
+ - nasty - *bad or very unpleasant*
+    - There's a nasty smell in here.
+    - He had a nasty cut above the eye.
+    - She has a nasty habit of picking on people in meetings; **pick on (someone) = to criticize, annoy, or punish someone repeatedly and unfairly**
+- nanny - ***chůva***
+- nan - ***bábinka***
+- nun - ***jeptiška***
+
+## Rozhovor
+```
+Hi, I'm Annie, how are you?
+I'm Jakub, nice to meet you.
+```
+- Brit **nikdy** neřekne ~~How do you do?~~
+    - Nebo aspoň tím nemyslí - "Jak se máš?" !!!
+- Pokud toho člověka vidíš opakovaně - *Nice to see you*. Jinak **NE!!!**
+- Hello - ***zdvořilý pozdrav***
+- Hi/hey - ***pro kámoše***
+- ~~Good morning/evening~~ - **NIKDY**
+
 ## Frázová slovesa
+- to take up - ***zažít něco nového***
+- to tel off - ***vynadat***
+- to work out - ***vyřešit něco, přijít na něco***
+- to make up - ***vymýšlet si příběhy, lhát / usmířit se***
+    - *We often quarrel but we always make it up soon after.* 
+
+### to look
+- to look after - ***dávat pozor/hlídat (dítě)***
+- to look forward to (+ing) - ***těšit se na (něco)***
+    - At school, I always look forward to going home.
+    - ~~I look forward to see you~~
+- to look at - ***podívat se na***
+- to look for - ***vyhledat (něco/někoho)***
+- to look up - ***vyhledat (informaci)***
+- to look up to - ***vzhlížet k někomu (vzor)***
+
+### to get
+- I get the bus to school
+    - I take the bus to school.
+    - ~~I go by bus to school.~~ 
+
+## Počitatelná/nepočitatelná
+- How much **fruit** is in the fridge?
+- How many **vegetables** are in the garden?
+- I have two **pieces of news**.
+- I have two **pieces of homework**.
 
 ## Synonyma
 ### I think
@@ -67,3 +123,55 @@
 - I am sure - ***jsem si jistý***
 
 *Vše je popř. v budoucím čase prostém **+will**.* Pokud tam není nějaký reálný podklad / důvod, na základě čeho bych si byl 100% jistý.
+
+*I will **persuate** him* - přesvědčím ho. 
+
+### Frightening
+- *= making you feel fear*
+    - The mask was so lifelike it was **quite frightening**.
+    - The deathly pallor of her skin was **frightening**.
+    - She found the film **extremely frightening**.
+- terrifying - *very frightening*
+    - a terrifying experience/ordeal
+- afraid
+    - I've always been **afraid of** flying/heights/spiders.
+    - She was **afraid for** her children (= feared that they might be hurt).
+- scare - *to (make a person or animal) feel frightened*
+    - Sudden noises scare her.
+    - She's very brave - she doesn't scare easily.
+    - He scared me out of my wits.
+- horrifying - *very shocking*
+- unpleasant experience
+
+### Confused
+- puzzled - *confused because you do not understand something*
+     - He had a puzzled look on his face.
+     - I'm still puzzled as to why she said that
+
+### to/a quarrel
+- to/a quarrel - *an angry disagreement between two or more people or groups*
+    - They had a bitter **quarrel about/over** some money three years ago and they haven't spoken to each other since.
+- an argument - *a disagreement*
+    - The children had **an argument about/over** what game to play.
+    - He got **into an argument with** Jeff in the pub last night.
+    - A decision was finally made after some **heated argument**.
+- to/a conflict
+    - His outspoken views would frequently bring him **into conflict with** the president.
+    - There was a lot of **conflict between** him and his father.
+
+### under
+- under - Under is used when something is directly under another.
+- underneath - Underneath is often used to say that something is covered by another thing.
+    - This jacket’s too small for me to wear a jumper underneath
+- beneath (formal) - In or to a lower position, *under*
+    - My cat always hides beneath the sofa when I have visitors
+- below - In or to a lower position (often used when in the same buliding, hill, part of the body etc.)
+    - Please fill out this form, but do not write anything below the red line.
+    - Who lives in the flat below yours?
+
+## Předložky
+- married to
+- divorced from
+- engaged with
+- good at
+- complain about
