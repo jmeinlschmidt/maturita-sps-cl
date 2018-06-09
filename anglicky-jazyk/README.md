@@ -186,7 +186,18 @@ I'm Jakub, nice to meet you.
     - His parents were **bitterly disappointed in/with** him. 
 
 ## Much, many, little, few, a lot, plenty
-
+- much / little - ***nepočitatelná podst. jm.***
+    - much time, little money etc. 
+- many / few - ***počitatelná podst. jm.***
+    - many friends, many people, few cars
+- a lot of, lots of, plenty of - ***počitatelná i nepočitatelná***
+    - a lot of luck, lots of time, plenty of money
+- much - ***do záporu***
+- little / few (very little / very few) - ***mírně negativní***
+    - He has little time for other things. (= not much time, less time he would like)
+- a little / a few - ***mírně pozitivní***
+    - He spoke little English, so it was difficult to communicate with him.
+    - He spoke **a** little English, so we were are able to communicate with him.
 
 ## Předložky
 - married to
