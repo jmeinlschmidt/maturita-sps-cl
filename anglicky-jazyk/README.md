@@ -38,3 +38,32 @@
 - business account - ***podnikatelský účet***
 - students account - ***studentský účet***
 - savings account - ***spořící účet***
+
+*Spend money **on** (something.)*
+
+## Školství
+- a college - ***bakalářské studium (first level); kolej***
+- a bachelor's degree - *a first degree at college or university*
+- a university - ***inženýr, magistr atd.***
+- a degree - ***vysokoškolský titul***
+- a secondary school [GB] - *high school [US]*
+- a graduation exam - ***maturitní zkouška***
+- a secondary school of general education - ***gymnázium***
+- a secondary technical school [GB] - *industrial high school [US]*
+
+## Frázová slovesa
+
+## Synonyma
+### I think
+- I think - ***myslím si***
+- I suppose - ***domnívám se***
+- I doubt - ***pochybuji***
+- I reckon - ***myslím si (hádám)***
+- I bet - ***sázím se***
+- I believe - ***věřím***
+- I assume - ***předpokládám***
+- I am of the view (opinion) - ***jsem toho názoru***
+- I am convinced - ***jsem přesvědčený***
+- I am sure - ***jsem si jistý***
+
+*Vše je popř. v budoucím čase prostém **+will**.* Pokud tam není nějaký reálný podklad / důvod, na základě čeho bych si byl 100% jistý.
