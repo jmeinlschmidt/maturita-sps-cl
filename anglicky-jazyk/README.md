@@ -86,7 +86,8 @@ I'm Jakub, nice to meet you.
 - to tel off - ***vynadat***
 - to work out - ***vyřešit něco, přijít na něco***
 - to make up - ***vymýšlet si příběhy, lhát / usmířit se***
-    - *We often quarrel but we always make it up soon after.* 
+    - *We often quarrel but we always make it up soon after.*
+- turn up - *happen*
 
 ### to look
 - to look after - ***dávat pozor/hlídat (dítě)***
@@ -169,9 +170,30 @@ I'm Jakub, nice to meet you.
     - Please fill out this form, but do not write anything below the red line.
     - Who lives in the flat below yours?
 
+### fed up
+- *= bored, annoyed, or disappointed, especially by something that you have experienced for too long*
+    - I'm fed up with my job.
+    - He got fed up with all the travelling he had to do.
+    - Residents are fed up with the disturbance caused by the nightclub.
+- annoyed with
+    - I was **so annoyed with him** for turning up late.
+    - He was **annoyed at the way** she tried to take over the whole meeting.
+- angry with/at
+    - He's really **angry at/with me** for upsetting Sophie.
+    - I don't understand what **he's angry about**.
+- disappointed about/at/with/in
+    - We were **deeply disappointed at/about** the result.
+    - His parents were **bitterly disappointed in/with** him. 
+
+## Much, many, little, few, a lot, plenty
+
+
 ## Předložky
 - married to
 - divorced from
 - engaged with
 - good at
+- interested in
+- fed up with
+- angry with/at
 - complain about
