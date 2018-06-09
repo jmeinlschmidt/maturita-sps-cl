@@ -1,1 +1,40 @@
 # Anglický jazyk
+
+## Economy and banking
+- a bank statement - *a printed record of the balance in a bank account; **výpis z účtu***
+- a cash point *[GB]* - *ATM [US]; **bankomat***
+- an interest rate - *the proportion of a loan that is charged as interest to the borrower; **úroková sazba***
+    - *High/low interest rate*
+- a charge - *a price asked for goods or services; **poplatek***
+- a mortgage - ***hypotéka***
+- a loan - *a thing that is borrowed, especially a sum of money that is expected to be paid back with interest; **půjčka***
+- a debt - *something, typically money, that is owed or due; **dluh***
+- a due date - *the date on which something falls due, especially the payment of a bill*
+- to owe - *have an obligation to pay; **mít povinnost zaplatit***
+- obligation - ***povinnost***
+- a standing order - ***trvalý příkaz***
+    - *Can you help me to set up **a standing order**?* 
+- to lend - *grant to (someone) the use of (something) on the understanding that it shall be returned; **půjčit někomu (zdarma)***
+- to borrow - *take and use (something that belongs to someone else) with the intention of returning it; **půjčit si od někoho (zdarma)***
+- to hire - *obtain the temporary use of (something) for an agreed payment; **pronajmout si něco (za peníze) krátkodobě***
+- to rent - *pay someone for the use of (something); **pronajmout si něco (za peníze) dlouhodobě, opakovaně***
+     - *How much does it cost to **rent** a two-room flat? I need to **hire/rent** a car for the weekend.*
+     - *There's a shop in High Street that **hires/rents (out)** evening dress.*
+     - *Tenants who fall behind in their **rent** risk being evicted.*
+     - In American English, hire means normally "to employ".
+- a tenant, lessee - *a person who occupies land or property rented from a landlord*
+- a landlord - *a person, especially a man, who rents (leases) land, a building, or an apartment to a tenant*
+- to lease - ***pronajmout někomu***
+- an intention - *an aim or a plan; **záměr nebo plán***
+- evict - *expel (someone) from a property, especially with the support of the law*
+- to claim - ***reklamovat***
+- a bill - ***účet (lístek v hospodě)***
+- a receipt - ***účtenka (paragon, faktura, účetní doklad)***
+- a refund - *a repayment of a sum of money, typically to a dissatisfied customer; **vrácení peněz***
+- to withdraw - ***vybrat peníze***
+- to overdraw - ***přečerpat (do mínusu)***
+- to deposit - ***vložit peníze***
+- current account - ***běžný účet***
+- business account - ***podnikatelský účet***
+- students account - ***studentský účet***
+- savings account - ***spořící účet***
