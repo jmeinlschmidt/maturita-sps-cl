@@ -199,6 +199,16 @@ I'm Jakub, nice to meet you.
     - He spoke little English, so it was difficult to communicate with him.
     - He spoke **a** little English, so we were are able to communicate with him.
 
+## Adverbs of indefinite frequency
+- always
+- almost always
+- generally/normally/regularly/usually
+- frequently/often
+- sometimes
+- occasionally
+- almost never/hardly ever/rarely/seldom
+- not ... ever/never
+
 ## Předložky
 - married to
 - divorced from
@@ -208,3 +218,4 @@ I'm Jakub, nice to meet you.
 - fed up with
 - angry with/at
 - complain about
+
