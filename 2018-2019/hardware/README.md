@@ -81,7 +81,7 @@ Nevýhody:
 - Je to Word
 - Nekonzistentní struktura dokumentu
 - Nemožnost verzovat pomocí GITu
-    - Teoreticky se verzovat dá, ale je buď jako XML nebo převést na Markdown/LaTex
+    - Teoreticky se verzovat dá, ale buď jako XML nebo převést na Markdown/LaTex
     - To by ale znamelo o dost větší náročnost na psaní dokumentu
     - Vyšší naročnost = více času. Více času = méně volného času pro maturanta
 
