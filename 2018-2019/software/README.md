@@ -93,3 +93,4 @@ Držet jednotný koncept pro daný maturitní předmět/ročník, řídit se poz
 - Naučit se s LaTexem již ve druhém ročníku
     - Ušetří to mnoho času **při tvorbě protokolů z měření**
     - Skvělá podpora matematických vzorců
+- Růční vypracování psát na samostatnou A4 a vkládat do euro obalů, nikoli psát do sešitu
