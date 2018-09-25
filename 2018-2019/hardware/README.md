@@ -7,7 +7,7 @@
 - Odkaz: http://sps-cl.cz/sites/default/files/1718_Temata_profilovych_zkousek.pdf
 
 ## Upozornění
-Autor ani odborný dozor neručí za správnost zpracovaných témat pro profilovou zkoušku. Zpracování témat slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
+Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
 
 ## Témata
 1. ~~Polovodiče 1~~ *nezpracováno*
