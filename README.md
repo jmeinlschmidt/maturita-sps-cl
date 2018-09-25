@@ -1,20 +1,14 @@
-# Maturitní témata SPŠ Česká Lípa
+# Maturitní zkouška SPŠ Česká Lípa
+- Studijní obor: 18-20-M/01 - Informační technologie
+- Škola - Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
 
-Aktuálně zpracováno pro školní rok 2015/2016.
+## Odpovědnost autora
+Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
 
-## Okruhy
-
-- [Český Jazyk](cesky-jazyk)
-- [Software](software)
+## Ročníky
+- [2015/2016] (2015-2016)
+- ~~2016/2017~~ *nevypracováno*
+- ~~2017/2018~~ *nevypracováno*
+- [2018/2019] (2018-2019)
 
 ## Přispívání
-
-Příspívání obsahem, opravou obsahu či alespoň hlášením chyb je velmi vítáno. Nebráním se ani obsahu z jiných oborů. Přispívání musí obsahovat pouze stručné, podstatné a ověřené informace.
-
-Pokud nastane situace, kdy dané dílo (např. kniha k četbě) není v aktuálním seznamu pro maturitu, takové dílo se nemaže, ale je přesunuto (v README) na konec do speciálního seznamu (např. "nadbytečné soubory"), pro případ budoucích změn, které by dané dílo znovu do aktuálního seznamu vrátily.
-
-## Výtisk dokumentu
-
-Každý dokument lze vytisknou, např. využitím webové aplikace GitPrint, kde pro vygenerování PDF stačí zaměnit doménu v URL z `github.com` za `gitprint.com` a zbytek URL ponechat nezměněný.
-
-## [Licence](LICENSE)
