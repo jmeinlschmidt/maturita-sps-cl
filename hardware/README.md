@@ -2,6 +2,7 @@
 - Studijní obor: 18-20-M/01 - Informační technologie
 - Škola - Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
 - Odborný dozor: Ing. Bašta Josef
+- Konzultace: Ing. Michna Michal, Mgr. Rachač Tomáš, Mgr. Harašta Milan
 - Školní rok: 2017/18
 - Odkaz: http://sps-cl.cz/sites/default/files/1718_Temata_profilovych_zkousek.pdf
 
