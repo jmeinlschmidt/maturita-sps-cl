@@ -37,7 +37,7 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovan
 25. ~~Programování v JSA~~ *nevypracováno*
 
 ## Forma vypracování témat a přispívání
-Pro úspěšné připuštění k maturitní zkoušce z předmětu Hardware je potřeba v řádném nebo konečném termínu odevzdat **ručně** vypracováná a odborným dozorem zkontrolovaná maturitní témata.
+Pro úspěšné připuštění k maturitní zkoušce z předmětu Hardware je potřeba v řádném nebo konečném termínu odevzdat **ručně** vypracováná a odborným dozorem schválená maturitní témata.
 
 - Řádně odevzdávat dle vyhlášených termínu (pravidelně cca 4/měsíc)
 - Pouze ruční zpracování
@@ -92,3 +92,4 @@ Držet jednotný koncept pro daný maturitní předmět/ročník, řídit se poz
 - Psát témata již během 3. ročníku / během prázdnin
 - Naučit se s LaTexem již ve druhém ročníku
     - Ušetří to mnoho času **při tvorbě protokolů z měření**
+    - Skvělá podpora matematických vzorců

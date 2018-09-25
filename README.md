@@ -12,3 +12,8 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 - [2018/2019](2018-2019)
 
 ## Přispívání
+Příspívání obsahem, opravou obsahu či alespoň hlášením chyb je vítáno.  Přispívání musí obsahovat pouze stručné, podstatné a ověřené informace.
+
+Je potřeba se řídit pokyny pro konkrétní předmět/ročník, aby byla zachována konzistence a struktura informací. Dále je vhodné se řídit poznámkami autora, jinak **nebude** pull-request schválen.
+
+Pro nové ročníky založit novou složku, přidat odkaz a ideálně držet strukturu z předchozího roku.
