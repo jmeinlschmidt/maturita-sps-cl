@@ -6,7 +6,9 @@
 
 #### Stručný obsah
 
-Hlavní hrdina a zároveň vypravěč novely Miloš Hrma se po prvním sexuálním nezdaru neúspěšně pokusí o sebevraždu. Z psychiatrické léčebny se vrací na nádraží, kde předtím pracoval. Jinak poklidnou atmosféru provinční stanice narušují erotické hry výpravčího Hubičky (orazítkování pozadí telegrafistky Svaté), zejména však průjezdy „ostře sledovaných“ německých vlaků se zbraněmi, vojáky a municí. Milošovo osobní trauma překonává tajemná Viktorie Freie, odbojářka, která na stanici přinese nálož k likvidaci německého transportu. Miloš zbavený svého problému ztrácí zábrany a v sabotážní akci nasazuje vlastní život. Bombu vhodí, ale je přitom viděn Němcem. Miloš po něm vystřelí a Němec po něm také. Oba se dlouho trápí ve smrtelných bolestech, až Miloš ulehčí Němcovo trápení dvěma dalšími střelami. Vlak vybouchne.
+Hlavní hrdina a zároveň vypravěč novely Miloš Hrma se po prvním sexuálním nezdaru neúspěšně pokusí o sebevraždu. Z psychiatrické léčebny se vrací na nádraží, kde předtím pracoval. Jinak poklidnou atmosféru provinční stanice narušují erotické hry výpravčího Hubičky (orazítkování pozadí telegrafistky Svaté), zejména však průjezdy „ostře sledovaných“ německých vlaků se zbraněmi, vojáky a municí. Milošovo osobní trauma překonává tajemná Viktorie Freie, odbojářka, která na stanici přinese nálož k likvidaci německého transportu. Miloš zbavený svého problému ztrácí zábrany a v sabotážní akci nasazuje vlastní život. Bombu vhodí, ale je přitom viděn Němcem. Miloš po něm vystřelí a Němec po něm také. Oba padají do příkopu vedle kolejí, kde umírají. Němec v bolestech, Hrma s hrdostí na svůj čin, ale zároveň s lítostí nad umírajícím Němcem a pýchu nad záškodnickým činem doprovází pocit marnosti nad smrtí a válkou vůbec.
+
+Konec knihy a filmu se trochu liší.
 
 ### Téma a motiv
 
@@ -34,35 +36,29 @@ Epika
 
 - **žánr**
 
-Autobiografie, soubor povídek (= krátký a stručný děj, jedna dějová linie, neměnnost charakteru postav)
+Novela (= podobná povídce, jeden jednoduchý, ale poutavý a nápaditý příběh, stupňuje ho až do překvapivého dějového zvratu (tzv. bod obratu), obsahuje pointu)
 
 ### Vypravěč / lyrický subjekt
 
-Sám autor, ich-forma, vystupuje v díle jako jedna z postav
+Vypravěč je ústřední postava Miloš Hrma; ich-forma.
 
 ### Postavy
 
-- **Leo Popper (tatínek)**:
-    - žid
-    - smysl pro humor, zapálený a posedlý svými touhami a sny
-    - žádný úspěch ho nikdy neodradí, zachovává si silný optimismus
-    - bezhlavě se vrhá do každé příležitosti
-    - dobrý obchodník, rád se stará o svoje kapry, králíky, válka ho nezlomí
-- **Herma Popperová (maminka)**:
-    - žid
-    - velmi tolerantní a laskavá, obětavá žena
-    - je ji věnováno podstatně méně pozornosti než tatínkovi
-    - vždy touží po dovolené v itálii, namísto koupě rybníka
-- **strejda Karel Prošek**:
-    - velmi kladný vztah s rodinou a malým Otou
-    - pytlák
-    - jeho smrt pro Otu znamenala konec dětství
-- **pes Holan**:
-    - vlčák
-    - nerozlučitelný parťák strejdy Proška
-    - skvěle loví zvěř
-    - uloví srnce pro bratry před tím, než jdou do koncentračního tábora
-- dále se vyskytují **ředitel Korálka, paní Irma, malíř Nechleba, inženýr Jehlička**, každý z nich dal v díle tatínkovi určitou naději
+- **Miloš Hrma**:
+    - Mladý výpravčí
+    - Symbolika nezkušeného, citlivého hocha, který se vyvine v muže a v zápětí ho poznamenala válka
+    - Naivní, nemá zkušenosti se ženami
+- **Hubička**:
+    - Starší výpravčí
+    - Kontrast s Milošem, zkušený donchuán
+- **Máša**:
+    - Milošova dívka, svědkyně jeho "selhání"
+- **pan přednosta**:
+    - Toužící po povýšení
+- **paní přednostová**:
+    - Trpělivá a chápavá, u které Miloš naivně hledá pomoc od svého problému
+- **Viktoria Freie**:
+    - Tajemná a atraktivní žena, která Miloše zbaví panictví a nabitého sebevědomím ho přesvědčí k atentátu
 
 ### Vyprávěcí způsoby
 - Převážně nepřímá řeč (vypravuje sám autor)
