@@ -1,8 +1,6 @@
 # Témata ústní formy státní maturitní zkoušky Český jazyk a literatura
 - Studijní obor: 18-20-M/01 - Informační technologie
 - Škola - Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
-- Odborný dozor: Mgr. Čechová Gabriela
-- Konzultace: -
 - Školní rok: 2018/19
 - Odkaz: http://sps-cl.cz/sites/default/files/1718_Skolni_seznam_literarnich_del.pdf
 
@@ -34,7 +32,7 @@ Světová literatura (minimálně 4 literární díla)
 
 10. **[četl]** Čapek Karel: R.U.R.
 11. **[četl]** Čapek KArel: Válka s mloky
-12. **[četl]** Hrabal: Ostře sledované vlaky
+12. **[téměř zpracováno]** Hrabal: Ostře sledované vlaky
 13. Fuks: Spalovač mrtvol
 14. **[téměř zpracováno]** Pavel: Smrt krásných srnců
 
