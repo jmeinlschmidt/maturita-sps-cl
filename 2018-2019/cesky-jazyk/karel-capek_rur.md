@@ -1,5 +1,7 @@
 # Karel Čapek - R.U.R.
 
+- Karel Čapek
+
 ## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
@@ -76,12 +78,32 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-XXX
+- 1921 [drama] R.U.R. - Po první světové válce, autor ohromen technikou, bojí se o její vliv na lidstvo
+- 
+
+- 1937 [drama] Bílá Nemoc
 
 ### Literální / obecně kulturní kontext
 
-XXX
-
+- **Demokratický proud**
+    - = česká meziválečná próza
+    - = prolidová, soustředí se na lidství
+    - = tzv. pragmatisté, pragmatismus (= zaměření na užitečnost, smysl)
+    - Karel Poláček [1892 – 1944] (*1946 Bylo nás pět*)
+        - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
+        - Pohled na život v maloměstě očima dětí, částečná autobiografie
+        - Karikatura světa dospělých
+    - Eduard Bass [1888 – 1946] (*1941 Cirkus Humberto*)
+        - Oslavuje člověka (jednotlivce), jeho vytrvalost, pracovitost a píly
+        - Dodává sílu národu během okupace
+- **zakladatel československého odboru PEN klubu**
+    - nejstarší světová organizace na ochranu lidských práv
+    - celosvětové sdružení spisovatelů, žurnalistů a vydavatelů
+    - 1921 založeno v Londýně
+    - 1923 prvním českým členem Alois Jirásek (*1984 Staré pověsti české*)
+    - 1925 vznik československého odboru, prvním předsedou Karel Čapek
+    - 1942 rozpuštěn nacisty
+- **pátečníci**
 ---
 
 Další autoři např.:
