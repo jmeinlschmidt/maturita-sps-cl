@@ -40,9 +40,9 @@ Světová literatura (minimálně 4 literární díla)
 
 Další tituly podle své volby
 
-15. ~~Číselné soustavy~~ *nevypracováno*
-16. ~~Booleova algebra, minimalizace funkcí~~ *nevypracováno*
-17. ~~Kombinační logické obvody~~ *nevypracováno*
-18. ~~Sekvenční logické obvody~~ *nevypracováno*
-19. ~~Mikroprocesory~~ *nevypracováno*
-20. ~~Mikroprocesory~~ *nevypracováno*
+15. xxx
+16. xxx
+17. xxx
+18. xxx
+19. xxx
+20. xxx
