@@ -7,8 +7,6 @@ Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Vzni
 
 ### Zasazení výňatku do kontextu díla
 
-Kniha je epická (má děj), obsahuje 7 povídek (= krátký a stručný děj, jedna dějová linie, neměnnost charakteru postav)
-
 #### Stručný obsah
 
 Jednotlivé povídky
@@ -75,6 +73,8 @@ Jednotlivé povídky
 
 V knize zachycuje **útrapy války**, ale stejně dobře **píše o veselí a radosti v životě**. Líčí zde také svůj obdiv k tatínkovi, velkému snílkovi a dobrodruhovi, který si v každé situaci věděl rady a nikdy neztrácel naději. S něhou vzpomíná na maminku, statečnou ženu, jež dokázala s nadhledem přijímat různé tatínkovy výstřelky. Z celé knihy je patrný silný autorův vztah k přírodě, k rybaření, sportu a rodné zemi.
 
+Neobvyklé kontrasty tragických a komických prvků.
+
 ### Téma a motiv
 
 - **téma**
@@ -91,13 +91,13 @@ Dle jednotlivých povídek se děj odehrává - před válkou, během války 2. 
 
 ### Kompoziční výstavba
 
-Chronologické řazení, kniha se dělí na jednotlivé povídky
+Chronologické řazení, psáno prózou, obsahuje 7 povídek (= krátký a stručný děj, jedna dějová linie, neměnnost charakteru postav).
 
 ### Literární druh a žánr
 
 - **druh**
 
-Epika
+Epika (= má děj)
 
 - **žánr**
 
