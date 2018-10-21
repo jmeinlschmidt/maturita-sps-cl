@@ -1,4 +1,4 @@
-# Bohumil Hrabal - Ostře sledované vlaky
+# Karel Čapek - R.U.R.
 
 ## Analýza uměleckého textu
 

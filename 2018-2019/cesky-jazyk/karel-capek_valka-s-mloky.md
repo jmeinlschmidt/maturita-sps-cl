@@ -1,4 +1,4 @@
-# Bohumil Hrabal - Ostře sledované vlaky
+# Karel Čapek - Válka s mloky
 
 ## Analýza uměleckého textu
 
