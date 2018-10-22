@@ -17,9 +17,41 @@ Karel Čapek je ohromen technickými výdobytky první světové války
 - technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
 - *cit* charakterizován jako výsadně lidská vlastnost
 
-Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?)
+Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?, že láskou lze lidstvo zachránit)
 
 Ačkoliv se jedná o utopickou představu, autor se před ní snaží varovat, proto = **antiutopie**. Velmi nadčasové dílo.
+
+Předehra + 3 dějství (akty)
+
+0. Předehra
+    - *Slouží pro uvedení diváků do děje*
+    - V továrně na ostrově se vyrábějí roboti, kteří pracují za lidi (= myšlenka absolutního blahobytu)
+    - Na ostrov připlouvá na lodi vzácná návštěva - Helena Gloryová
+    - Seznamuje s lidmi v továrně, Helena se zasnoubí s Dominem (centrálním ředitelem)
+    - Idilistický život na ostrově, blahobyt, všechno práci odvedou roboti
+    - Ostrov již neopouští
+1. dějství
+    - O deset let později
+    - Helena od začátku vyjadřovala lítost nad roboty (nerovnost robotů a lidí, roboti nemají city)
+    - Helena od začátku přesvědčovala doktora Galla, aby roboty zkusil naučit citům
+    - Domin daruje Heleně dělovou loď, nosí revolver (podezřelé chování)
+    - Helena se náhodou z novin dozvídá o dění mimo ostrov
+    - Přestávají se rodit děti (= blahobyt přechází v zánik společnosti)
+    - Roboti se různě po světě bouří
+    - Helena se snaží zabránit zkáze lidstva spálením spisů starého Rossuma na výrobu robotů
+    - Lidé nestihnou utéct na dělovou loď a jsou obklíčeni roboty v továrně (poslední pozůstatky lidstva)
+2. dějství
+    - Roboti požadují Rossumovi spisy (jediná šance na vykouopení lidí = znamenalo by neomezené množení robotů)
+    - Helena se přiznává, že spisy spálila
+    - Bushman se pokouší vykoupit penězi, ale je roboty zabit
+    - Snaží se proto bránit, ale roboti vpadnou do budovy a všechny nelítostně pobijí
+    - Stavitele Alquista ušetří
+3. dějství
+    - Roboti si Alquista pamatují jako jediného člověka, co ještě pracoval rukama, proto ho ušetří
+    - Žádají o postup na výrobu dalších robotů, jinak se nemohou množit
+    - Alquist se na výrobě robotů nepodílel a postup nezná
+    - Když se rozhodně jednoho robota pitvat, zjistí, že se u dvou robotu projevují city a láska
+    - Kniha končí filozofickým monologem Alquista o nahrazením lidské rasy roboty a že pomocí lásky lidé nevyhynou (poukazuje na Adama a Evu)
 
 ### Téma a motiv
 
@@ -55,28 +87,13 @@ Vypravěč je ústřední postava Miloš Hrma; ich-forma.
 
 ### Postavy
 
-- **Miloš Hrma**:
-    - Mladý výpravčí
-    - Symbolika nezkušeného, citlivého hocha, který se vyvine v muže a v zápětí ho poznamenala válka
-    - Naivní, nemá zkušenosti se ženami
-- **Hubička**:
-    - Starší výpravčí
-    - Kontrast s Milošem, zkušený donchuán
-- **Máša**:
-    - Milošova dívka, svědkyně jeho "selhání"
-- **pan přednosta**:
-    - Toužící po povýšení
-- **paní přednostová**:
-    - Trpělivá a chápavá, u které Miloš naivně hledá pomoc od svého problému
-- **Viktoria Freie**:
-    - Tajemná a atraktivní žena, která Miloše zbaví panictví a nabitého sebevědomím ho přesvědčí k atentátu
+XXX
 
 ### Vyprávěcí způsoby
-- Převážně nepřímá řeč (vypravuje sám autor)
-- Vyskytuje se i přímá řeč
+XXX
 
 ### Typy promluv
-Pásmo vypraveče, často se vyskytuje dialog nebo monolog.
+XXX
 
 ### Veršovaná výstavba
 \-\-\-
