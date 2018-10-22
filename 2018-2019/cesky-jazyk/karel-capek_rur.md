@@ -1,6 +1,12 @@
 # Karel Čapek - R.U.R.
 
 - zkratka R.U.R. = **Rossum's Universal Robots**
+- Karel Čapek [1890 – 1938] - dramatik, novinář, spisovatel, překladatel, intelektuál, filozof
+- Alma mater - Filozofická fakulta UK
+- Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn
+- Přispěvatel - Národní listy, poté Lidové noviny
+- Dramaturg Vinohradského divadla
+- Vznik *novotvoaru* robot
 
 ## Analýza uměleckého textu
 
@@ -15,6 +21,7 @@ Karel Čapek je ohromen technickými výdobytky první světové války
 - varování lidí, aby se nestali otroky svých vlastních vynázelů
 - poukazuje na snadnou manipulaci a masové chování (= masovým chováním robotů poukazuje na davové chování lidí?)
 - technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
+- v díle **není kritika** Německa ani Hitlera
 - *cit* charakterizován jako výsadně lidská vlastnost
 
 Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?, že láskou lze lidstvo zachránit)
@@ -104,18 +111,17 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-- 1921 [drama] R.U.R. - Po první světové válce, autor ohromen technikou, bojí se o její vliv na lidstvo
-- 
-
-- 1937 [drama] Bílá Nemoc
+- 1921 [drama] R.U.R. - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
+- 1936 [román] Válka s mloky - Ovlivněno politickou situací, varování před rozpínavostí (= lidé si za své neštěstí můžou sami)
+- 1937 [drama] Bílá Nemoc - Nemoc mysli, přípravy na válku, fanatizace společnosti
 
 ### Literální / obecně kulturní kontext
 
-- **Demokratický proud**
+- **demokratický proud**
     - = česká meziválečná próza
     - = prolidová, soustředí se na lidství
     - = tzv. pragmatisté, pragmatismus (= zaměření na užitečnost, smysl, staví do popředí lidské jednání)
-    - Karel Poláček [1892 – 1944] (*1946 Bylo nás pět*)
+    - Karel Poláček     - Idilistický život na ostrově, blahobyt (*1946 Bylo nás pět*)
         - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
         - Pohled na život v maloměstě očima dětí, částečná autobiografie
         - Karikatura světa dospělých
@@ -129,7 +135,7 @@ XXX
     - 1923 prvním českým členem Alois Jirásek (*1984 Staré pověsti české*)
     - 1925 vznik československého odboru, prvním předsedou Karel Čapek
     - 1942 rozpuštěn nacisty
-- **pátečníci**
+- **zakladatel pátečníků**
 ---
 
 Další autoři např.:
