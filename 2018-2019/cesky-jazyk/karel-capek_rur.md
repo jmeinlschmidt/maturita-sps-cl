@@ -8,15 +8,22 @@
 
 #### Stručný obsah
 
-Hlavní hrdina a zároveň vypravěč novely Miloš Hrma se po prvním sexuálním nezdaru neúspěšně pokusí o sebevraždu. Z psychiatrické léčebny se vrací na nádraží, kde předtím pracoval. Jinak poklidnou atmosféru provinční stanice narušují erotické hry výpravčího Hubičky (orazítkování pozadí telegrafistky Svaté), zejména však průjezdy „ostře sledovaných“ německých vlaků se zbraněmi, vojáky a municí. Milošovo osobní trauma překonává tajemná Viktorie Freie, odbojářka, která na stanici přinese nálož k likvidaci německého transportu. Miloš zbavený svého problému ztrácí zábrany a v sabotážní akci nasazuje vlastní život. Bombu vhodí, ale je přitom viděn Němcem. Miloš po něm vystřelí a Němec po něm také. Oba padají do příkopu vedle kolejí, kde umírají. Němec v bolestech, Hrma s hrdostí na svůj čin, ale zároveň s lítostí nad umírajícím Němcem a pýchu nad záškodnickým činem doprovází pocit marnosti nad smrtí a válkou vůbec.
+Karel Čapek je ohromen technickými výdobytky první světové války
+- snaží se **varovat** před negativními vlivy techniky na lidstvo
+- poukazuje na téma lidské lenosti (= vše za nás udělají stroje a roboti)
+- varování před úpadkem společnosti a jejím zánikem (= bude nahrazena roboty)
+- varování lidí, aby se nestali otroky svých vlastních vynázelů
+- poukazuje na snadnou manipulaci a masové chování (= masovým chováním robotů poukazuje na davové chování lidí?)
+- technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
+- *cit* charakterizován jako výsadně lidská vlastnost
 
-Konec knihy a filmu se trochu liší.
+Závěr knihy Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?)
 
 ### Téma a motiv
 
 - **téma**
 
-Dopad války na lidské životy - přechod chlapce v muže v období války
+Varování před vlivem techniky na lidstvo
 
 - **motiv**
 
@@ -88,7 +95,7 @@ XXX
 - **Demokratický proud**
     - = česká meziválečná próza
     - = prolidová, soustředí se na lidství
-    - = tzv. pragmatisté, pragmatismus (= zaměření na užitečnost, smysl)
+    - = tzv. pragmatisté, pragmatismus (= zaměření na užitečnost, smysl, staví do popředí lidské jednání)
     - Karel Poláček [1892 – 1944] (*1946 Bylo nás pět*)
         - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
         - Pohled na život v maloměstě očima dětí, částečná autobiografie
