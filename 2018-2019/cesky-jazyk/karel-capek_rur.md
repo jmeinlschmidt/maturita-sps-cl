@@ -1,6 +1,6 @@
 # Karel Čapek - R.U.R.
 
-- Karel Čapek
+- zkratka R.U.R. = **Rossum's Universal Robots**
 
 ## Analýza uměleckého textu
 
@@ -17,7 +17,9 @@ Karel Čapek je ohromen technickými výdobytky první světové války
 - technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
 - *cit* charakterizován jako výsadně lidská vlastnost
 
-Závěr knihy Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?)
+Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?)
+
+Ačkoliv se jedná o utopickou představu, autor se před ní snaží varovat, proto = **antiutopie**. Velmi nadčasové dílo.
 
 ### Téma a motiv
 
@@ -27,25 +29,25 @@ Varování před vlivem techniky na lidstvo
 
 - **motiv**
 
-Zbytečné ztráty na životech, jak válka ovlivňuje lidské životy, nesmyslnost války, sexuální nezkušenost, železnice, láska, zklamání
+technika, lidský pokrok, zánik společnosti, úpadek, roboti, neurčitá budoucnost, lidská morálka
 
 ### Časoprostor
 
-Konec druhé světové války, železnižní stanice Kostomlaty
+Neurčitá budoucnost na Rossumově ostrově.
 
 ### Kompoziční výstavba
 
-Chronologický kompoziční postup, retrospekce hlavního hrdiny.
+Chronologický postup. Předehra a 3 dějství. 83 stran.
 
 ### Literární druh a žánr
 
 - **druh**
 
-Epika
+Drama
 
 - **žánr**
 
-Novela (= podobná povídce, jeden jednoduchý, ale poutavý a nápaditý příběh, stupňuje ho až do překvapivého dějového zvratu (tzv. bod obratu), obsahuje pointu)
+Antiutopie (místy komedie, ale převažuje tragická povaha dramatu)
 
 ### Vypravěč / lyrický subjekt
 
