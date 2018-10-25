@@ -26,7 +26,7 @@ Karel Čapek je ohromen technickými výdobytky první světové války
 
 Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?, že láskou lze lidstvo zachránit)
 
-Ačkoliv se jedná o utopickou představu, autor se před ní snaží varovat, proto = **antiutopie**. Velmi nadčasové dílo.
+Ačkoliv se jedná o utopickou představu, autor se před ní snaží varovat a představuje ji vědomě jako utopickou, proto = **antiutopie**.
 
 Předehra + 3 dějství (akty)
 
@@ -86,15 +86,42 @@ Drama
 
 - **žánr**
 
-Antiutopie (místy komedie, ale převažuje tragická povaha dramatu)
+Antiutopie (místy komedie, ale převažuje tragická povaha dramatu) (= snaží se varovat před utopií)
 
 ### Vypravěč / lyrický subjekt
-
-Vypravěč je ústřední postava Miloš Hrma; ich-forma.
+XXX
 
 ### Postavy
 
-XXX
+Nositelé morálních hodnot, životních postojů. Nejsou hlouběji popisovány.
+
+- **Roboti**
+    - Umělé bytosti podobné lidem
+    - Postrádají cit, lásku, necíti bolest
+    - Nemají systém hodnot
+    - Vystupují jako masa
+    - Původní účel sloužit lidem, usnadnit život
+- **Primus a Helena**
+    - První roboti u kterých se po úpravavách dr. Gallena začala projevovat láska a cit
+- **Harry Domin**
+    - Centrální ředitel R.U.R.
+    - Manžel Heleny
+    - Posedlý myšlenkou povznést člověka, zbavit jej dřiny, prosazuje roboty
+- **Helena Gloryová**
+    - Manželka Domina
+    - Soucítí s roboty, od začátku chce roboty zrovnoprávnit, dát jim cit a lásku
+    - Zastupuje cit, lásku, dobrý úmysl, ale nebrání se užívat si blahobyt od robotů
+- **stavitel Alquist**
+    - Jeho největší hodnoty naopak jsou lidský život a manuální práce, zastává rozumový přístup k životu
+    - Nehledá usnadnění života roboty
+    - Jeho jediného nechali roboti žít
+- **Dr. Gall**
+    - Přednosta výzkumného oddělení
+    - Na popud Heleny tajně rozvíjí inteligenci robotů
+- **Nána**
+    - Chůva Heleny, jediná používá hovorový, nikoli spisovný jazyk
+    - Robotů se štití a naopak ji přijdou děsiví
+ - dále se vyskytují **Ing. Fabry, Busman, robot Radius atd.**
 
 ### Vyprávěcí způsoby
 XXX
@@ -112,7 +139,7 @@ XXX
 ### Kontext autorovy tvorby
 
 - 1921 [drama] R.U.R. - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
-- 1936 [román] Válka s mloky - Ovlivněno politickou situací, varování před rozpínavostí (= lidé si za své neštěstí můžou sami)
+- 1936 [román] Válka s mloky - Ovlivněno politickou situací, varování před rozpínavostí, nenasytností (= lidé si za své neštěstí můžou sami)
 - 1937 [drama] Bílá Nemoc - Nemoc mysli, přípravy na válku, fanatizace společnosti
 
 ### Literální / obecně kulturní kontext
