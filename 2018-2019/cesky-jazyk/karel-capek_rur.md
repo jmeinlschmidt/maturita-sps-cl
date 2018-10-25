@@ -23,10 +23,10 @@ Karel Čapek je ohromen technickými výdobytky první světové války
 - snaží se **varovat** před negativními vlivy techniky na lidstvo
 - poukazuje na téma lidské lenosti (= vše za nás udělají stroje a roboti)
 - varování před úpadkem společnosti a jejím zánikem (= bude nahrazena roboty)
-- varování lidí, aby se nestali otroky svých vlastních vynázelů
+- varování lidí, aby se nestali otroky svých vlastních vynálezů
 - poukazuje na snadnou manipulaci a masové chování (= masovým chováním robotů poukazuje na davové chování lidí?)
 - technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
-- *cit* charakterizován jako výsadně lidská vlastnost
+- *cit* charakterizován jako výsadně lidská vlastnost (= odlišuje lidi od robotů)
 
 Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?, že láskou lze lidstvo zachránit)
 
