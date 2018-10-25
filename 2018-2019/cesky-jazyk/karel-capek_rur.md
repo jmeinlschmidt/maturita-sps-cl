@@ -3,10 +3,14 @@
 - zkratka R.U.R. = **Rossum's Universal Robots**
 - Karel Čapek [1890 – 1938] - dramatik, novinář, spisovatel, překladatel, intelektuál, filozof
 - Alma mater - Filozofická fakulta UK
-- Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn
+- Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn (důkaz vznik R.U.R.)
 - Přispěvatel - Národní listy, poté Lidové noviny
 - Dramaturg Vinohradského divadla
 - Vznik *novotvoaru* robot
+- Premiéra R.U.R. leden 1921
+    - V díle **není kritika** Německa ani Hitlera
+    - Hitler se stal předsedou NSDAP až v červenci 1921 a poté byl stejně zatčen
+    - NSDAP se začala dostávat k moci až ve 30. letech během finanční krize
 
 ## Analýza uměleckého textu
 
@@ -21,7 +25,6 @@ Karel Čapek je ohromen technickými výdobytky první světové války
 - varování lidí, aby se nestali otroky svých vlastních vynázelů
 - poukazuje na snadnou manipulaci a masové chování (= masovým chováním robotů poukazuje na davové chování lidí?)
 - technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
-- v díle **není kritika** Německa ani Hitlera
 - *cit* charakterizován jako výsadně lidská vlastnost
 
 Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?, že láskou lze lidstvo zachránit)
