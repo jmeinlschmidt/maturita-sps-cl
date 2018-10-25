@@ -11,6 +11,7 @@
     - V díle **není kritika** Německa ani Hitlera
     - Hitler se stal předsedou NSDAP až v červenci 1921 a poté byl stejně zatčen
     - NSDAP se začala dostávat k moci až ve 30. letech během finanční krize
+    - tj. dlouho poté, co dílo vůbec vzniklo
 
 ## Analýza uměleckého textu
 
@@ -151,7 +152,7 @@ XXX
     - = česká meziválečná próza
     - = prolidová, soustředí se na lidství
     - = tzv. pragmatisté, pragmatismus (= zaměření na užitečnost, smysl, staví do popředí lidské jednání)
-    - Karel Poláček     - Idilistický život na ostrově, blahobyt (*1946 Bylo nás pět*)
+    - Karel Poláček [1892 – 1945] (*1946 Bylo nás pět*)
         - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
         - Pohled na život v maloměstě očima dětí, částečná autobiografie
         - Karikatura světa dospělých
@@ -166,6 +167,9 @@ XXX
     - 1925 vznik československého odboru, prvním předsedou Karel Čapek
     - 1942 rozpuštěn nacisty
 - **zakladatel pátečníků**
+    - označení pro kulturní a politické osobnosti první republiky z okruhu spisovatele Karla Čapka
+    - scházeli se každý pátek v Čapkovo vile od roku 1925 až do jeho smrti 1938
+    - Karel a Josef Čapkovi, T. G. Masaryk, Edvard Beneš, Ferdinand Peroutka, Eduard Bass, Karel Poláček, Jan Masaryk atd.
 ---
 
 Další autoři např.:
