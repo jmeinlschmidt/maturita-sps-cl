@@ -5,7 +5,7 @@
 - **Česká próza 2. světové války - 2. vlna**
 - Alma mater - Univerzita Karlova
 - Jeho další díla například Slavnosti sněženek, Obsluhoval jsem anglického krále
-- Vydáno 1965
+- Vydáno v roce 1965
 
 ## Analýza uměleckého textu
 
