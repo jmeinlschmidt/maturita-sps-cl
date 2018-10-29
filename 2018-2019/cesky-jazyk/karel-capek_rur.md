@@ -20,13 +20,13 @@
 #### Stručný obsah
 
 Karel Čapek je ohromen technickými výdobytky první světové války
-- snaží se **varovat** před negativními vlivy techniky na lidstvo
-- poukazuje na téma lidské lenosti (= vše za nás udělají stroje a roboti)
-- varování před úpadkem společnosti a jejím zánikem (= bude nahrazena roboty)
-- varování lidí, aby se nestali otroky svých vlastních vynálezů
+- snaží se **varovat** před negativními vlivy techniky na lidstvo (= vynález umělého člověka - robota, ohrozí existenci lidstva)
+- motiv lidské lenosti, peněz a nenasytnosti (= vše za nás udělají stroje a roboti)
+- varovuje, aby se lid= nestali otroky svých vlastních vynálezů
 - poukazuje na snadnou manipulaci a masové chování (= masovým chováním robotů poukazuje na davové chování lidí?)
-- technický pokrok postupoval rychleji než lidská morálka (ta spíše upadala)
+- technický pokrok postupoval rychleji než lidská morálka
 - *cit* charakterizován jako výsadně lidská vlastnost (= odlišuje lidi od robotů)
+- ve dvojici nejdokonalejších robotů *Heleny a Primuse* se probudí *nová* lidská vlastnost - cit (= lidstvo je zachráněno, idealistický konec)
 
 Závěr ve 3. dějství (aktu) Alquistův monolog, kdy zjišťuje že, po vyhynutí lidstva, se u dvou robotů objevil cit a láska. Pozná že život na světě nezahyne a obrací se k Adamovi a Evě. (= poukazuje na naději na záchranu lidstva?, že láskou lze lidstvo zachránit)
 
@@ -68,15 +68,15 @@ Předehra + 3 dějství (akty)
 
 - **téma**
 
-Varování před vlivem techniky na lidstvo
+Varování před vlivem techniky na lidstvo, a zánikem společnosti
 
 - **motiv**
 
-technika, lidský pokrok, zánik společnosti, úpadek, roboti, neurčitá budoucnost, lidská morálka
+technika, lidský pokrok, zánik společnosti, lidé se přestanou rodit, roboti, neurčitá budoucnost, lidská morálka, lidský cit, láska
 
 ### Časoprostor
 
-Neurčitá budoucnost na Rossumově ostrově.
+Neurčitá budoucnost na Rossumově ostrově. (= alegoricky říká co by se mohlo stát)
 
 ### Kompoziční výstavba
 
@@ -90,10 +90,15 @@ Drama
 
 - **žánr**
 
-Antiutopie (místy komedie, ale převažuje tragická povaha dramatu) (= snaží se varovat před utopií)
+Antiutopické drama/hra (místy komedie, ale převažuje tragická povaha dramatu) (= snaží se varovat před utopií)
+
+**Nemůže být tragédie! Hlavním znakem tragédie je 5 dějství.**
 
 ### Vypravěč / lyrický subjekt
-XXX
+
+Próza = vypravěč. V této hře se vypravěč nevyskytuje. Děj stojí na replikách jednotlivých postav. Dílo je doplněno scénickými poznámkami.
+
+Ve scénické poznámce je vždy uvedeno, kdo v daném dějství hraje.
 
 ### Postavy
 
@@ -125,16 +130,19 @@ Nositelé morálních hodnot, životních postojů. Nejsou hlouběji popisovány
 - **Nána**
     - Chůva Heleny, jediná používá hovorový, nikoli spisovný jazyk
     - Robotů se štití a naopak ji přijdou děsiví
- - dále se vyskytují **Ing. Fabry, Busman, robot Radius atd.**
+ - dále se vyskytují **Ing. Fabry, Busman, robot Radius, robotka Helena, robot Domin, robot Primus atd.**, jejich charaktery ale nejsou hlouběji popsány
 
 ### Vyprávěcí způsoby
-XXX
+
+Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
 
 ### Typy promluv
-XXX
+
+Typy promluv u **dramatu** - dialog, monolog, replika, **scénická poznámka** (= navozuje děj, říká co se odehrává na jevišti).
 
 ### Veršovaná výstavba
-\-\-\-
+
+**Není**. Drama je psáno prózou.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 XXX
@@ -155,7 +163,7 @@ XXX
     - Karel Poláček [1892 – 1945] (*1946 Bylo nás pět*)
         - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
         - Pohled na život v maloměstě očima dětí, částečná autobiografie
-        - Karikatura světa dospělých
+        - Karikatura světa dospělých, satira až kritika maloměštáctví
     - Eduard Bass [1888 – 1946] (*1941 Cirkus Humberto*)
         - Oslavuje člověka (jednotlivce), jeho vytrvalost, pracovitost a píly
         - Dodává sílu národu během okupace
@@ -170,8 +178,3 @@ XXX
     - označení pro kulturní a politické osobnosti první republiky z okruhu spisovatele Karla Čapka
     - scházeli se každý pátek v Čapkovo vile od roku 1925 až do jeho smrti 1938
     - Karel a Josef Čapkovi, T. G. Masaryk, Edvard Beneš, Ferdinand Peroutka, Eduard Bass, Karel Poláček, Jan Masaryk atd.
----
-
-Další autoři např.:
-
-XXX
