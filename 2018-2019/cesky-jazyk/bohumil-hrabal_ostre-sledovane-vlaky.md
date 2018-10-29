@@ -2,7 +2,7 @@
 
 - Ostře sledované vlaky byly vojenské transporty Wehrmachtu
 - Bohumil Hrabal [1914 – 1997] - jeden z nejvýznamnějších a nejosobitějších spisovatelů druhé poloviny 20. století
-- **česká próza 2. světové války - 2. vlna**
+- **Česká próza 2. světové války - 2. vlna**
 - Alma mater - Univerzita Karlova
 - Jeho další díla například Slavnosti sněženek, Obsluhoval jsem anglického krále
 - Vydáno 1965
