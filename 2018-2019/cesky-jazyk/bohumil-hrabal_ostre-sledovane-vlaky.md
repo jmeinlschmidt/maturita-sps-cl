@@ -39,7 +39,7 @@ Chronologický kompoziční postup, retrospekce hlavního hrdiny.
 
 - **druh**
 
-Epika
+Epika (= má děj)
 
 - **žánr**
 
