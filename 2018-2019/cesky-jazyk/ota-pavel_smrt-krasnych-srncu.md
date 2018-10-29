@@ -1,8 +1,8 @@
 # Ota Pavel - Smrt krásných srnců
 
-Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Vznikla v roce 1971, Ota Pavel [1930 - 1973] ji napsal v na sklonku života v psychiatrické léčebně. Jeho pravé jméno Otto Popper, pocházel ze židovské rodiny.
-
-**Česká próza 2. světové války - 3. vlna** (*nejpozdější vlna*)
+- Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Ota Pavel [1930 - 1973] ji napsal v na sklonku života v psychiatrické léčebně. Jeho pravé jméno Otto Popper, pocházel ze židovské rodiny.
+- **Česká próza 2. světové války - 3. vlna** (*nejpozdější vlna*)
+- Vydáno v roce 1971
 
 ## Analýza uměleckého textu
 
