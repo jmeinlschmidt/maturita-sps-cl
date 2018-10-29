@@ -135,7 +135,7 @@ Sám autor, ich-forma, vystupuje v díle jako jedna z postav
 ### Vyprávěcí způsoby
 Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
 
-V díle převažuje nepřímá řeč, kdy vypravuje sám autor (vypravěč).
+V díle převažuje nepřímá řeč, kdy vypravuje sám autor (= vypravěč).
 
 ### Typy promluv
 Pásmo vypraveče, často se vyskytuje dialog nebo monolog.
