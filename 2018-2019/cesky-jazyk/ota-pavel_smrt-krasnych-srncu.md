@@ -1,7 +1,8 @@
 # Ota Pavel - Smrt krásných srnců
 
-Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Vznikla v roce 1971, Ota Pavel (*2. července 1930 †31. března 1973) ji napsal v Psychiatrické léčebně. Řadíme ji tedy do druhé poloviny 20. let. Jeho pravé jméno Otto Popper. Židovská rodina.
+Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Vznikla v roce 1971, Ota Pavel [1930 - 1973] ji napsal v na sklonku života v psychiatrické léčebně. Jeho pravé jméno Otto Popper, pocházel ze židovské rodiny.
 
+**Česká próza 2. světové války - 3. vlna** (*nejpozdější vlna*)
 
 ## Analýza uměleckého textu
 
@@ -132,14 +133,15 @@ Sám autor, ich-forma, vystupuje v díle jako jedna z postav
 - dále se vyskytují **ředitel Korálka, paní Irma, malíř Nechleba, inženýr Jehlička**, každý z nich dal v díle tatínkovi určitou naději
 
 ### Vyprávěcí způsoby
-- Převážně nepřímá řeč (vypravuje sám autor)
-- Vyskytuje se i přímá řeč
+Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
+
+V díle převažuje nepřímá řeč, kdy vypravuje sám autor (vypravěč).
 
 ### Typy promluv
 Pásmo vypraveče, často se vyskytuje dialog nebo monolog.
 
 ### Veršovaná výstavba
-\-\-\-
+**Není.** Dílo je psáno prózou.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 XXX
@@ -151,10 +153,19 @@ XXX
 
 ### Literální / obecně kulturní kontext
 
-XXX
-
----
-
-Další autoři např.:
-
-XXX
+- [nepatří do kontextu] **česká próza 2. světové války - 1. vlna**
+    - beletrie, dokumenty, reportážní prvky (= *očitá svědectví*)
+    - Jan Drda [1915 - 1970] (*1946 Němá Barikáda*)
+    - atd.
+- **česká próza 2. světové války - 2. vlna**
+    - přelom 50. a 60. let
+    - větší míra psychologické analýzy, větší zaměření na vztah človeka k době
+    - Ladislav Fuks [1923 - 1994] (*1967 Spalovač Mrtvol*)
+        - Příběh pana Kopfrkingla, psychopat
+        - Stává se udavačem a vrahem ve službých nacistů
+   - Jan Otčenášek [1924 - 1979] (*1958 Romeo Julie a tma*)
+        - Námět shakespearovské tragické lásky za dob heydrichiády
+   - Bohumil Hrabal [1914 - 1997] (*1958 Ostře sledované vlaky*)
+        - Dopad války na lidské životy - přechod chlapce v muže v období války
+- **česká próza 2. světové války - 3. vlna**
+    - Ota Pavel [1930 - 1973] (*1971 Smrt krásných srnců*)
