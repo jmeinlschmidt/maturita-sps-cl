@@ -130,7 +130,7 @@ Sám autor, ich-forma, vystupuje v díle jako jedna z postav
     - nerozlučitelný parťák strejdy Proška
     - skvěle loví zvěř
     - uloví srnce pro bratry před tím, než jdou do koncentračního tábora
-- dále se vyskytují **ředitel Korálka, paní Irma, malíř Nechleba, inženýr Jehlička**, každý z nich dal v díle tatínkovi určitou naději
+- dále se vyskytují **ředitel Korálka, paní Irma, malíř Nechleba, inženýr Jehlička**, každý z nich dal v díle tatínkovi určitou naději, ale v konečném důsledku přinesl zklamání
 
 ### Vyprávěcí způsoby
 Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
@@ -148,15 +148,13 @@ XXX
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
-
-XXX
+- 1974 [autobiografie] Jak jsem potkal ryby (vyšla posmrtně) - autor popisuje svůj vztah k rybám
 
 ### Literální / obecně kulturní kontext
 
 - [nepatří do kontextu] **česká próza 2. světové války - 1. vlna**
     - beletrie, dokumenty, reportážní prvky (= *očitá svědectví*)
     - Jan Drda [1915 - 1970] (*1946 Němá Barikáda*)
-    - atd.
 - **česká próza 2. světové války - 2. vlna**
     - přelom 50. a 60. let
     - větší míra psychologické analýzy, větší zaměření na vztah človeka k době
@@ -168,4 +166,4 @@ XXX
    - Bohumil Hrabal [1914 - 1997] (*1958 Ostře sledované vlaky*)
         - Dopad války na lidské životy - přechod chlapce v muže v období války
 - **česká próza 2. světové války - 3. vlna**
-    - Ota Pavel [1930 - 1973] (*1971 Smrt krásných srnců*)
+    - Ota Pavel [1930 - 1973] ([*1971 Smrt krásných srnců*](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md))
