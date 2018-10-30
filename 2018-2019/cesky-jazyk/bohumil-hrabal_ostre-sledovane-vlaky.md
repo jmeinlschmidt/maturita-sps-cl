@@ -4,7 +4,7 @@
 - Bohumil Hrabal [1914 – 1997] - jeden z nejvýznamnějších a nejosobitějších spisovatelů druhé poloviny 20. století
 - **Česká próza 2. světové války - 2. vlna**
 - Alma mater - Univerzita Karlova
-- Jeho další díla například Slavnosti sněženek, Obsluhoval jsem anglického krále
+- Během války vystřídal mnoho profesí vč. traťového delníka a výpravčího
 - Vydáno v roce 1965
 
 ## Analýza uměleckého textu
@@ -92,9 +92,9 @@ Většina postav byla inspirována jeho spolupracovníky. V době svého vzniku 
     - Po jeho kariérním vrcholu mu je v únoru 1948 zabaven komunisty majetek
     - Končí jako cestář na šumavské samotě, zjišťuje že je zbytečné přizpůsobovat se světu
     - V závěru se smíří se svým životem
-- 1978 [román] Slavnosti sněženek
-
+- 1978 [soubor povídek] Slavnosti sněženek
 
 ### Literální / obecně kulturní kontext
 
-XXX
+- **česká próza 2. světové války - 3. vlna**
+    - Ota Pavel [1930 - 1973] ([*1971 Smrt krásných srnců*](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md))
