@@ -3,7 +3,7 @@
 - zkratka R.U.R. = **Rossum's Universal Robots**
 - Karel Čapek [1890 – 1938] - dramatik, novinář, spisovatel, překladatel, intelektuál, filozof
 - Alma mater - Filozofická fakulta UK
-- Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn (důkaz vznik R.U.R.)
+- Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn (důkaz - R.U.R. = reakce na 1. sv. válku)
 - Přispěvatel - Národní listy, poté Lidové noviny
 - Dramaturg Vinohradského divadla
 - Vznik *novotvoaru* robot
