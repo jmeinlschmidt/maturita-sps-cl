@@ -163,7 +163,7 @@ XXX
         - Stává se udavačem a vrahem ve službých nacistů
    - Jan Otčenášek [1924 - 1979] (*1958 Romeo Julie a tma*)
         - Námět shakespearovské tragické lásky za dob heydrichiády
-   - Bohumil Hrabal [1914 - 1997] (*1958 Ostře sledované vlaky*)
+   - Bohumil Hrabal [1914 - 1997] ([*1958 Ostře sledované vlaky*](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/bohumil-hrabal_ostre-sledovane-vlaky.md))
         - Dopad války na lidské životy - přechod chlapce v muže v období války
 - **česká próza 2. světové války - 3. vlna**
     - Ota Pavel [1930 - 1973] ([*1971 Smrt krásných srnců*](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md))
