@@ -33,8 +33,8 @@ Konec druhé světové války, železnižní stanice Kostomlaty
 
 ### Kompoziční výstavba
 
-Chronologický kompoziční postup, retrospekce hlavního hrdiny.
-
+Chronologický kompoziční postup, retrospekce hlavního hrdiny. Členěno na kapitoly (celkem 6 bez názvů).
+ 
 ### Literární druh a žánr
 
 - **druh**
@@ -43,7 +43,7 @@ Epika (= má děj)
 
 - **žánr**
 
-Novela (= podobná povídce, jeden jednoduchý, ale poutavý a nápaditý příběh, stupňuje ho až do překvapivého dějového zvratu (tzv. bod obratu), obsahuje pointu)
+Novela (= podobná povídce, jeden jednoduchý, ale poutavý a nápaditý příběh, stupňuje ho až do překvapivého dějového zvratu (tzv. bod obratu), **obsahuje pointu** = v tomto případě nesmyslnost války)
 
 ### Vypravěč / lyrický subjekt
 
@@ -68,14 +68,15 @@ Vypravěč je ústřední postava Miloš Hrma; ich-forma.
     - Tajemná a atraktivní žena, která Miloše zbaví panictví a nabitého sebevědomím ho přesvědčí k atentátu
 
 ### Vyprávěcí způsoby
-- Převážně nepřímá řeč (vypravuje sám autor)
-- Vyskytuje se i přímá řeč
+Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
+
+V díle převažuje nepřímá řeč, kdy vypravuje sám autor (= vypravěč).
 
 ### Typy promluv
-Pásmo vypraveče, často se vyskytuje dialog nebo monolog.
+V díle převažuje pásmo vypraveče (vypravuje sám Miloš Hrma), často se vyskytuje dialog nebo monolog.
 
 ### Veršovaná výstavba
-\-\-\-
+**Není.** Dílo je psáno prózou.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 XXX
@@ -83,14 +84,17 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-XXX
+Většina postav byla inspirována jeho spolupracovníky. V době svého vzniku byla novela velmi úspěšná, přestože nevyvolávala jen pozitivní reakce. Vyčítán byl především vulgarismus.
+
+- 1971 [vývojový román] Obsluhoval jsem anglického krále
+    - Začínající číšník Jan Dítě má komplexy kvůli výšce
+    - Chtěl být ve vyšší společnosti za každou cenu, přizpůsobuje se
+    - Po jeho kariérním vrcholu mu je v únoru 1948 zabaven komunisty majetek
+    - Končí jako cestář na šumavské samotě, zjišťuje že je zbytečné přizpůsobovat se světu
+    - V závěru se smíří se svým životem
+- 1978 [román] Slavnosti sněženek
+
 
 ### Literální / obecně kulturní kontext
-
-XXX
-
----
-
-Další autoři např.:
 
 XXX
