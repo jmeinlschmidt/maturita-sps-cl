@@ -150,7 +150,7 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-- 1921 [drama] R.U.R. - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
+- [1921 [drama] R.U.R.](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_rur.md) - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
 - 1936 [román] Válka s mloky - Ovlivněno politickou situací, varování před rozpínavostí, nenasytností (= lidé si za své neštěstí můžou sami)
 - 1937 [drama] Bílá Nemoc - Nemoc mysli, přípravy na válku, fanatizace společnosti
 
