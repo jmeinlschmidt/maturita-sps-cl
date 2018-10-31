@@ -15,7 +15,39 @@
 
 #### Stručný obsah
 
-XXX
+Předmluva + 3 knihy, ty rozděleny na kapitoly.
+
+0. Předmluva
+1. Kniha - **Andrias Scheuchzeri**
+    1. Kapitola - Podivínství kapitána Van Tocha
+    2. Kapitola - Pan Golombek a pan Valenta
+    3. Kapitola - G. H. Bondy a jeho krajan
+    4. Kapitola - Obchodní podnik kapitána Van Tocha
+    5. Kapitola - Kapitán J. Van Toch a jeho cvičení ještěři
+    6. Kapitola - Jachta na laguně
+    7. Kapitola - Pokračování jachty na laguně
+    8. Kapitola - Andrias Scheuchzeri
+    9. Kapitola - Andrew Scheuchzer
+    10. Kapitola - Posvícení v novém strašecí
+    11. Kapitola - O lidoještěrkách
+    12. Kapitola - Salamander-Syndicate
+    13. Dodatek - O pohlavním životě mloků
+2. Kniha - **Po stupních civilizace**
+    1. Kapitola - Pan Povondra čte noviny
+    2. Kapitola - Po stupních civizilace
+    3. Kapitola - Pan Povondra čte opět noviny
+3. Kniha - **Válka s mloky**
+    1. Kapitola - Masakr na ostrovech kokosových
+    2. Kapitola - Srážka v Normandii
+    3. Kapitola - Incident v La Manche
+    4. Kapitola - Der Nordmolch
+    5. Kapitola - Wolf Meynert píše své dílo
+    6. Kapitola - X varuje
+    7. Kapitola - Zemětřesení v Louisianě
+    8. Kapitola - Chief Salamandr klade požadavky
+    9. Kapitola - Konference ve Vaduzu
+    10. Kapitola - Pan Povondra to bere na sebe
+    11. Kapitola - Autor mluví sám se sebou
 
 ### Téma a motiv
 
@@ -33,7 +65,7 @@ XXX
 
 ### Kompoziční výstavba
 
-XXX
+Chronologický postup. Dílo rozděleno na předmluvu a 3 knihy, ty se dále dělí na jednotlivé kapitoly (číslovány a pojmenovány).
 
 ### Literární druh a žánr
 
