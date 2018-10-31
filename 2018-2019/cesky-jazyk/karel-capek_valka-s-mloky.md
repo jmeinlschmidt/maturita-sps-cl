@@ -53,15 +53,15 @@ Předmluva + 3 knihy, ty rozděleny na kapitoly.
 
 - **téma**
 
-XXX
+Rozpínavost národa
 
 - **motiv**
 
-XXX
+lidé si za své neštěstí mohou sami, alegorie fašismu, rozpínavosti, touha po zisku, nenasytnost
 
 ### Časoprostor
 
-XXX
+30. léta, nejdříve na ostrově v tichomoří a následně přes různá místa až po celém světě (= vychází se současnosti)
 
 ### Kompoziční výstavba
 
