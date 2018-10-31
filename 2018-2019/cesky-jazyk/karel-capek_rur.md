@@ -68,7 +68,7 @@ Předehra + 3 dějství (akty)
 
 - **téma**
 
-Varování před vlivem techniky na lidstvo, a zánikem společnosti
+Vliv techniky na lidstvo
 
 - **motiv**
 
