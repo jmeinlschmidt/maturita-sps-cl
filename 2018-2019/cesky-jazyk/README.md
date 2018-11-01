@@ -24,7 +24,7 @@ Literatura 20. a 21. století
 Světová literatura (minimálně 4 literární díla)
 
 6. **[rozečteno]** Kafka: Proměna
-7. **[četl]** Remarque: Na západní frontě klid (překl Ivana Parkmanová)
+7. **[rozečteno]** Remarque: Na západní frontě klid (překl Ivana Parkmanová)
 8. Coelho: Alchymista (překl. Pavla Lidmilová)
 9. Williams: Kočka na rozpálené plechové střeše (překl. Rudolf Pellar)
 
