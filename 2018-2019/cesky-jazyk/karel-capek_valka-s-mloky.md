@@ -75,7 +75,7 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
     13. Dodatek - O pohlavním životě mloků
 2. Kniha - **Po stupních civilizace**
     - kniha je tvořená z části retrospektivou pomocí výstřižek z novin, které si pan Povondra uchovával
-    - popisuje přístup obyčejných lidí k mlokům pomocí novinových článků
+    - *popisuje přístup obyčejných lidí k mlokům pomocí novinových článků*
     - děj chronologicky postupuje dále, mocnosti začaly mloky využívat k rozšíření břehů
     - vzrůstá napětí mezi státy, jednotlivé státy se snaží zabrat z moří co největší území
     - pan Povondra cítí válku a začíná litovat, že kapitána Van Tocha pustil tehdy dovnitř
@@ -83,10 +83,10 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
     2. Kapitola - Po stupních civizilace
     3. Kapitola - Pan Povondra čte opět noviny
 3. Kniha - **Válka s mloky**
-    - objevují se incidenty mezi mloky a lidmi
+    - *objevují se incidenty mezi mloky a lidmi*
     - mloci byli jednotlivými mocnostmi tajně zásobovány zbraněmi
     - děj začíná eskalovat
-    - mloci nakonec převezmou kontrolu nad celým světem, nebudují nové břehy pro lidi, ale naopak ničí břehy a tvoří mořské mělčiny pro svou společnost
+    - *mloci nakonec převezmou kontrolu nad celým světem, nebudují nové břehy pro lidi, ale naopak ničí břehy a tvoří mořské mělčiny pro svou společnost*
     - menší konflikty nečinností mocností vyústily až v celosvětovou válku
     1. Kapitola - Masakr na ostrovech Kokosových
     2. Kapitola - Srážka v Normandii
@@ -140,7 +140,14 @@ Próza = vypravěč. er-forma.
 
 ### Postavy
 
-XXX
+- **kapitán Van Toch**
+    - zástupce dobrého úmyslu, miluje své "tapa-boys"
+    - podivín, charakteristická mluva a vyjadřování (mluví ve větách střídavě anglicky, německy atd.)
+- **G. H. Bondy**
+    - kapitánův přítel z mládí
+    - bohatý; předseda správní rady společnosti
+    - jeho cílem je zisk; nemá zlé úmysly
+    - zaslepeně podporuje obchod s mloky, který vede až k zániku společnosti
 
 ### Vyprávěcí způsoby
 XXX
