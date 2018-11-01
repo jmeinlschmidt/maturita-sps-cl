@@ -165,7 +165,7 @@ XXX
     - Karel Poláček [1892 – 1945] (*1946 Bylo nás pět*)
         - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
         - Pohled na život v maloměstě očima dětí, částečná autobiografie
-        - Karikatura světa dospělých
+        - Karikatura světa dospělých, satira až kritika maloměštáctví
     - Eduard Bass [1888 – 1946] (*1941 Cirkus Humberto*)
         - Oslavuje člověka (jednotlivce), jeho vytrvalost, pracovitost a píly
         - Dodává sílu národu během okupace
