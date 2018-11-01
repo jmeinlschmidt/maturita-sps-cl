@@ -8,6 +8,7 @@
 - Vydáváno v letech 1935 a 1936 jako publicistický román v Lidových novinách
     - V díle **je alegorická kritika** rozpínavosti fašistů
     - 1933 se stává Hitler řišským kancléřem
+- Karel Čapek, bojující za demokracii, nasazuje všechny své prostředky na ochranu republiky přes stoupajícím nacismem
 
 ## Analýza uměleckého textu
 
@@ -17,12 +18,17 @@
 
 Předmluva + 3 knihy, ty rozděleny na kapitoly.
 
-Objevuje se hlavní dějová linie a paralelně s ní o vedlejší děj, který se soustředí na pana Povondru, vrátného pana Bondyho. Sbírá výstřižky z novin, články, odborné publikace a popisuje tak, jak svět nahlíží na mloky.
+- dílo vycházelo formou novin, výstřižky z novin, novinové články, odborné texy, publicistický styl, *pseudorealita (vycházel ze skutečných fosílií mloků)* (= snažil se více zasadit nebezpečí do skutečnosti)
+- **střet mločí a lidské civilizace**; i přes to, že mloci budou s lidmi bojovat, lidé jim nepřestanou dodávat zbraně, což vede k jejich vlastní záhubě
+- mloci nepotřebují radost ze života, přátelství, lásku; pracují pouze pro své společenství; **podobný typ lidí byl i vyžadován v nacistickém Německu**
+- dílo obsahuje spoustu skrytých, až naprosto jasných narážek a varování; prostřednictvím novin se snaží oslovit všechny vrstvy
 
-Čapek vtipně naráží na současnou politickou situaci - např. Vivisekce mloků nemohli provádět židovští vědci; Baltský mlok se vyvinul ve vyšší rasový typus (od Velemloka k německému Nadmloku) atd.
+Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, který se soustředí na pana Povondru, vrátného pana Bondyho. Sbírá výstřižky z novin, články, odborné publikace a popisuje tak, jak obyčejní lidé a svět celkově nahlíží na mloky.
+
+Čapek vtipně naráží na současnou politickou situaci - např. Vivisekce mloků nemohli provádět židovští vědci; Baltský mlok se vyvinul ve vyšší rasový typus (od Velemloka k **německému Nadmloku**) atd. (= více než zřejmé narážky na nacistické Německo).
 
 0. Předmluva
-1. Kniha - **Andrias Scheuchzeri** 
+1. Kniha - **Andrias Scheuchzeri**
     1. Kapitola - Podivínství kapitána Van Tocha
         - objevuje se podivínský kapitán Van Toch, český rodák, jeho ľod loví perly
         - naráží na "Devil Bay", která je plná "Mořských čertů" (místní se jí bojí)
@@ -78,8 +84,8 @@ Objevuje se hlavní dějová linie a paralelně s ní o vedlejší děj, který 
     - objevují se incidenty mezi mloky a lidmi
     - mloci byli jednotlivými mocnostmi tajně zásobovány zbraněmi
     - děj začíná eskalovat
-    - autor mluví o tom, že mločí společnost bude lepší než lidská, jelikož mločí svět bude jednotný, nebude rozdíl mezi mloky, mloci se nebudou lišit názory, vírou, nároky, nebude třídních rozdílů. Mločí svět bude bez pochyby lepší; hesla jako Budoucnost náleží mlokům
-    - tajemný X se snaží varovat (= alegorie na sebe sama? Čapek se snaží varovat)
+    - **autor mluví o tom, že mločí společnost bude lepší než lidská, jelikož mločí svět bude jednotný, nebude rozdíl mezi mloky, mloci se nebudou lišit názory, vírou, nároky, nebude třídních rozdílů. Mločí svět bude bez pochyby lepší; hesla jako Budoucnost náleží mlokům**
+    - tajemný X se snaží varovat (= alegorie na sebe sama? **Čapek se snaží varovat**)
     - mloci nakonec převezmou kontrolu nad celým světem, nebudují nové břehy pro lidi, ale naopak ničí břehy a tvoří mořské mělčiny pro svou společnost
     - menší konflikty nečinností mocností vyústily až v celosvětovou válku
     1. Kapitola - Masakr na ostrovech Kokosových
@@ -94,7 +100,7 @@ Objevuje se hlavní dějová linie a paralelně s ní o vedlejší děj, který 
     10. Kapitola - Pan Povondra to bere na sebe
     11. Kapitola - Autor mluví sám se sebou
 
-**Lidé si za to mohou sami a mloky nepřestávají financovat, jinak by došlo ke zhroucení ekonomiky, jednotlivé mocnosti stále soupeří mezi sebou a ani jedna se nechce vzdát svých mloků, aby náhodou nebyla slabší nežli jiná, jejich nenasytnost a neústupnost vedla až k zániku samotné lidské společnosti**
+**Lidé si za to mohou sami a mloky nepřestávají financovat, jinak by došlo ke zhroucení ekonomiky, jednotlivé mocnosti stále soupeří mezi sebou a ani jedna se nechce vzdát svých mloků, aby náhodou nebyla slabší než jiná, jejich nenasytnost a neústupnost vedla až k zániku samotné lidské společnosti**
 
 Na konci knihy mluví autor sám se sebou a zjišťujě, že mezi mloky z různých oblastí se vyskytují rozdíly. Mloci pomalu začínají mezi sebou soupeřit, a autor tak očekává, že mloci podobně jako lidé jednou vyhynou. Až se tak stane, lidé se začnou vracet z hor a lidstvo bude zachráněno. (= podobně idilistický konec jako u R.U.R. kdy se u robotů vyvinul cit a lidstvo bylo zachráněno; autor dává naději lidstvu, dává lék na současné problémy civilizace)
 
@@ -150,8 +156,8 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-- 1921 [drama] R.U.R. - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
-- 1936 [román] Válka s mloky - Ovlivněno politickou situací, varování před rozpínavostí, nenasytností (= lidé si za své neštěstí můžou sami)
+- [1921 [drama] R.U.R.](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_rur.md) - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
+- [1936 [román] Válka s mloky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_valka-s-mloky.md) - Ovlivněno politickou situací, varování před rozpínavostí, nenasytností (= lidé si za své neštěstí můžou sami)
 - 1937 [drama] Bílá Nemoc - Nemoc mysli, přípravy na válku, fanatizace společnosti
 
 ### Literální / obecně kulturní kontext
