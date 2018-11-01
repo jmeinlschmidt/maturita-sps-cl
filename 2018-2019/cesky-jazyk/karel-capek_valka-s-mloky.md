@@ -6,7 +6,7 @@
 - Dramaturg Vinohradského divadla
 - Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn (důkaz - R.U.R. = reakce na 1. sv. válku)
 - Vydáváno v letech 1935 a 1936 jako publicistický román v Lidových novinách
-    - 1933 se stává Hitler řišským kancléřem
+    - **1933 se stává Hitler řišským kancléřem**
 - Karel Čapek, bojující za demokracii, nasazuje všechny své prostředky na ochranu republiky před stoupajícím nacismem
 
 ## Analýza uměleckého textu
@@ -143,7 +143,7 @@ Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
 Pásmo vypravěče, dialog i monloig, podle ukázky.
 
 ### Veršovaná výstavba
-Není. Dílo je psáno prózou.
+**Není**. Dílo je psáno prózou.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
