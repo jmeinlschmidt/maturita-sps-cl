@@ -32,9 +32,9 @@ Světová literatura (minimálně 4 literární díla)
 
 10. **[doplnit ukázku]** [Čapek Karel: R.U.R.](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_rur.md)
 11. **[doplnit ukázku]** [Čapek Karel: Válka s mloky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_valka-s-mloky.md)
-12. **[doplnit ukázku]** Hrabal: Ostře sledované vlaky
-13. Fuks: Spalovač mrtvol
-14. **[doplnit ukázku]** Pavel: Smrt krásných srnců
+12. **[doplnit ukázku]** [Hrabal: Ostře sledované vlaky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/bohumil-hrabal_ostre-sledovane-vlaky.md)
+13. **[příprava]** [Fuks: Spalovač mrtvol](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/fuks_spalovac-mrtvol.md)
+14. **[doplnit ukázku]** [Pavel Ota: Smrt krásných srnců](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md)
 
 Další tituly podle své volby
 
