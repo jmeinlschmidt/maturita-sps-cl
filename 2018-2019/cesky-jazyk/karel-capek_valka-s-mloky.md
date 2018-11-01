@@ -148,6 +148,17 @@ Próza = vypravěč. er-forma.
     - bohatý; předseda správní rady společnosti
     - jeho cílem je zisk; nemá zlé úmysly
     - zaslepeně podporuje obchod s mloky, který vede až k zániku společnosti
+- **pan Povondra**
+    - jediný zástupce obyčejného člověka
+    - vrátný pana Bondyho, sbírá novinové články o mlocích
+    - cítí vinu za válku s mloky (pustil kapitána k panu Bondymu)
+- **mloci** (Salamandři)
+    - nemají charakter, city, lásku, potřeby, víru
+    - hodně věnováno popisu - černí, slizcí - *mají vzbuzovat odpor čtenáře*
+- **Chief Salamandr**
+    - alegorie s Adolfem Hitlerem
+    - klade si požadavky pro mloky
+    - nedovolí lidem válčit s mloky, jinak dojde ke zhroucení ekonomiky atd.
 
 ### Vyprávěcí způsoby
 XXX
