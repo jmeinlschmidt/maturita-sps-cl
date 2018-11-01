@@ -23,53 +23,56 @@ Předmluva + 3 knihy, ty rozděleny na kapitoly.
 - mloci nepotřebují radost ze života, přátelství, lásku; pracují pouze pro své společenství; **podobný typ lidí byl i vyžadován v nacistickém Německu**
 - dílo obsahuje spoustu skrytých, až naprosto jasných narážek a varování; prostřednictvím novin se snaží oslovit všechny vrstvy
 
-Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, který se soustředí na pana Povondru, vrátného pana Bondyho. Sbírá výstřižky z novin, články, odborné publikace a popisuje tak, jak obyčejní lidé a svět celkově nahlíží na mloky.
+Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *který se soustředí na pana Povondru*, vrátného pana Bondyho. Sbírá výstřižky z novin, články, odborné publikace a popisuje tak, jak obyčejní lidé a svět celkově nahlíží na mloky.
 
-Čapek vtipně naráží na současnou politickou situaci - např. Vivisekce mloků nemohli provádět židovští vědci; Baltský mlok se vyvinul ve vyšší rasový typus (od Velemloka k **německému Nadmloku**) atd. (= více než zřejmé narážky na nacistické Německo).
+Čapek vtipně naráží na současnou politickou situaci - např. *Vivisekce mloků nemohli provádět židovští vědci; Baltský mlok se vyvinul ve vyšší rasový typus (od Velemloka k **německému Nadmloku**) atd.* (= více než zřejmé narážky na nacistické Německo).
 
 0. Předmluva
 1. Kniha - **Andrias Scheuchzeri**
-    1. Kapitola - Podivínství kapitána Van Tocha
-        - objevuje se podivínský kapitán Van Toch, český rodák, jeho ľod loví perly
-        - naráží na "Devil Bay", která je plná "Mořských čertů" (místní se jí bojí)
-        - kapitán se nebojí a namísto mořských čertů objevuje mloky (také "taba-boys")
-        - na obranu proti žralokům jim nosí zbraně a mloci mu naopak nosí perly
-        - zjišťuje, že mloci jsou výborní podmořští stavitelé
-        - po celou dobu se vyskytuje mnoho popisů mloků (např. to, že žijí pouze v mělkých vodách a jsou potravou pro žraloky)
-    2. Kapitola - Pan Golombek a pan Valenta
-    3. Kapitola - G. H. Bondy a jeho krajan
-        - kapitán Van Toch jde v čechách navštívit svého starého známeho, pana G. H. Bondyho
+    - podivínsky kapitán Van Toch, český rodák, jeho ľod loví perly
+    - jeho loď narazí na zátoku "Devil Bay", která je plná "Mořských čertů" (místní se jí bojí)
+    - kapitán se nebojí a namísto mořských čertů *objevuje mloky* (také "taba-boys", "Salamandři" atd.)
+    - na obranu proti žralokům jim nosí zbraně a mloci mu naopak nosí perly
+    - zjišťuje, že mloci jsou výborní podmořští stavitelé
+    - kniha obsahuje hodně popisu mloků
+        - žijí pouze v mělkých vodách
+        - jsou potravou pro žraloky
+        - vzhled, atd. atd.
+    - kapitán Van Toch se snaží ze svého nápadu založit podnikání = jde v čechách navštívit svého známeho, pana G. H. Bondyho
         - jeho vrátný, pan Povondra, se nechá přesvědčit, a pouští neohlášeného a podivínského kapitána dovnitř
         - řekne mu o mlocích a žádá ho o peníze, aby mloky mohl rozšířit i na jiné ostrovy a získávat více perel
-    4. Kapitola - Obchodní podnik kapitána Van Tocha
-    5. Kapitola - Kapitán J. Van Toch a jeho cvičení ještěři
         - námořnící převáží mloky (ještěry) na ostatní ostrovy, námořníci se jich štití a kapitán je u nich za podivína
-    6. Kapitola - Jachta na laguně
-        - náhodné setkání lidí s mloky poblíž ostrova (jsou zdešení)
-    7. Kapitola - Pokračování jachty na laguně
-        - setkání s mloky se dostává do novin, vědci se k nim vyjadřují
-    8. Kapitola - Andrias Scheuchzeri
-        - Andrias scheuchzeri = skutečný druh velemloka
+    - náhodné setkání lidí s mloky poblíž ostrova (jsou zdešení)
+        - setkání s mloky se dostává do novin, vědci i novináři se k nim poprvé vyjadřují
+        - *Andrias scheuchzeri = skutečný druh velemloka*
         - mloci jsou objevováni různě po ostrovech tichého oceánu
         - noviny i kultura (literatura) jim věnuje zvláštní pozornost
         - v kapitole se hodně vyskytují ukázky novinových článků
-        - zmiňuje se objevitel fosílie mloka (Jakob Scheuchzer) = opakuje se provázání s realitou (pseudorealita)
+        - *zmiňuje se objevitel fosílie mloka (Jakob Scheuchzer) = opakuje se provázání s realitou (pseudorealita)*
         - vědecký popis mloka založen na skutečných faktech
-        - kapitánovi se v hlavě rodí plán, jak na mlocích vydělat
-    9. Kapitola - Andrew Scheuchzer
+    - mloci jsou po světě vystavování jako senzace (atrakce pro lidi)
         - v zoo se projevuje inteligence mloka (umí číst, mluvit atd.)
         - na svou slávu po čase umírá ("Jak je vidět, demoralizuje sláva i mloky")
-    10. Kapitola - Posvícení v novém strašecí
-        - mloci jsou po světě vystavování jako senzace (atrakce pro lidi)
-    11. Kapitola - O lidogešterkách
-        - objevuje se starý, nedatovaný novinový článek v polštině
+    - objevuje se starý, nedatovaný novinový článek v polštině
+        - vůbec první varování před mloky
         - mluví o nalezení nevyhynulých zástupců mloka v malém jezírku
-        - dále mluví o tom, že pokud mloci dostanou prostor, začnou dohánět miliony propásnutých let evoluce a nikdo neví, kam až dojdou
+        - **dále mluví o tom, že pokud mloci dostanou prostor, začnou dohánět miliony propásnutých let evoluce a nikdo neví, kam až dojdou**
         - noviny již odmítají mluvit o mlocích a článek neotisknou, nikdo se o tomto varování proto nedoví
-    12. Kapitola - Salamander-Syndicate
-        - na valné hromadě podniku se oznamuje úmrtí kapitána Van Tocha
+    - kapitán Van Toch umírá
         - Van Toch byl zastánce lovu perel a využíváním mloků jako atrakce = málo zisku (měl k nim citové pouto)
         - přechod na využívání mloků jako levnou pracovní sílu
+    1. Kapitola - Podivínství kapitána Van Tocha
+    2. Kapitola - Pan Golombek a pan Valenta
+    3. Kapitola - G. H. Bondy a jeho krajan
+    4. Kapitola - Obchodní podnik kapitána Van Tocha
+    5. Kapitola - Kapitán J. Van Toch a jeho cvičení ještěři
+    6. Kapitola - Jachta na laguně
+    7. Kapitola - Pokračování jachty na laguně
+    8. Kapitola - Andrias Scheuchzeri
+    9. Kapitola - Andrew Scheuchzer
+    10. Kapitola - Posvícení v novém strašecí
+    11. Kapitola - O lidogešterkách
+    12. Kapitola - Salamander-Syndicate
     13. Dodatek - O pohlavním životě mloků
 2. Kniha - **Po stupních civilizace**
     - kniha je tvořená z části retrospektivou pomocí výstřižek z novin, které si pan Povondra uchovával
@@ -102,7 +105,7 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, který
 
 **Lidé si za to mohou sami a mloky nepřestávají financovat, jinak by došlo ke zhroucení ekonomiky, jednotlivé mocnosti stále soupeří mezi sebou a ani jedna se nechce vzdát svých mloků, aby náhodou nebyla slabší než jiná, jejich nenasytnost a neústupnost vedla až k zániku samotné lidské společnosti**
 
-Na konci knihy mluví autor sám se sebou a zjišťujě, že mezi mloky z různých oblastí se vyskytují rozdíly. Mloci pomalu začínají mezi sebou soupeřit, a autor tak očekává, že mloci podobně jako lidé jednou vyhynou. Až se tak stane, lidé se začnou vracet z hor a lidstvo bude zachráněno. (= podobně idilistický konec jako u R.U.R. kdy se u robotů vyvinul cit a lidstvo bylo zachráněno; autor dává naději lidstvu, dává lék na současné problémy civilizace)
+*Na konci knihy mluví autor sám se sebou a zjišťujě, že mezi mloky z různých oblastí se vyskytují rozdíly. Mloci pomalu začínají mezi sebou soupeřit, a autor tak očekává, že mloci podobně jako lidé jednou vyhynou. Až se tak stane, lidé se začnou vracet z hor a lidstvo bude zachráněno.* (= podobně idilistický konec jako u R.U.R. kdy se u robotů vyvinul cit a lidstvo bylo zachráněno; **autor dává naději lidstvu**, dává lék na současné problémy civilizace)
 
 ### Téma a motiv
 
