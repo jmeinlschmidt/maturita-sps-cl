@@ -6,9 +6,8 @@
 - Dramaturg Vinohradského divadla
 - Do 1. sv. války nenarukoval, ale byl jí silně ovlivněn (důkaz - R.U.R. = reakce na 1. sv. válku)
 - Vydáváno v letech 1935 a 1936 jako publicistický román v Lidových novinách
-    - V díle **je alegorická kritika** rozpínavosti fašistů
     - 1933 se stává Hitler řišským kancléřem
-- Karel Čapek, bojující za demokracii, nasazuje všechny své prostředky na ochranu republiky přes stoupajícím nacismem
+- Karel Čapek, bojující za demokracii, nasazuje všechny své prostředky na ochranu republiky před stoupajícím nacismem
 
 ## Analýza uměleckého textu
 
@@ -87,8 +86,6 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
     - objevují se incidenty mezi mloky a lidmi
     - mloci byli jednotlivými mocnostmi tajně zásobovány zbraněmi
     - děj začíná eskalovat
-    - **autor mluví o tom, že mločí společnost bude lepší než lidská, jelikož mločí svět bude jednotný, nebude rozdíl mezi mloky, mloci se nebudou lišit názory, vírou, nároky, nebude třídních rozdílů. Mločí svět bude bez pochyby lepší; hesla jako Budoucnost náleží mlokům**
-    - tajemný X se snaží varovat (= alegorie na sebe sama? **Čapek se snaží varovat**)
     - mloci nakonec převezmou kontrolu nad celým světem, nebudují nové břehy pro lidi, ale naopak ničí břehy a tvoří mořské mělčiny pro svou společnost
     - menší konflikty nečinností mocností vyústily až v celosvětovou válku
     1. Kapitola - Masakr na ostrovech Kokosových
@@ -102,6 +99,8 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
     9. Kapitola - Konference ve Vaduzu
     10. Kapitola - Pan Povondra to bere na sebe
     11. Kapitola - Autor mluví sám se sebou
+
+**Tajemný X varuje - Autor mluví o tom, že mločí společnost bude lepší než lidská, jelikož mločí svět bude jednotný, nebude rozdíl mezi mloky, mloci se nebudou lišit názory, vírou, nároky, nebude třídních rozdílů. Mločí svět bude bez pochyby lepší; hesla jako Budoucnost náleží mlokům.** (= alegorie sebe sama? X = Čapek)
 
 **Lidé si za to mohou sami a mloky nepřestávají financovat, jinak by došlo ke zhroucení ekonomiky, jednotlivé mocnosti stále soupeří mezi sebou a ani jedna se nechce vzdát svých mloků, aby náhodou nebyla slabší než jiná, jejich nenasytnost a neústupnost vedla až k zániku samotné lidské společnosti**
 
