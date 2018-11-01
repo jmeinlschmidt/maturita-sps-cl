@@ -60,19 +60,6 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
     - kapitán Van Toch umírá
         - Van Toch byl zastánce lovu perel a využíváním mloků jako atrakce = málo zisku (měl k nim citové pouto)
         - přechod na využívání mloků jako levnou pracovní sílu
-    1. Kapitola - Podivínství kapitána Van Tocha
-    2. Kapitola - Pan Golombek a pan Valenta
-    3. Kapitola - G. H. Bondy a jeho krajan
-    4. Kapitola - Obchodní podnik kapitána Van Tocha
-    5. Kapitola - Kapitán J. Van Toch a jeho cvičení ještěři
-    6. Kapitola - Jachta na laguně
-    7. Kapitola - Pokračování jachty na laguně
-    8. Kapitola - Andrias Scheuchzeri
-    9. Kapitola - Andrew Scheuchzer
-    10. Kapitola - Posvícení v novém strašecí
-    11. Kapitola - O lidogešterkách
-    12. Kapitola - Salamander-Syndicate
-    13. Dodatek - O pohlavním životě mloků
 2. Kniha - **Po stupních civilizace**
     - kniha je tvořená z části retrospektivou pomocí výstřižek z novin, které si pan Povondra uchovával
     - *popisuje přístup obyčejných lidí k mlokům pomocí novinových článků*
@@ -88,17 +75,6 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
     - děj začíná eskalovat
     - *mloci nakonec převezmou kontrolu nad celým světem, nebudují nové břehy pro lidi, ale naopak ničí břehy a tvoří mořské mělčiny pro svou společnost*
     - menší konflikty nečinností mocností vyústily až v celosvětovou válku
-    1. Kapitola - Masakr na ostrovech Kokosových
-    2. Kapitola - Srážka v Normandii
-    3. Kapitola - Incident v La Manche
-    4. Kapitola - Der Nordmolch
-    5. Kapitola - Wolf Meynert píše své dílo
-    6. Kapitola - X varuje
-    7. Kapitola - Zemětřesení v Louisianě
-    8. Kapitola - Chief Salamandr klade požadavky
-    9. Kapitola - Konference ve Vaduzu
-    10. Kapitola - Pan Povondra to bere na sebe
-    11. Kapitola - Autor mluví sám se sebou
 
 **Tajemný X varuje - Autor mluví o tom, že mločí společnost bude lepší než lidská, jelikož mločí svět bude jednotný, nebude rozdíl mezi mloky, mloci se nebudou lišit názory, vírou, nároky, nebude třídních rozdílů. Mločí svět bude bez pochyby lepší; hesla jako Budoucnost náleží mlokům.** (= alegorie sebe sama? X = Čapek)
 
@@ -161,10 +137,10 @@ Próza = vypravěč. er-forma.
     - nedovolí lidem válčit s mloky, jinak dojde ke zhroucení ekonomiky atd.
 
 ### Vyprávěcí způsoby
-XXX
+Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
 
 ### Typy promluv
-XXX
+Pásmo vypravěče, dialog i monloig, podle ukázky.
 
 ### Veršovaná výstavba
 Není. Dílo je psáno prózou.
@@ -204,8 +180,3 @@ XXX
     - označení pro kulturní a politické osobnosti první republiky z okruhu spisovatele Karla Čapka
     - scházeli se každý pátek v Čapkovo vile od roku 1925 až do jeho smrti 1938
     - Karel a Josef Čapkovi, T. G. Masaryk, Edvard Beneš, Ferdinand Peroutka, Eduard Bass, Karel Poláček, Jan Masaryk atd.
----
-
-Další autoři např.:
-
-XXX
