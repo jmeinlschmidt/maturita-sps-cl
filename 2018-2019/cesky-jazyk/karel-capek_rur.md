@@ -52,9 +52,9 @@ Předehra + 3 dějství (akty)
     - Helena se snaží zabránit zkáze lidstva spálením spisů starého Rossuma na výrobu robotů
     - Lidé nestihnou utéct na dělovou loď a jsou obklíčeni roboty v továrně (poslední pozůstatky lidstva)
 2. dějství
-    - Roboti požadují Rossumovi spisy (jediná šance na vykouopení lidí = znamenalo by neomezené množení robotů)
+    - Roboti požadují Rossumovi spisy (jediná šance na vykoupení lidí = znamenalo by neomezené množení robotů = konec lidstva)
     - Helena se přiznává, že spisy spálila
-    - Bushman se pokouší vykoupit penězi, ale je roboty zabit
+    - Bushman se pokouší vykoupit penězi, ale je roboty zabit (= nezajímají je peníze, nejsou jako lidé)
     - Snaží se proto bránit, ale roboti vpadnou do budovy a všechny nelítostně pobijí
     - Stavitele Alquista ušetří
 3. dějství
@@ -62,7 +62,7 @@ Předehra + 3 dějství (akty)
     - Žádají o postup na výrobu dalších robotů, jinak se nemohou množit
     - Alquist se na výrobě robotů nepodílel a postup nezná
     - Když se rozhodně jednoho robota pitvat, zjistí, že se u dvou robotu projevují city a láska
-    - Kniha končí filozofickým monologem Alquista o nahrazením lidské rasy roboty a že pomocí lásky lidé nevyhynou (poukazuje na Adama a Evu)
+    - **Kniha končí filozofickým monologem Alquista o nahrazením lidské rasy roboty a že pomocí lásky lidé nevyhynou (poukazuje na Adama a Evu)**
 
 ### Téma a motiv
 
@@ -145,6 +145,7 @@ Typy promluv u **dramatu** - dialog, monolog, replika, **scénická poznámka** 
 **Není**. Drama je psáno prózou.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
+
 XXX
 
 ## Literárněhistorický kontext
