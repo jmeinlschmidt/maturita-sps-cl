@@ -31,7 +31,7 @@ Světová literatura (minimálně 4 literární díla)
 Česká literatura (minimálně 5 literárních děl)
 
 10. **[doplnit ukázku]** Čapek Karel: R.U.R.
-11. **[četl]** Čapek Karel: Válka s mloky
+11. **[doplnit ukázku]** Čapek Karel: Válka s mloky
 12. **[doplnit ukázku]** Hrabal: Ostře sledované vlaky
 13. Fuks: Spalovač mrtvol
 14. **[doplnit ukázku]** Pavel: Smrt krásných srnců
