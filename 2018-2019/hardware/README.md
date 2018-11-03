@@ -10,31 +10,31 @@
 Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
 
 ## Témata
-1. ~~Polovodiče 1~~ *nevypracováno*
-2. ~~Polovodiče 2~~ *nevypracováno*
-3. ~~Napájecí zdroje~~ *nevypracováno*
-4. ~~Zesilovače~~ *nevypracováno*
-5. ~~Operační zesilovače~~ *nevypracováno*
-6. ~~Oscilátory a klopné obvody~~ *nevypracováno*
-7. ~~Tvarovací obvody~~ *nevypracováno*
-8. ~~A/D a D/A převodníky~~ *nevypracováno*
-9. ~~Měřicí přístroje~~ *nevypracováno*
-10. ~~Číslicové měřicí přístroje~~ *nevypracováno*
-11. ~~Osciloskopy~~ *nevypracováno*
-12. ~~Teoretické modely počítačů~~ *nevypracováno*
-13. ~~Hardware PC~~ *nevypracováno*
-14. ~~Výstupní zařízení PC~~ *nevypracováno*
-15. ~~Číselné soustavy~~ *nevypracováno*
-16. ~~Booleova algebra, minimalizace funkcí~~ *nevypracováno*
-17. ~~Kombinační logické obvody~~ *nevypracováno*
-18. ~~Sekvenční logické obvody~~ *nevypracováno*
-19. ~~Mikroprocesory~~ *nevypracováno*
-20. ~~Paměti~~ *nevypracováno*
-21. ~~Paralelní rozhraní~~ *nevypracováno*
-22. ~~Sériová komunikace~~ *nevypracováno*
-23. ~~Měření času a frekvence~~ *nevypracováno*
-24. ~~Mikrořadiče a jednočipové počítače~~ *nevypracováno*
-25. ~~Programování v JSA~~ *nevypracováno*
+1. **[zpracováno]** Polovodiče 1
+2. **[rozpracováno]** Polovodiče 2
+3. **[nezpracováno]** Napájecí zdroje
+4. **[nezpracováno]** Zesilovače
+5. **[nezpracováno]** Operační zesilovače
+6. **[nezpracováno]** Oscilátory a klopné obvody
+7. **[nezpracováno]** Tvarovací obvody
+8. **[nezpracováno]** A/D a D/A převodníky
+9. **[nezpracováno]** Měřicí přístroje
+10. **[nezpracováno]** Číslicové měřicí přístroje
+11. **[nezpracováno]** Osciloskopy
+12. **[nezpracováno]** Teoretické modely počítačů
+13. **[nezpracováno]** Hardware PC
+14. **[nezpracováno]** Výstupní zařízení PC
+15. **[nezpracováno]** Číselné soustavy
+16. **[nezpracováno]** Booleova algebra, minimalizace funkcí
+17. **[nezpracováno]** Kombinační logické obvody
+18. **[nezpracováno]** Sekvenční logické obvody
+19. **[nezpracováno]** Mikroprocesory
+20. **[nezpracováno]** Paměti
+21. **[nezpracováno]** Paralelní rozhraní
+22. **[nezpracováno]** Sériová komunikace
+23. **[nezpracováno]** Měření času a frekvence
+24. **[nezpracováno]** Mikrořadiče a jednočipové počítače
+25. **[nezpracováno]** Programování v JSA
 
 ## Forma vypracování témat a přispívání
 Pro úspěšné připuštění k maturitní zkoušce z předmětu Hardware je potřeba v řádném nebo konečném termínu odevzdat **ručně** vypracováná a odborným dozorem schválená maturitní témata.
