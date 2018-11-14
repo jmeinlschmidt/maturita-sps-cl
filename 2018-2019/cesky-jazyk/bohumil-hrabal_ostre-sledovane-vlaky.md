@@ -43,7 +43,7 @@ Epika (= má děj)
 
 - **žánr**
 
-Novela (= podobná povídce, jeden jednoduchý, ale poutavý a nápaditý příběh, stupňuje ho až do překvapivého dějového zvratu (tzv. bod obratu), **obsahuje pointu** = v tomto případě nesmyslnost války)
+Novela (= podobná povídce, rozsah mezi povídkou a románem, postavy mají vlastní příběh, ale nevyskytují se vedlejší dějové linie)
 
 ### Vypravěč / lyrický subjekt
 
