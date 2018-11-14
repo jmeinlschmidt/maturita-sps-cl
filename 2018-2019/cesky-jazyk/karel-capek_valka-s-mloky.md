@@ -86,11 +86,11 @@ Objevuje se hlavní dějová linie a spolu s ní i lehce vedlejší děj, *kter�
 
 - **téma**
 
-Rozpínavost národa
+Civilizační rozpínavost
 
 - **motiv**
 
-lidé si za své neštěstí mohou sami, alegorie fašismu, rozpínavosti, touha po zisku, nenasytnost, války mezi mocnostmi, neústupnost
+lidé si za své neštěstí mohou sami, alegorie fašismu, antisemitismu, rozpínavosti, touha po zisku, nenasytnost, války mezi mocnostmi, neústupnost
 
 ### Časoprostor
 
