@@ -12,6 +12,7 @@
 - Spojitost mezi Kafkou a jeho díly
 - Křehká psychika, absurdní témata (přeměna člověka v brouka) postavená na reálných faktech
 - Pohled hrdiny je je osamělý, odcizený od ostatních, nedokáže se dorozumět (brouk), vzbuzuje chlad, pocit viny
+- Nemá žádné ponaučení
 
 ## Analýza uměleckého textu
 
