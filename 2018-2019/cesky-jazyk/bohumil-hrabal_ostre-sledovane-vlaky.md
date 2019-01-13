@@ -21,11 +21,11 @@ Konec knihy a filmu se trochu liší.
 
 - **téma**
 
-Dopad války na lidské životy - přechod chlapce v muže v období války
+Přechod nezkušeného chlapce v muže
 
 - **motiv**
 
-Zbytečné ztráty na životech, jak válka ovlivňuje lidské životy, nesmyslnost války, sexuální nezkušenost, železnice, láska, zklamání
+Sexuální nezkušenost, železnice, láska, naděje a zklamání, válka (ostře sledované vlaky)
 
 ### Časoprostor
 
@@ -43,7 +43,7 @@ Epika (= má děj)
 
 - **žánr**
 
-Novela (= podobná povídce, jeden jednoduchý, ale poutavý a nápaditý příběh, stupňuje ho až do překvapivého dějového zvratu (tzv. bod obratu), **obsahuje pointu** = v tomto případě nesmyslnost války)
+Novela (= podobná povídce, rozsah mezi povídkou a románem, postavy mají vlastní příběh, ale nevyskytují se vedlejší dějové linie)
 
 ### Vypravěč / lyrický subjekt
 
