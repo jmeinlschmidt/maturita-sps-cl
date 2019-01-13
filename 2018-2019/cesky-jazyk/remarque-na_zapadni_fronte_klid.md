@@ -8,7 +8,6 @@
 - Válka = smysl života, jiný život vojáci neznali
 - Navazující dílo - Cesta zpátky
 - Erich Maria Remarque [1898 – 1970]
-- **Česká próza 2. světové války - 2. vlna**
 - Vydáno v roce 1928
 
 ## Analýza uměleckého textu
