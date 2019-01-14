@@ -6,11 +6,12 @@
 - Hlavní hrdina se ani jednou nepozastaví nad tím, co se stalo (naříkání, vztek, emoce), ale pracuje s reálným faktem (zaspal, jak stihne práci atd.). **Žádný citový výlev**
 - Děsivá ztráta humanity. Děsivé, jak rychle lidé zapomenou, že šlo o živého člověka než se proměnil ve zvíře. (Místo *on* je používáno *ono*)
 - Ačkoliv byl hlavní hrdina velmi blízkou osobou (syn, bratr, prakticky hlava rodiny), rodina z něj prakticky okamžitě udělala nepotřebnou věc (havěť)
-- Vydáno v roce 1915
+- *Vydáno v roce 1915*
 - Stěžejní autor moderní literatury
 - Kafka nepsal pro čtenáře ale pro sebe, podle závěti měly jeho díla být spáleny
 - Spojitost mezi Kafkou a jeho díly
 - Křehká psychika, absurdní témata (přeměna člověka v brouka) postavená na reálných faktech
+- Kafka byl součástí menšiny, která byla součásti měnšiny (něměcký žid v Praze; možná proto to odloučení a nepochopení)
 - Pohled hrdiny je je osamělý, odcizený od ostatních, nedokáže se dorozumět (brouk), vzbuzuje chlad, pocit viny
 - Nemá žádné ponaučení; Existencialisté v něm vidí počátek existencialismu
 
