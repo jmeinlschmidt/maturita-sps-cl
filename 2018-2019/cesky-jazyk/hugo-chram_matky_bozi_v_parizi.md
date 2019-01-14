@@ -1,10 +1,18 @@
-# Chrám Matky Boží v Paříži - Victor Hugo
+# Victor Hugo - Chrám matky boží v Paříži
+
+- Hugo vychováván v rodině plné kontrastů, což se projevilo do jeho tvorby
+- **Romantismus** = kontrast (ošklivý hlavní hrdina, okraj společnosti atd.), nešťastná láska, konec tragická smrt
+- Kontrast ošklivého Quasimoda a nádherné Esmeraldy; kontrast Quasimodova vzhledu a jeho čistým srdcem
+
+- Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Ota Pavel [1930 - 1973] ji napsal v na sklonku života v psychiatrické léčebně. Jeho pravé jméno Otto Popper, pocházel ze židovské rodiny.
+- **Česká próza 2. světové války - 3. vlna** (*nejpozdější vlna*)
+- Vydáno v roce 1971
 
 ## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
 
-- **děj**
+#### Stručný obsah
 
 Děj vypráví o znetvořené osobě jménem Quasimodo, která celý svůj život strávila v Chrámu Matky Boží v Paříži, kde se stala zvoníkem. Quasimoda se ujal kněz Klaudius Frollo, který ho našel, vzal do pytle a odnesl do chrámu, kde vyrůstal.
 
@@ -20,7 +28,7 @@ Láska ošklivého a společnosti zavrhovaného Quasimoda ke krásné cikánské
 
 - **motiv**
 
-Kritika společnosti; lži; přetvářky; opovržení postíženými; tragická láska; napínavost; oddanost; tragická smrt; rozdíl sociálních vrstev.
+Nenaplněná láska, okraj společnosti, cikáni, zloději, kritika pokrytectví, kontrast sociálních vrstev
 
 ### Časoprostor
 
@@ -32,14 +40,19 @@ Chronologický postup s retrospektivními odbočkami do minulosti.
 
 ### Literární druh a žánr
 
-Epika. Historický román, psán prózou.
+- **druh**
+
+Epika (= má děj)
+
+- **žánr**
+
+Historický román (= doba v minulosti, kterou sám autor nezažil; román = více dějových linií)
 
 ### Vypravěč / lyrický subjekt
 
-Vševědoucí vypravěč, er-forma.
-
-### Postava
 Typické romantické postavy založené na kontrastu - např. Quasimodův ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce atd.
+
+### Postavy
 
 - **Quasimodo**
 
@@ -59,7 +72,7 @@ Velitel lučištníků, krásný a bohatý, avšak přelétavý a zasnoubený. S
 
 ### Vyprávěcí způsoby
 
-Přímá řeč.
+Přímá řeč. (dle ukázky)
 
 ### Typy promluv
 
@@ -67,24 +80,18 @@ Pásmo vypravěče.
 
 ### Veršovaná výstavba
 
-\-\-\-
+**Není.** Dílo je psáno prózou.
+
+### Jazykové prostředky a jejich funkce ve výňatku
+XXX
 
 ## Literárněhistorický kontext
-
 ### Kontext autorovy tvorby
 
 Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy romány. Dílo bylo mnohokrát zfilmováno.
-
---- 
-
-Další díla např.:
-
-- Bídníci
-- Dělníci moře
-- Cromwell
 
 ### Literální / obecně kulturní kontext
 
 - **Romantismus**
 
-*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Je kladen důraz na kontrast. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román. 
+*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Je kladen důraz na kontrast. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román.
