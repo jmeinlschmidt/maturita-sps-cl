@@ -3,10 +3,8 @@
 - Hugo vychováván v rodině plné kontrastů, což se projevilo do jeho tvorby
 - **Romantismus** = kontrast (ošklivý hlavní hrdina, okraj společnosti atd.), nešťastná láska, konec tragická smrt
 - Kontrast ošklivého Quasimoda a nádherné Esmeraldy; kontrast Quasimodova vzhledu a jeho čistým srdcem
-
-- Jde o autobiografickou **vzpomínku na autorovo dětství a dospívání**. Ota Pavel [1930 - 1973] ji napsal v na sklonku života v psychiatrické léčebně. Jeho pravé jméno Otto Popper, pocházel ze židovské rodiny.
-- **Česká próza 2. světové války - 3. vlna** (*nejpozdější vlna*)
-- Vydáno v roce 1971
+- Victor Hugo [1802 - 1885]
+- Vydáno v roce 1831
 
 ## Analýza uměleckého textu
 
