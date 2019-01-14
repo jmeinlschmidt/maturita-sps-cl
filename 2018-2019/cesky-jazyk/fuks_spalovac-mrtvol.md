@@ -1,11 +1,11 @@
 # Fuks - Spalovač mrtvol
 
-- Ostře sledované vlaky byly vojenské transporty Wehrmachtu
-- Bohumil Hrabal [1914 – 1997] - jeden z nejvýznamnějších a nejosobitějších spisovatelů druhé poloviny 20. století
-- **Česká próza 2. světové války - 2. vlna**
-- Alma mater - Univerzita Karlova
-- Během války vystřídal mnoho profesí vč. traťového delníka a výpravčího
-- Vydáno v roce 1965
+- Bohumil Hrabal [1923 – 1994] - autor především psychologické prózy s tématem úzkosti člověka ohrožovaného nesvobodou a násilím
+- Většina jeho děl je autobiografická
+- Často skrytě – téměř všemi jeho knihami prochází figura senzitivního, slabého hocha, žijícího ve svém vnitřním světě a toužícího po citovém přátelství
+- Homosexuál, komunista, díla silně poznamenána židovskou tématikou, skončil v psychiatrické léčebně
+- **Česká próza 2. světové války - 2. vlna** (přelom 50. a 60. let)
+- **Vydáno v roce 1967**
 
 ## Analýza uměleckého textu
 
@@ -13,17 +13,15 @@
 
 #### Stručný obsah
 
-XXX
-
 ### Téma a motiv
 
 - **téma**
 
-XXX
+Rozvrat spořádané osobnosti vlivem nacistického režimu v psychopata
 
 - **motiv**
 
-XXX
+manipulace nacistů s lidmi, krematorium, ideologie, antisemitismus, 
 
 ### Časoprostor
 
