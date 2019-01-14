@@ -104,21 +104,7 @@ XXX
 
 Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesimismus. Záhadné, neznáme postavy (nemají jméno atd.). O hlavních postavách nevíme téměř nic (neznáme jejich minulost, vzhled, rodinné zázemí). Prvky v knize - odcizení člověka od rodiny, nereálnost.
 
-
 ### Literální / obecně kulturní kontext
 
-- [nepatří do kontextu] **česká próza 2. světové války - 1. vlna**
-    - beletrie, dokumenty, reportážní prvky (= *očitá svědectví*)
-    - Jan Drda [1915 - 1970] (*1946 Němá Barikáda*)
-- **česká próza 2. světové války - 2. vlna**
-    - přelom 50. a 60. let
-    - větší míra psychologické analýzy, větší zaměření na vztah človeka k době
-    - Ladislav Fuks [1923 - 1994] (*1967 Spalovač Mrtvol*)
-        - Příběh pana Kopfrkingla, psychopat
-        - Stává se udavačem a vrahem ve službých nacistů
-   - Jan Otčenášek [1924 - 1979] (*1958 Romeo Julie a tma*)
-        - Námět shakespearovské tragické lásky za dob heydrichiády
-   - Bohumil Hrabal [1914 - 1997] ([*1958 Ostře sledované vlaky*](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/bohumil-hrabal_ostre-sledovane-vlaky.md))
-        - Dopad války na lidské životy - přechod chlapce v muže v období války
-- **česká próza 2. světové války - 3. vlna**
-    - Ota Pavel [1930 - 1973] ([*1971 Smrt krásných srnců*](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md))
+- Světová próza, 1. polovina 20. století
+Tematicky i žánrově velmi pestrá. Řadu podnětů z přírodních a společenských věd. V popředí problematika válečné doby. Uplatňovány umělecké směry – realismus (dějová linie v logické časové posloupnosti zaměřena na psychiku), naturalismus (nezkreslená realita), experimentální próza (bourá dějovou linii, prolíná se mnoha časovými a významovými rovinami, složitá symbolika, experiment s jazykem).
