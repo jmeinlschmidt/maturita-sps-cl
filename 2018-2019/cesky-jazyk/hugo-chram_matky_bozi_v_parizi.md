@@ -83,6 +83,7 @@ Pásmo vypravěče.
 **Není.** Dílo je psáno prózou.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
+
 XXX
 
 ## Literárněhistorický kontext
