@@ -107,4 +107,5 @@ Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesi
 ### Literální / obecně kulturní kontext
 
 - Světová próza, 1. polovina 20. století
+
 Tematicky i žánrově velmi pestrá. Řadu podnětů z přírodních a společenských věd. V popředí problematika válečné doby. Uplatňovány umělecké směry – realismus (dějová linie v logické časové posloupnosti zaměřena na psychiku), naturalismus (nezkreslená realita), experimentální próza (bourá dějovou linii, prolíná se mnoha časovými a významovými rovinami, složitá symbolika, experiment s jazykem).
