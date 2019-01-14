@@ -15,7 +15,7 @@ Světová a česká literatura do konce 18. století
 
 Světová a česká literatura 19. století
 
-3. **[rozečteno]** Hugo: Chrám matky boží v Paříži (překl. Milena Tomášová)
+3. **[doplnit ukázku]** [Hugo: Chrám matky boží v Paříži (překl. Milena Tomášová)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/hugo-chram_matky_bozi_v_parizi.md)
 4. Zola: Zabiják (překl. Luděk Kárl)
 5. Mácha: Máj
 
