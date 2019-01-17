@@ -43,7 +43,7 @@ Ztráta humanity po proměně
 
 - **motiv**
 
-Proměna hlavy rodiny v obtěžující havěť, brouka; odcizení, nepochopení, rodinné vztahy, absurdita
+Proměna hlavy rodiny v obtěžující havěť, brouka; odcizení; nepochopení; rodinné vztahy; absurdita; reálné prvky autorova života (kladný vztah se sestrou, komplikovaný vztah s otcem)
 
 ### Časoprostor
 
