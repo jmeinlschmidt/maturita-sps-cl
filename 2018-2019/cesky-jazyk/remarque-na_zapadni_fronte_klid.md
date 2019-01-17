@@ -16,19 +16,21 @@
 
 #### Stručný obsah
 
-- Autor se ve skutečnosti z lazaretu na frontu **nevrátil**
+Autor se ve skutečnosti z lazaretu na frontu **nevrátil**
 
-Děj začíná po vypuknutí 1. světové války, kdy Paul Bäumer společně se spolužáky dobrovolně vstoupí do války díky vlasteneckému kázání Kantorka na jejich gymnáziu. Nadšení a odvaha je však brzy opouští už během výcviku, který je náročný a plný šikanování jejich velitelem Himmelstossem. Velitel dává silně najevo, že má nad mladíky převahu, ale oni mu to nakonec vrátí. Brzy umírá František Kemmerich v otřesných nemocničních podmínkách, Paul je s ním až do konce a utěšuje ho. Po desetinedělním výcviku je jednotka odvelena na západní frontu, kde je čeká obrovské množství hrůz, a všichni poznávají, že válka je docela jiná než si ji představovali. Jsou nuceni zabíjet a přežívat v nelidských podmínkách. Chlapce čeká vše možné od nepřátelského bombardování přes plynové útoky až po krvavé souboje. Jsou v neustálém nebezpečí a Pavlovi kamarádi jeden po druhém umírají. Paul později dostane dovolenou a vrací se domů za rodinou, která na tom není nejlépe. Mají málo jídla a maminka má rakovinu. Paul před rodiči zamlčuje hrůzy války a tvrdí, že to není nic hrozného. Setkává se s mnoha lidmi, kteří chtějí slyšet o hrdinských činech z války. Mladík je jimi znechucen, protože vůbec nevědí, o čem mluví a jaké to ve válce je. Později zjišťuje, že mu jeho pokoj, knihy a věci už vůbec nic neříkají a poznává, že poznamenán válkou už nebude schopen se vrátit ke svému životu. Také navštíví také matku Kemmericha, které řekne o smrti Františka. Ta celá hysterická ho nutí přísahat, že zemřel rychle a bezbolestně - Paul zalže. Po dovolené je povolán do výcvikového tábora, kde hlídá zadržené Rusy. Brzy je vyslán na průzkum terénu, kde je málem dopaden Francouzi. Naštěstí se mu podaří schovat v trychtýři v zemi, kde smrtelně napadne nepřítele a zatím co dlouze umírá, tak u něj musí zůstat ležet, aby ho neodhalili. Svého činu lituje, protože voják byl ve válce ze stejně zbytečného důvodu jako on, ale ví že neměl na vybranou. Později se mu podaří návrat zpět a na vojáka dočista zapomene. Paul a Kropp jsou zraněni a pobývají v katolické nemocnici. Kropp přijde o nohu a chce se zabít, Paul se vrací zpět na frontu. Leer a Müler jsou mrtví, Katczinski je zraněn a následně umírá. Na konci války Paul umírá, právě v den, který je tak tichý, že vrchní velitelství napsalo do zprávy: Na západní frontě klid.
+Děj začíná po vypuknutí 1. světové války, kdy Paul Bäumer společně se spolužáky dobrovolně vstoupí do války díky vlasteneckému kázání kantora na jejich gymnáziu. Nadšení a odvaha je však brzy opouští už během výcviku, který je náročný a plný šikanování jejich velitelem Himmelstossem. Velitel dává silně najevo, že má nad mladíky převahu, ale oni mu to nakonec vrátí. (**= výsměch velení**) Brzy umírá František Kemmerich v otřesných nemocničních podmínkách, Paul je s ním až do konce a utěšuje ho. Po desetinedělním výcviku je jednotka odvelena na západní frontu, kde je čeká obrovské množství hrůz, a všichni poznávají, že válka je docela jiná než si ji představovali. Jsou nuceni zabíjet a přežívat v nelidských podmínkách. Chlapce čeká vše možné od nepřátelského bombardování přes plynové útoky až po krvavé souboje. Jsou v neustálém nebezpečí a Pavlovi kamarádi jeden po druhém umírají. Paul později dostane dovolenou a vrací se domů za rodinou, která na tom není nejlépe. Mají málo jídla a maminka má rakovinu. Paul před rodiči zamlčuje hrůzy války a tvrdí, že to není nic hrozného. Setkává se s mnoha lidmi, kteří chtějí slyšet o hrdinských činech z války. Mladík je jimi znechucen, protože vůbec nevědí, o čem mluví a jaké to ve válce je. Později zjišťuje, že mu jeho pokoj, knihy a věci už vůbec nic neříkají a poznává, že poznamenán válkou už nebude schopen se vrátit ke svému životu. Také navštíví také matku Kemmericha, které řekne o smrti Františka. Ta celá hysterická ho nutí přísahat, že zemřel rychle a bezbolestně - Paul zalže. Po dovolené je povolán do výcvikového tábora, kde hlídá zadržené Rusy. Brzy je vyslán na průzkum terénu, kde je málem dopaden Francouzi. Naštěstí se mu podaří schovat v trychtýři v zemi, kde smrtelně napadne nepřítele a zatím co dlouze umírá, tak u něj musí zůstat ležet, aby ho neodhalili. Svého činu lituje, protože voják byl ve válce ze stejně zbytečného důvodu jako on, ale ví že neměl na vybranou. Později se mu podaří návrat zpět a na vojáka dočista zapomene. Paul a Kropp jsou zraněni a pobývají v katolické nemocnici. Kropp přijde o nohu a chce se zabít, Paul se vrací zpět na frontu (**= nevidí jiný smysl života než je válka**). Leer a Müler jsou mrtví, Katczinski je zraněn a následně umírá. Na konci války Paul umírá, právě v den, který je tak tichý, že vrchní velitelství napsalo do zprávy: Na západní frontě klid.
 
 ### Téma a motiv
 
 - **téma**
 
-Návrat vojáků, kteří ztratili schopnost zařadit se zpět do společnosti
+~~Návrat vojáků, kteří ztratili schopnost zařadit se zpět do společnosti~~ (= to je tématem pokračování **Cesta zpátky**)
+
+Vývoj mladíka plného ideálů v krutém prostředí války
 
 - **motiv**
 
-Návrat vojáků po válce, nemožnost vojáků zařadit se do společnosti, střet vlastenectví a reality války, utrpení války, nesmyslnost války a velení, přátelství mezi vojáky, smrt, ztráta ideálů.
+Střet vlastenectví, ideálů a reality války; 1. světová válka; západní fronta; střet německých a francouzských vojáků; návrat vojáků po válce domů; nemožnost vojáků zařadit se do společnosti; utrpení a nesmyslnost války; výsměch velení; zvláštní forma přátelství mezi vojáky; smrt; ztráta přátel; nové zbraně (bojové plyny, letectvo); idealistický pohled civilních obyvatel na válku; železná generace
 
 ### Časoprostor
 
@@ -36,7 +38,7 @@ Období 1. světové války ve Francii a Německu
 
 ### Kompoziční výstavba
 
-Převážně chronologické řazení s retrospektivními prvky, psáno prózou. Rozděleno na 12 kapitol.
+Převážně chronologické řazení s retrospektivními prvky (vrací se do dob kdy byl na gymnáziu apod.), psáno prózou. Rozděleno na 12 kapitol.
 
 ### Literární druh a žánr
 
