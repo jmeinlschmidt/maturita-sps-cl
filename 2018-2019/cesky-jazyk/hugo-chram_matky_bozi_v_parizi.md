@@ -12,9 +12,9 @@
 
 #### Stručný obsah
 
-Děj vypráví o znetvořené osobě jménem Quasimodo, která celý svůj život strávila v Chrámu Matky Boží v Paříži, kde se stala zvoníkem. Quasimoda se ujal kněz Klaudius Frollo, který ho našel, vzal do pytle a odnesl do chrámu, kde vyrůstal.
+Román se odehrává ve středověké Paříži v r. 1482, tedy v době vlády francouzského krále Ludvíka XI. (1461 - 1483). Autor zde popisuje různé společenské vrstvy, od krále přes vysoké duchovenstvo, šlechtu a studenty až po společenskou spodinu (žebráky, zloděje, prostitutky). Seznamuje čtenáře také se známými místy středověké Paříže, ale i s jejími malými spletitými uličkami (Soudní palác, Dvůr divů – shromaždiště vyděděnců). Dominantou díla je samozřejmě pařížská katedrála Notre Dame (Chrám Matky Boží). S katedrálou jsou spjaty životní osudy hlavní postavy Quasimoda, hrbatého, téměř hluchého a na jedno oko slepého zvoníka, kterého se v dětství ujal kněz Frollo, za což mu zůstal po celou dobu vděčný a oddaný. Kvůli Frollovi se Quasimodo pokusí o únos cikánské tanečnice Esmeraldy, do níž je Frollo zamilován. Únos Quasimodovi překazil Phoebus z Châteaupers, do nějž se poté Esmeralda zamilovala. Quasimodo je zatčen a odsouzen k trestu na pranýři. Esmeralda s ním má soucit, přinese mu na pranýř vodu, za což se do ní zamiluje, i když ví, že marně. Frollo i Quasimodo jsou nešťastně zamilováni do krásné Esmeraldy. Esmeralda ale jejich city neopětuje, Frolla nenávidí, Quasimoda jí je líto, je zamilována do Phoeba. Frollo ze žárlivosti zaútočí na Phoeba, Esmeralda se domnívá, že je mrtev. Phoebeus ale přežil. Esmeralda je nespravedlivě obviněna a za pomoci útrpného práva, odsouzena k trestu smrti, za vraždu Phoeba a čarodějnictví, spolu se svou kozou Džali, se kterou prováděla kejklířské kousky. Quasimodo v den popravy Esmeraldu unese do chrámu, kde jí poskytne azyl a přizná se, že ji tajně miluje. Frollo přemlouvá Esmeraldu, aby se stala jeho milenkou, ona však odmítá. Esmeralda je později popravena, Frollo by ji mohl zachránit, ale neudělal to. Když nemohl mít její lásku on, nechtěl, aby milovala kohokoliv jiného, a raději ji nechává zemřít na šibenici. Quasimodo se za popravu mstí, shodí Frolla z věže chrámu, čímž svého vychovatele zabije. Po letech je Quasimodova kostra nalezena v hrobce u Esmeraldy. Quasimodo Esmeraldu velmi miloval, a tak raději dobrovolně zemřel v jejím objetí, než aby žil bez ní.
 
-Na náměstí Grevé předvádí své taneční umění krásná Esmeralda, která okouzlí Frolla, který posílá Quasimoda, aby ji unesl. Ale básník Gringorie přivolá hlídku a Quasimodo je zatčen. Esmeralda je zamilovaná do kapitána Phoeba, kterého ze žárlivosti pobodá Frollo. Čin je ale sveden na Esmeraldu, která je odsouzena k smrti. Frollo Esmeraldě zalže, že Phoebe je mrtev, a nabízí jí manželství, čímž by ji osvobodil od trestu smrti. Esmeralda však odmítá a raději volí smrt. Na popravišti se ale objeví Quasimodo, který Esmeraldu unáší do chrámu, jelikož je do ní zamilovaný. Esmeraldu však vydá Frollo a znovu jí nabízí manželství, jenže Esmeralda opět volí raději smrt. Frollo umírá pádem z chrámu, když pozoruje Esmeraldinu popravu.
+Quasimodo je typickou romantickou postavou vybudovanou na kontrastech: jeho ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce, svým zevnějškem okolí odpuzuje, lidé ho nenávidí, domnívají se, že je ztělesněním zla. Ve skutečnosti je však schopen těch nejhlubších a nejčistších citů. Obdobně na kontrastech je vybudována postava cikánské tanečnice Esmeraldy, která, ač vyrůstala v prostředí pařížského podsvětí mezi prostitutkami a zloději, si zachovala mravně čistý život.
 
 Po popravě Quasimodo zmizel a po nějaké době byl nalezen v Esmeraldině hrobce, která se nacházela ve sklepení na Mont-Fauconu.
 
@@ -22,15 +22,17 @@ Po popravě Quasimodo zmizel a po nějaké době byl nalezen v Esmeraldině hrob
 
 - **téma**
 
-Láska ošklivého a společnosti zavrhovaného Quasimoda ke krásné cikánské tanečnici Esmeraldě.
+~~Láska ošklivého a společnosti zavrhovaného Quasimoda ke krásné cikánské tanečnici Esmeraldě.~~
+
+Kritika společnosti
 
 - **motiv**
 
-Nenaplněná láska, okraj společnosti, cikáni, zloději, kritika pokrytectví, kontrast sociálních vrstev
+Nenaplněná láska; okraj společnosti; cikáni; zloději; kritika pokrytectví; kritika společnosti; kontrast sociálních vrstev; vyvrženec v prostředí katedrály; střet snu a skutečnosti; lži a přetvářky; opovržení vyčleněnými lidmi; katedrála Notre Dam
 
 ### Časoprostor
 
-Paříž, 15. století (1482).
+Paříž, 15. století (1482). Chrám matky boží v Paříži = **Notre Dam**
 
 ### Kompoziční výstavba
 
