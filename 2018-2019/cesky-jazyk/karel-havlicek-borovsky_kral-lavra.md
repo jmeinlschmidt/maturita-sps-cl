@@ -33,11 +33,11 @@ Oslí uši (= politický symbol), hloupost, strach, omezenost panovníka
 
 ### Časoprostor
 
-Období 1. světové války ve Francii a Německu
+Čas neurčený. Irsko (ve skutečnosti psal o Rakousko-Uhersku po roce 1984)
 
 ### Kompoziční výstavba
 
-Převážně chronologické řazení s retrospektivními prvky (vrací se do dob kdy byl na gymnáziu apod.), psáno prózou. Rozděleno na 12 kapitol.
+Chronologické řazení.
 
 ### Literární druh a žánr
 
@@ -47,29 +47,30 @@ Epika (= má děj)
 
 - **žánr**
 
-Protiválečný román (**nikoli** pacifistický!)
+Satira
 
-### Vypravěč / lyrický subjekt
+### Lyrický subjekt
 
-Personální vypravěč. Paul v ich-formě. Na závěr er-forma - konstatování smrti Paula.
+Vševědoucí lyrický subjekt. Er-forma.
 
 ### Postavy
 
-- **Pavel Bäumer**:
-    - Hlavní postava a vypravěč celého příběhu, bývalý středoškolský student gymnázia; nezištný, obětavý, zpočátku plný odhodlaní a ideálů; těší se na frontu, později zažívá rozčarování, zklamání z válečných hrůz, psychicky se hroutí; jeho přáteli jsou Katczinsky, Kropp, Tjaden, Müller, Wolf, Kemmerich aj. - Pavlovi spolužáci, váleční přátelé téže "železné" generace
-- **Stanislav Katczinsky**
-    - Veterán, 40 let, vedoucí čety, pro vojáky opora (jakoby táta); přátelský, nepostradatelný; bývalý švec, vždy sežene jídlo
-- **Himmelstoss**
-    - desátník, vedl jejich výcvik, šikanuje (= výsměch velení a výcviku); krutý velitel, bezohledný; za svou šikanu poslán na frontu kde se zbaběle schovává
+- **Král Lávra**:
+    - Lidé k němu měli kladný vztah (*starý dobrý král*)
+    - Má však oslí uši (symbol výsměchu)
+    - Je to jeho tajemství
+- **Kukulín**
+    - Bylo mu svěřeno královo tajemství
+    - Král ho ušetří
 
 ### Vyprávěcí způsoby
-Dialogy mezi vojáky, přímá řeč, spisovný jazyk, vulgarismy, hovorové výrazy
+Dle ukázky.
 
 ### Typy promluv
-Pásmo vypravěče.
+Dle ukázky.
 
 ### Veršovaná výstavba
-**Není.** Dílo je psáno prózou.
+Volný rým (bez schématu).
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
@@ -78,11 +79,8 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-- 1931 [román] Cesta zpátky
-    - Návrat a začlenění do společnosti
+XXX
 
 ### Literální / obecně kulturní kontext
 
-- **meziválečná literatura**
-    - Jaroslav Hašek [1882 - 1923] [*1921 Osudy dobrého vojáka Švejka*] (pohled na válku ze satirického pohledu, zbytečnost války)
-    - Romain Rolland [1866 - 1944] [*Petr a Lucie*] 
+XXX
