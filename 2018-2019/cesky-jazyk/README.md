@@ -38,7 +38,7 @@ Světová literatura (minimálně 4 literární díla)
 
 Další tituly podle své volby
 
-15. Borovský Havlíček: Král Lávra
+15. **[doplnit kontext]** [Borovský Havlíček: Král Lávra](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-havlicek-borovsky_kral-lavra.md)
 16. Gogol: Revizor (prekl. Bohumil Mathesius)
 17. Wolker: Host do domu
 18. Viewegh: Báječná léta pod psa
