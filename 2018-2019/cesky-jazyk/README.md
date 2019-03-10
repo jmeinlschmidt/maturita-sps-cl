@@ -33,7 +33,7 @@ Světová literatura (minimálně 4 literární díla)
 10. **[doplnit ukázku]** [Čapek Karel: R.U.R.](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_rur.md)
 11. **[doplnit ukázku]** [Čapek Karel: Válka s mloky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_valka-s-mloky.md)
 12. **[doplnit ukázku]** [Hrabal: Ostře sledované vlaky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/bohumil-hrabal_ostre-sledovane-vlaky.md)
-13. **[příprava]** [Fuks: Spalovač mrtvol](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/fuks_spalovac-mrtvol.md)
+13. **[doplnit]** [Fuks: Spalovač mrtvol](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/fuks_spalovac-mrtvol.md)
 14. **[doplnit ukázku]** [Pavel Ota: Smrt krásných srnců](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md)
 
 Další tituly podle své volby
@@ -41,6 +41,6 @@ Další tituly podle své volby
 15. **[doplnit kontext]** [Borovský Havlíček: Král Lávra](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-havlicek-borovsky_kral-lavra.md)
 16. Gogol: Revizor (prekl. Bohumil Mathesius)
 17. Wolker: Host do domu
-18. Viewegh: Báječná léta pod psa
+18. **[doplnit]** Viewegh: Báječná léta pod psa
 19. Neruda: Balady a romance
 20. Twain: Dobrodružství Toma Sawyera (překl. Jana Mertinová)
