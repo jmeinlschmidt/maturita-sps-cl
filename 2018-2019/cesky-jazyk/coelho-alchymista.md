@@ -42,11 +42,11 @@ Po těchto slovech Santiago pochopil, že nalezl poklad. (**= tím pokladem neby
 
 - **téma**
 
-Osobní příběh Santiaga
+Osobní příběh Santiaga, který putuje za svým snem (ten tvoří jeho osobní příběh)
 
 - **motiv**
 
-Přístup k životu; hledání pokladu; pyramidy (nedosažitelno); daleká cesta; duch pouště;
+Přístup k životu; hledání pokladu; láska; pochopení; život; mysl; úcta k přírodě a k bohu; osud; pyramidy (nedosažitelno); daleká cesta; duch pouště
 
 ### Časoprostor
 
@@ -73,12 +73,20 @@ Er-forma
 ### Postavy
 
 - **Santiago**
+  - hlavní postava
+  - příběh popisuje jeho cestu za pokladem (= svým osudem, ten osud je ta cesta)
 
 - **cikánka**
+  - vyložila Santiaga sen, požaduje desetinu pokladu
+  - Santiago si myslí, že s ní ztrácel čas
 
 - **Král**
+  - daruje Santiagovi kameny na cestu, požaduje desetinu stáda
+  - *"To je tedy problém. Nemůžu ti pomoci, dokud si budeš myslet, že máš ovcí dost."* (snažil se Santiaga odprostit od minulosti, která ho držela ve Španělsku)
 
 - **Alchymista**
+  - Alchymisté = *"Byli to lidé, kteří celý svůj život věnovali čištění kovů v laboratořích; věřili, že když nějaký kov bude celou řadu let zahříván, osvobodí se nakonec od svých individuálních vlastností a místo nich zůstane jen Duše svě"* (= alegorie)
+  - Provedl Santiaga pouští
 
 - **sklenář**
 
