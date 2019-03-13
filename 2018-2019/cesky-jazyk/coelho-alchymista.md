@@ -88,8 +88,6 @@ Er-forma
   - Alchymisté = *"Byli to lidé, kteří celý svůj život věnovali čištění kovů v laboratořích; věřili, že když nějaký kov bude celou řadu let zahříván, osvobodí se nakonec od svých individuálních vlastností a místo nich zůstane jen Duše svě"* (= alegorie)
   - Provedl Santiaga pouští
 
-- **sklenář**
-
 ### Vyprávěcí způsoby
 
 ### Typy promluv
