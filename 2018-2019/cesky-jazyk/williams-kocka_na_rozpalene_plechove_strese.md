@@ -1,14 +1,9 @@
 # Tennesse Williams - Kočka na rozpálené plechové střeše
 
-- Paulo Coelho [1947 - současnost]
-- Brazilec katolického vyznání
-- V 17 letech opustil jezuitské gymnázium, rodiče jeho touhu psát neschvalovali
-- Celkem třikrát ho poslali do psychiatrické léčebny
-- Vydáno v roce 1988
-- **Největší brazilský bestseller všech dob**
-- Nabádá k duchovnímu rozvoji a zodpovědnému přístupu k životu
-- Každý člověk má svůj **Osobní příběh**, ale jen málokdo ho dokáže prožít
-- Lidé volí raději pohodlí a jistotu místo rizika
+- Tennesse Williams [1911 - 1983]
+- Další autorovo známé dílo Tramvaj do stanice Touha [1947]
+- Vydáno v roce 1955
+- **Dílo získalo Pulitzerovu cenu za nejlepší drama**
 
 ## Analýza uměleckého textu
 
@@ -16,89 +11,122 @@
 
 #### Stručný obsah
 
-Na začátku nás příběh zavede do starého opuštěného kostela. Na místě, kde vyrostl fíkovník, spí hlavní hrdina **Santiago** a zdá se mu sen. Ráno se probudí a vzpomíná si, že tento sen se mu už jednou zdál. Chvíli nad tím hloubá a pak se rozhodne, že zajde do města a nechá si sen vyložit.
+**1. dějství**
 
-V Tarife vyhledá starou cikánku. A říká jí, co se mu zdálo. Ve snu k němu přišlo dítě, vzalo ho za ruku, vedlo ho k Egyptským pyramidám. Tam mu řeklo: „Když sem přijdeš, najdeš zakopaný poklad“ a v tu chvíli se vždy chlapec probudil. Cikánka mu slíbila sen vyložit, když jí dá desetinu toho, co nalezne. Mladík souhlasil. Ona pravila: „Jdi do Egypta k pyramidám a najdi tam ten poklad.“ Santiago si pomyslil, to jsem sem nemusel chodit. Ale co, je to zadarmo. Když nepůjdu poklad hledat, cikánka také nic nedostane.
+Dominující jsou dialogy Bricka Pollitta a jeho ženy Margarety. Brick je bývalým úspěšným fotbalistou, posléze fotbalovým reportérem, momentálně je zdrcen a stal se z něj alkoholik. S Margaretou (Maggie) se seznámili na univerzitě. Brick tehdy byl slavným fotbalistou a také pohledným mladým mužem a Maggie byla okouzlující chudá dívka.
 
-A jelikož byl pasáček ovcí, vydal se s nimi do dalšího města prodávat vlnu. Jednou sedí na náměstí a čte si svou jedinou knihu a tu k němu promluví starý král a nabádá ho, aby si splnil svůj „Osobní příběh“ – šel hledat poklad. Mladík nakonec svolí, prodá všechny svoje ovečky a za utržené peníze jede do Egypta. (**= kladen důraz na to, že člověk se musí vzdát své minulosti aby došel ke svému cíli - ovce ho drželi doma**)
+Margareta se do Bricka zamilovala. Brick však trávil příliš času s přítelem Skipperem. Měl ke Skipperovi přátelský vztah, ovšem Skipper k němu homosexuální. Aby Skipper Margaretě dokázal opak, pokusil se s ní vyspat, avšak z jeho strany neúspěšně. Nejspíš byl skutečně homosexuální. Skipper Brickovi zatelefonoval a pověděl mu, co se stalo. Brick uraženě zavěsil a Skipper spáchal sebevraždu. Od té doby to šlo s Brickem z kopce, cítil vinu za kamarádovu smrt. Omrzela ho práce, k Margaretě cítil téměř nenávist a začal pít, aby zapomněl na smrt kamaráda i na zbytečnost svého života.
 
-Sice se neumí domluvit arabsky, ale ze svého putování s ovcemi zjistil, že nejen slovy se člověk domluví. Zajde do první hospody, co najde, a rád by se někoho zeptal na cestu. Tu si k němu jeden Arab přisedne a promluví španělsky. Vyjedná si od Santiaga všechny peníze na nákup dvou velbloudů a jde je koupit. Z hospody ještě vyšli spolu, ale najednou po průvodci ani stopy a mladík přišel o všechny své úspory. (**= autor pronese, že není uvežněn v cizím světě, ale novém světě**)
+Margareta stále Bricka miluje, omlouvá jeho pití. Nechce Bricka opustit, i když on ji k tomu činy i slovy nutí. Nechce ho opustit nejen proto, že ho miluje, ale také proto, že tchán (Politt) je bohatý a její život je tedy pohodlný. Margareta zjistí, že tchán umírá na rakovinu; prezentovaná lékařská zpráva, podle níž má tchán jen špatné zažívání, je lží. Čeká tedy, až manžel bude dědit. Snaží se dostat Bricka z alkoholismu, aby mohl dědit, protože jinak by dědictví mohlo přejít ke staršímu bratrovi Gooperovi a jeho ženě Mae (mají spolu pět dětí, zatímco Brick s Maggie jsou bezdětní). Gooper je úspěšný advokát a jako prvorozený syn by měl na majetek právo.
 
-*Pořád mu zbývaly kameny od krále které mohl prodat a dostat se domů, ale neudělal to.*
+**2. dějství**
 
-Smutný se toulal městem, až narazil na sklenářství. Majiteli krámku nabídl vyleštit všechny sklenice ve výloze za trochu jídla. Nakonec se domluvili, že Santiago bude u sklenáře pracovat za podíl ze zisku. Majitel si pomyslel, že to moc peněz nebude, protože poloha krámku je daleko od centra a už dlouhou dobu nic neprodal. Ale Santiago měl plno dobrých nápadů na zlepšení prodeje a zisk se mnohonásobně zvýšil, protože viděl svůj cíl – nashromáždit peníze na cestu. (**= už po několikáte měl dost peněz, aby se mohl vrátit zpět**)
+Politt za Brickem přichází se zprávou, že je zdravý, protože nepravdivé lékařské zprávě uvěřil. Vypráví Brickovi, že Goopera s manželkou a dětmi nemá v lásce a že celý život měl rád jen Bricka. Donutí Bricka, aby si přiznal, že pije kvůli vnitřní prázdnotě, tvrdí, že Brick si pocit viny jen nalhává. Brick má zlost, protože otec si myslí, že Brick Skippera miloval nejen jako přítele. Ve vzteku na otce křikne, že skutečně umírá na rakovinu. Otce to naprosto zdrtí.
 
-Za rok měl mladík dost peněz na uskutečnění svého snu. Domluvil se s jednou Karavanou, že se s nimi vydá do pouště. V oáze Al-Fajjúm se zamiloval do ženy pouště Fátimy. Už si myslel, že našel svůj poklad, tedy ženu, ale nakonec potkal Alchymistu a ten ho přesvědčil, že jeho poklad přece leží u Egyptských pyramid, nikoli v oáze. Tak se tedy tentokrát v doprovodu Alchymisty vydali k pyramidám. Cestu jim znepříjemňovala válka mezi kmeny pouště. **Člověk se musí naučit naslouchat svému srdci.**
+**3. dějství**
 
-Nakonec dorazili do kláštera nedaleko pyramid. Zde se Alchymista se Santiagem rozloučil. Ještě mu dal na cestu kousek zlata a další kousek mu nechal u mnichů, kdyby ho potřeboval, až se bude vracet. Santiago nazítří vyrazil k pyramidám a jeho srdce k němu promluvilo: „Až se rozpláčeš, tak budeš na místě pokladu.“
+Gooper s Mae sdělují matce, že otec umírá na rakovinu a že chtějí hospodařit na otcových plantážích. Matka manžela velmi miluje a nic takového nechce připustit. Ví, že Politt miluje Bricka, a chce, aby po něm převzal starost o majetek. Margareta to ví také, a tak čeká na vhodnou příležitost, aby mohla říci, že je v očekávání (i když to není pravda). Zamkne Brickovi bar a vyhrožuje mu, že dostane svůj alkohol jen tehdy, když se s ní vyspí. Bricka překvapila její rozhodnost a podvolil se jí. Tatínek umírá.
 
-Mladík začal kopat nedaleko pyramid. Už kopal dlouho a najednou k němu přišli dva muži a chtěli vědět, co dělá. Mysleli si, že něco schovává, proto Santiaga prohledali a našli u něj zlato, to mu sebrali. Pak ho tloukli a nakonec z něj vymlátili odpověď, že hledá poklad. Lupiči se mu vysmáli a nechali ho jít. Ještě než odešel, tak ten větší z lupičů prohlásil: *„Zrovna před dvěma roky se mi na tomto místě zdál dvakrát po sobě sen. Zdálo se mi, že mám jet do Španělska a vyhledat polo zbořený kostel, v němž uprostřed roste fíkovník a kde pastýři často přespávají. Ve snu se mi zdálo, že když pod fíkovníkem budu kopat, naleznu poklad. Nejsem takový blázen, abych putoval přes celou poušť jenom proto, že se mi zdál sen.“*
-
-Po těchto slovech Santiago pochopil, že nalezl poklad. (**= tím pokladem nebylo nic hmotného, ale ta cesta kterou prožil**). Vrátil se do Španělska s posledním kusem zlata, které mu Alchymista nechal u mnicha (**paradoxně tam, kde příběh začíná**), a našel poklad. Ta cesta co absolvoval byl ten poklad. Náhle na tváři ucítil závan větru a povídá: „Fátimo, ženo mého srdce, už jdu.“
-
-**Během děje byl několikrát bohatý, zabezpěčený, ale nikdy by tak nebyl spokojený.**
+Kočka na rozpálené plechové střeše je tak Maggie; chtěla zvítězit a nakonec také zvítězila.
 
 ### Téma a motiv
 
 - **téma**
 
-Osobní příběh Santiaga, který putuje za svým snem (ten tvoří jeho osobní příběh)
+Vztahy v rodině
 
 - **motiv**
 
-Přístup k životu; hledání pokladu; láska; pochopení; život; mysl; úcta k přírodě a k bohu; osud; pyramidy (nedosažitelno); daleká cesta; duch pouště
+Přetvářka, pokrytectví, lži, vztahy, touha po penězích, potlačovaná homosexuální orientace
 
 ### Časoprostor
 
-Španělsko (Andalusia), Maroko (Tanger), Egypt. Čas není přímo určen. *(lze usuzovat po roce 1887, protože je zmiňován jazyk Esperanto)*
+Přímo neurčený. Napříč všemi dějstvími lze určit, že se odehrává v domě pana Politta (tatínka Bricka).
 
 ### Kompoziční výstavba
 
-Chronologický postup s retrospektivními odbočkami do minulosti (vyprávění příběhů o králech apod).
+Chronologický postup s retrospektivními odbočkami do minulosti. 3 dějství.
 
 ### Literární druh a žánr
 
 - **druh**
 
-Epika (= má děj)
+Drama
 
 - **žánr**
 
-Filozofický román
+Psychologické drama
 
 ### Vypravěč / lyrický subjekt
 
-Er-forma
+Próza = vypravěč. **V této hře se vypravěč nevyskytuje.** Děj stojí na replikách jednotlivých postav. Dílo je doplněno scénickými poznámkami.
+
+Ve scénické poznámce, co se odehrává na jevišti, jak se lidé tvaří, jakým tónem mluví (velmi podrobně popsáno).
 
 ### Postavy
 
-- **Santiago**
-  - hlavní postava
-  - příběh popisuje jeho cestu za pokladem (= svým osudem, ten osud je ta cesta)
+Významnějšími postavami především ženy. Hlavní postavy jsou vždy **určitým způsobem pokrytecké**, až na Bricka (je mu vše jedno), Tatínka (o jeho jmění všem jde, umírá), důstojného pana Tookera (faráře) a Doktora Baugha.
 
-- **cikánka**
-  - vyložila Santiaga sen, požaduje desetinu pokladu
-  - Santiago si myslí, že s ní ztrácel čas
+- **Margareta (Meggie)**
+  - manželka Bricka, s ním se snaží o početí dítěte
+  - pokrytecká, pomlouvačná, energická, chtivá, vychytralá
+  - k Brickovi otevřená a upřímná – ví, že ji nemiluje, přesto zůstává v jeho rodině a bojuje o přízeň jeho otce
+  - sebe považuje za kočku na rozpálené plechové střeše, přičemž jejím hlavním cílem je vydržet na té střeše co nejdéle
+  - *Brick ji několikrát vybízí, ať se s ním rozejde nebo si najde milence, ale ona odporuje a je odhodlána setrvat*
 
-- **Král**
-  - daruje Santiagovi kameny na cestu, požaduje desetinu stáda
-  - *"To je tedy problém. Nemůžu ti pomoci, dokud si budeš myslet, že máš ovcí dost."* (snažil se Santiaga odprostit od minulosti, která ho držela ve Španělsku)
+- **Brick**
+  - manžel Maggie
+  - nejoblíbenější syn svého tatínka pana Politta (**to jemu jedinému chce otec přenechat své jmění**)
+  - **nestojí o otcovo jmění**
+  - bývalý slavný fotbalista, poté slavý fotbalový reportér
+  - celý život měl skvělý přátelský vztah se Skipperem – společnost je považovala za homosexuály; Skipper se pokusil vyspat s Margaretou, aby dokázal, že homosexuálem není, poté spáchal sebevraždu
+  - po smrti svého nejlepšího přítele propadl alkoholu, začal nesnášet život i všechny lidi kolem sebe včetně Maggie
+  - stává se z něj notorik, je velmi flegmatický
 
-- **Alchymista**
-  - Alchymisté = *"Byli to lidé, kteří celý svůj život věnovali čištění kovů v laboratořích; věřili, že když nějaký kov bude celou řadu let zahříván, osvobodí se nakonec od svých individuálních vlastností a místo nich zůstane jen Duše svě"* (= alegorie)
-  - Provedl Santiaga pouští
+- **Mae**
+  - Gooperova žena, mají pět dětí 
+  - vypočítavá a pokrytecká jako její manžel
+  - pomocí svých pěti dětí a jednoho na cestě usiluje o přízeň tatínka (*tatínek totiž touží po vnučkovi, proto se mu jich snaží dát co nejvíc*)
 
-- **sklenář**
+- **Gooper**
+  - Brickův starší bratr – prvorozený syn
+  - advokát
+  - pokrytecký, vypočítavý
+  - je přesvědčen, že kvůli Brickovu alkoholismu patří otcovo dědictví jen jemu a jeho rodině
+  - když zjistí, že tomu tak nemusí být, začne vyhrožovat tím, že je advokát a svůj nárok získá
+
+- **Mamka**
+  - Brickova máma, Taťkova manželka
+  - dobrosrdečná, naivní, avšak také pokrytecká
+  - touží se stát hlavou rodiny, ale svého manžela stále miluje
+  - **tatínek ji ani trochu, chce se jí doslova zbavit a užívat si**
+
+- **Taťka**
+  - Brickův a Cooperův otec
+  - milionář, vlastník rozlehlých plantáží
+  - přisprostlý, upřímný, buranský
+  - smrtelně nemocný (*nejdřív to věděl, pak mu lhali, že není, a pak mu to Brick vykecal*)
+  - ke všem, kromě Bricka, se chová pohrdavě až hrubě
+  - Bricka má rád a vidí v něm sám sebe, proto mu chce předat své dědictví
+  - **Na konci díla umírá, zatímco Brick s Meggie jdou počít dítě**
+
+- **Důstojný pán Tooker**
+  - farář, nezaujatý
+
+- **Doktor Baugh**
+  - nezaujatý
+
+- **černošští sluhové**
 
 ### Vyprávěcí způsoby
 
 ### Typy promluv
 
-Pásmo vypravěče.
+Typy promluv u dramatu - dialog, monolog, replika, scénická poznámka (= navozuje děj, říká co se odehrává na jevišti).
 
 ### Veršovaná výstavba
 
-**Není.** Dílo je psáno prózou.
+**Není**
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
