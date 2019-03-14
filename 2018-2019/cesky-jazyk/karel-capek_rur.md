@@ -142,7 +142,7 @@ Typy promluv u **dramatu** - dialog, monolog, replika, **scénická poznámka** 
 
 ### Veršovaná výstavba
 
-**Není**. Drama je psáno prózou.
+**Není**
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
