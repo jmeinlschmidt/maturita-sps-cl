@@ -25,7 +25,7 @@ Netušil však, co tím způsobí. Když na hostině začal jezdit smyčcem po s
 
 - **téma**
 
-Kritika omezenosti panovníka
+Kritika omezenosti panovníka a **absolutismu**
 
 - **motiv**
 
