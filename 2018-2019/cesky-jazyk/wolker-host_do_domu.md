@@ -15,15 +15,21 @@
 
 #### Stručný obsah
 
+- Báseň Věci
+Projev lásky k obyčejným věcem a světu, dialog s věcmi, zživotnění, personifikace; účast nad básnivostí světa a věcí; postup gradace, využití přírovnání, paralely.
+
+- Báseň Svatý Kopeček *(stojí samostatně)*
+Odlišnost obsahu i formy (rozsáhlá báseň, proměna poezie okouzlení, soucitu a touhy po harmonii v poezii společenské aktivity; báseň – myšlenkově závažnější, doklad změny básnikova pohledu na svět -> opouští idylické pojetí světa, pocit básníkova štěstí spjat se štěstím všech (cit lidské družnosti a vědomí mravní odpovědnosti vůči společnosti; lyrický subjekt ("já") se proměňuje v oslovující "my", touha vytvořit spravedlivý svět. Prvky socialismu. Pásmo (návaznost na Apollinaera), polytématyčnost - ohrazená jeho Svatým kopečkem u Olomouce.
+
 ### Téma a motiv
 
 - **téma**
 
-XX
+Poezie prostých věcí *(případně lze určit téma u konkrétní básně, ale vždy se jedná vesměs o to samé)* Kopeček - **polytématičnost**
 
 - **motiv**
 
-XX
+*viz konkrétní báseň*
 
 ### Časoprostor
 
@@ -36,6 +42,7 @@ Sbírka se dělí na tři části:
 1. Chlapec (= chlapecký pohled na svět, ideál harmonie, vzpomínky na domov, na matku, milostná tematika)
 2. Ukřižované srdce (= ne bezstarostné pocity, motiv vojáka, vězně, nemoc)
 3. Host do domu (= láska k životu, lidem a světu; motiv života a smrti)
+(4. část je Svatý kopeček)
 
 Celkem 31 básní.
 
@@ -47,27 +54,15 @@ Lyricko-epické básně
 
 - **žánr**
 
-XX
+Poezie
 
 ### Lyrický subjekt
 
-Vševědoucí lyrický subjekt. Er-forma.
-
 ### Postavy
 
-- **Král Lávra**:
-    - Lidé k němu měli kladný vztah (*starý dobrý král*)
-    - Má však oslí uši (symbol výsměchu)
-    - Je to jeho tajemství
-- **Kukulín**
-    - Bylo mu svěřeno královo tajemství
-    - Král ho ušetří
-
 ### Vyprávěcí způsoby
-Dle ukázky.
 
 ### Typy promluv
-Dle ukázky.
 
 ### Veršovaná výstavba
 Volný rým (bez schématu).
