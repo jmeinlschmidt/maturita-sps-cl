@@ -42,5 +42,5 @@ Další tituly podle své volby
 16. **[doplnit kontext]** [Gogol: Revizor (prekl. Bohumil Mathesius)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/gogol-revizor.md)
 17. **[doplnit kontext]** [Wolker: Host do domu](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/wolker-host_do_domu.md)
 18. **[doplnit]** Viewegh: Báječná léta pod psa
-19. Neruda: Balady a romance
+19. **[doplnit ukázku]** [Neruda: Balady a romance](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-balady_a_romance.md)
 20. Twain: Dobrodružství Toma Sawyera (překl. Jana Mertinová)
