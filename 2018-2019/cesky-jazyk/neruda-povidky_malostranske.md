@@ -18,7 +18,12 @@
 #### Stručný obsah
 
 **Přivedla žebráka na mizinu**
+
 V této povídce z dětství autor ukazuje, co všechno zmůžou nepravdivé řeči a pomluvy o nějakém člověku a jak moc mu mohou ublížit. Pan Vojtíšek byl velmi milým, oblíbeným a čistotným malostranským žebrákem. Chodil od dveří ke dveřím a lidé s ním rádi několik slov promluvili, sem tam nějaký peníz dali nebo na jídlo pozvali. I místní strážníci jej nepronásledovali. Měl se tedy relativně dobře, o jídlo a milá slova neměl nouzi. Osudným se mu stalo setkání s žebračkou žebrající na schodech u chrámu svatého Mikuláše. Ta nebyla tak dobře upravená a nikdo ji na jídlo nezval. Zřejmě Vojtíškovi záviděla, a tak aby si polepšila, chtěla to s ním dát dohromady. Jenže on odmítl. Zakrátko se pak po Malé Straně rozšířilo, že Vojtíšek není tak chudý, jak se dělá, že snad na Starém Městě za řekou má dva domy a další podobné řeči. Lidé jej tedy přestali mít rádi, nikdo mu nechtěl dávat peníze, ani jej nezval na oběd. Vojtíšek musel tedy opustit Malou Stranu a jít žebrat za řeku do Starého Města. Tam jej nikdo neznal, nikdo jej do domu nepouštěl a on musel sbírat jen peníze do čepice na ulici. Zle se mu tam vedlo. Až jednou jej našli na Újezdě bez košile, jen v kabátu a kalhotách umrzlého.
+
+**Doktor Kazisvět**
+
+Popisuje krátký příběh podivínského, vystudovaného doktora Heriberta, který nikdy neprovozoval lékařskou praxi a lidé se mu vyhýbali stejně jako on jim. Na jedné ze svých procházek potká pohřební průvod pochovávající pana Schepelera, váženého a bohatého radu zemské účtárny. Když míjí průvod, spadne rakev s tělem z vozu a otevře se. Doktor Heribert ji těsně míjí a všimne si, že pan rada není mrtvý. Nechá jej zanést do nejbližšího domu, kde strnulého pana radu křísí. Ten přijde k sobě a za dva měsíce se plně vyléčený vrátí do úřadu. Tuto událost noviny zmíní, pouze příbuzní pana rady, kteří měli dědit jeho velký majetek, nemají z této události radost a pojmenují doktora Heriberta doktorem Kazisvětem, což mu již zůstane. Doktor bydlel na Újezdě. Neruda v této povídce pěkně ukázal, jak i člověk odstrčený ze společnosti a lidmi nevážený může být pro ně velmi přínosný. Naopak zde také upozornil na mnohou přetvářku panující v rodinných vztazích
 
 ### Téma a motiv
 
