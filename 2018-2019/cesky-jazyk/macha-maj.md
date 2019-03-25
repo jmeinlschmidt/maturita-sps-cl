@@ -125,5 +125,14 @@ Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. K
 ### Literální / obecně kulturní kontext
 
 - **romantismus 1. pol. 19. století**
-  - 
-- aa
+  - znaky:
+    - důraz na cit a fantazii
+    - potiklad snu a skutečnosti
+    - **kontrasty!**
+    - obdiv k minulosti a mystice, únik do vlastního nitra
+    - ústřední hrdina splývá s autorem
+    - romantický hrdina = *je vyjímečný, neschopnost a nezájem přizpůsobit se, vyvrženec společnosti (loupežník, vrah, cikán atd.)
+    - jazyk - barvitost, hudebnost, obraznost*
+  - 1831 [román] Victor Hugo - Chrám matky boží v Paříži
+  - 1825 [román] Alexandr Sergejevič Puškin - Evžen Oněgin
+- *do národního obrození se Máj neřadí*
