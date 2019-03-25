@@ -17,6 +17,9 @@
 
 #### Stručný obsah
 
+**Přivedla žebráka na mizinu**
+V této povídce z dětství autor ukazuje, co všechno zmůžou nepravdivé řeči a pomluvy o nějakém člověku a jak moc mu mohou ublížit. Pan Vojtíšek byl velmi milým, oblíbeným a čistotným malostranským žebrákem. Chodil od dveří ke dveřím a lidé s ním rádi několik slov promluvili, sem tam nějaký peníz dali nebo na jídlo pozvali. I místní strážníci jej nepronásledovali. Měl se tedy relativně dobře, o jídlo a milá slova neměl nouzi. Osudným se mu stalo setkání s žebračkou žebrající na schodech u chrámu svatého Mikuláše. Ta nebyla tak dobře upravená a nikdo ji na jídlo nezval. Zřejmě Vojtíškovi záviděla, a tak aby si polepšila, chtěla to s ním dát dohromady. Jenže on odmítl. Zakrátko se pak po Malé Straně rozšířilo, že Vojtíšek není tak chudý, jak se dělá, že snad na Starém Městě za řekou má dva domy a další podobné řeči. Lidé jej tedy přestali mít rádi, nikdo mu nechtěl dávat peníze, ani jej nezval na oběd. Vojtíšek musel tedy opustit Malou Stranu a jít žebrat za řeku do Starého Města. Tam jej nikdo neznal, nikdo jej do domu nepouštěl a on musel sbírat jen peníze do čepice na ulici. Zle se mu tam vedlo. Až jednou jej našli na Újezdě bez košile, jen v kabátu a kalhotách umrzlého.
+
 ### Téma a motiv
 
 - **téma**
