@@ -33,7 +33,9 @@ Autorovi zážitky z dětství z Malé strany; autentické vyobrazení života m
 
 ### Kompoziční výstavba
 
-Povídky na sebe nenavazují. Jediný společný prvek - Malá strana. 13 prozaických útvarů (povídky, novely, 1 zápisek z deníku advokáta)
+Povídky na sebe nenavazují. Jediný společný prvek - Malá strana. 13 prozaických útvarů (povídky, novely, 1 zápisek z deníku advokáta).
+
+V rámci jednotlivých povídek - chronologický postup, místy retrospektiva ve vzpomínkových pasážích.
 
 ### Literární druh a žánr
 
