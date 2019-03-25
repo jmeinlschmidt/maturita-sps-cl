@@ -36,11 +36,11 @@ Odehrává se v malém ruském městečku v 30. letech 19. století (doba vlády
 Chronologický postup. 5 dějství.
 
 Výstavba (viz čísla v ději) 
-1. expozice – úvod, výchozí situace 
-2. kolize – zápletka, konflikt postav 
-3. krize – vyvrcholení, růst napětí 
-4. peripetie – obrat v ději 
-
+1. expozice – úvod, výchozí situace  
+2. kolize – zápletka, konflikt postav  
+3. krize – vyvrcholení, růst napětí  
+4. peripetie – obrat v ději
+5. katastofa – rozuzlení, vyvrcholení konfliktu
 
 ### Literární druh a žánr
 
