@@ -21,7 +21,7 @@
 
 - **1. zpěv** 
 
-Poté co se Vilém dozví, že jeho milá Jarmila byla svedena (ještě před tím, než se poznali), zavraždí svůdce, aniž by tušil, že je to jeho otec. Vilém je za tento skutek odsouzen na smrt. Za Jarmilou, která na Viléma čeká, přijíždí jeho druh a sdělí jí, že Vilém je uvězněn a čeká na smrt pro otcovraždu. Vilém je popraven a Jarmila pro žal a smutek skáče do jezera.
+Poté co se Vilém dozví, že jeho milá Jarmila byla svedena (ještě před tím, než se poznali), zavraždí svůdce, aniž by tušil, že je to jeho otec. Vilém je za tento skutek odsouzen na smrt. Za Jarmilou, která na Viléma čeká, přijíždí jeho druh a sdělí jí, že Vilém je uvězněn a čeká na smrt pro otcovraždu. Jarmila pro žal a smutek skáče do jezera.
 
 Obraz Májové přírody, sebevražda Jarmily skokem do jezera. Motiv lásky a nevěry.
 
@@ -85,7 +85,24 @@ Lyricko-epická báseň
 
 ### Lyrický subjekt
 
+er-forma
+
 ### Postavy
+
+- **Vilém (strašný lesu pán)**
+  - loupežník, vůdce skupiny (*= jeden z motivů pro které byl Máj kritizován, nehodilo se do národního obrození*)
+  - žárlivý, pomstychtivý, odsouzený na smrt
+  - odsouzený na smrt – nevěří ve svou vinu
+  - lituje  sám sebe
+  - zatracuje se za svůj osud dává vinu svému otci, který jej v mládí vyhnal z domu
+  - má strach z posmrtného života, neví co přijde
+
+- **Jarmila**
+  - krásná, zamilovaná – oddaně čeká na Viléma
+  - slabá-zpráva od plavce ji zdrtila, neunesla Vilémův osud -> skočila ze skály a utopila se (jeden z výkladů)
+
+- **Hynek**
+  - zamyšlený, depresivní, otřesen Vilémovým osudem, ztotožňuje se s Vilémem, objevuje se až ve 4. zpěvu
 
 ### Vyprávěcí způsoby
 
@@ -98,13 +115,15 @@ Lyricko-epická báseň
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-- povídky [1878] Povídky malostranské
-  - soubor povídek o životě na Malé straně
-  - vzpomínka na Nerudovo dětství
-- psal také obrovské množství fejetonů, básní, povídek, byl také kritik a redaktor Národní listů
+Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. Kritika náboženství a boha, který připustil smrt dvou mladých lidí. Soudobí úmělci jeho dílo zavrhli - projevoval málo vlastenectví.
+
+- román [1857] Cikáni
+  - psal do roku 1835
+  - původně neprošlo cenzurou, vyšlo až posmrtně
+  - epika, složité lidské vztahy, život vydědenců
 
 ### Literální / obecně kulturní kontext
 
-- sbírka balad [1853] Karel Jaromír Erben - Kytice z pověstí národních
-- sbírka povídek [1855] Božena Němcová - Babička
-
+- **romantismus 1. pol. 19. století**
+  - 
+- aa
