@@ -43,4 +43,4 @@ Další tituly podle své volby
 17. **[doplnit kontext]** [Wolker: Host do domu](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/wolker-host_do_domu.md)
 18. **[doplnit]** Viewegh: Báječná léta pod psa
 19. **[doplnit ukázku]** [Neruda: Balady a romance](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-balady_a_romance.md)
-20. [Neruda: Povídky malostranské](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-povidky_malostranske.md)
+20. **[doplnit ukázku]** [Neruda: Povídky malostranské](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-povidky_malostranske.md)
