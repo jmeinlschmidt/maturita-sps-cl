@@ -1,12 +1,11 @@
-# Gogol - Revizor
+# Nikolaj Vasiljevič Gogol - Revizor
 
-- Tennesse Williams [1809 - 1852]
+- Nikolaj Vasiljevič Gogol [1809 - 1852]
 - Vůbec nejčastěji hraným představením v Rusku
 - Postavy, jež nám dílo ukazuje, jsou tragickým, i když pokřiveným zrcadlem reality
 - Ve hře není jediná kladná postava
 - Zcela zbořila dosavadní "pravidla" divadla
 - Vydáno v roce 1836
-- **Dílo získalo Pulitzerovu cenu za nejlepší drama**
 
 ## Analýza uměleckého textu
 
