@@ -10,7 +10,7 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 ## Témata
 Světová a česká literatura do konce 18. století
 
-1. Shakespeare: Hamlet (překl. Erich Adolf Saudek)
+1. Shakespeare: [Hamlet (překl. Erich Adolf Saudek)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/shakespeare-hamlet.md)
 2. **[doplnit ukázku]** [Moliére: Lakomec (překl. Erich Adolf Saudek)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/moliere-lakomec.md)
 
 Světová a česká literatura 19. století
