@@ -16,7 +16,7 @@ Světová a česká literatura do konce 18. století
 Světová a česká literatura 19. století
 
 3. **[doplnit ukázku/kontext]** [Hugo: Chrám matky boží v Paříži (překl. Milena Tomášová)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/hugo-chram_matky_bozi_v_parizi.md)
-4. [Zola: Zabiják (překl. Luděk Kárl)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/zola-zabijak.md)
+4. **[doplnit ukázku/kontext]** [Zola: Zabiják (překl. Luděk Kárl)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/zola-zabijak.md)
 5. **[doplnit ukázku]** [Mácha: Máj](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/macha-maj.md)
 
 Literatura 20. a 21. století
