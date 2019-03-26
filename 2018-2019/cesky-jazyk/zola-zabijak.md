@@ -1,10 +1,6 @@
 # Emil Zola - Zabiják
-
-- Hugo vychováván v rodině plné kontrastů, což se projevilo do jeho tvorby
-- **Romantismus** = kontrast (ošklivý hlavní hrdina, okraj společnosti atd.), nešťastná láska, konec tragická smrt
-- Kontrast ošklivého Quasimoda a nádherné Esmeraldy; kontrast Quasimodova vzhledu a jeho čistým srdcem
-- Victor Hugo [1802 - 1885]
-- Vydáno v roce 1831
+- Emil Zola [1840 - 1902]
+- Vydáno v roce 1876
 
 ## Analýza uměleckého textu
 
@@ -12,31 +8,25 @@
 
 #### Stručný obsah
 
-Román se odehrává ve středověké Paříži v r. 1482, tedy v době vlády francouzského krále Ludvíka XI. (1461 - 1483). Autor zde popisuje různé společenské vrstvy, od krále přes vysoké duchovenstvo, šlechtu a studenty až po společenskou spodinu (žebráky, zloděje, prostitutky). Seznamuje čtenáře také se známými místy středověké Paříže, ale i s jejími malými spletitými uličkami (Soudní palác, Dvůr divů – shromaždiště vyděděnců). Dominantou díla je samozřejmě pařížská katedrála Notre Dame (Chrám Matky Boží). S katedrálou jsou spjaty životní osudy hlavní postavy Quasimoda, hrbatého, téměř hluchého a na jedno oko slepého zvoníka, kterého se v dětství ujal kněz Frollo, za což mu zůstal po celou dobu vděčný a oddaný. Kvůli Frollovi se Quasimodo pokusí o únos cikánské tanečnice Esmeraldy, do níž je Frollo zamilován. Únos Quasimodovi překazil Phoebus z Châteaupers, do nějž se poté Esmeralda zamilovala. Quasimodo je zatčen a odsouzen k trestu na pranýři. Esmeralda s ním má soucit, přinese mu na pranýř vodu, za což se do ní zamiluje, i když ví, že marně. Frollo i Quasimodo jsou nešťastně zamilováni do krásné Esmeraldy. Esmeralda ale jejich city neopětuje, Frolla nenávidí, Quasimoda jí je líto, je zamilována do Phoeba. Frollo ze žárlivosti zaútočí na Phoeba, Esmeralda se domnívá, že je mrtev. Phoebeus ale přežil. Esmeralda je nespravedlivě obviněna a za pomoci útrpného práva, odsouzena k trestu smrti, za vraždu Phoeba a čarodějnictví, spolu se svou kozou Džali, se kterou prováděla kejklířské kousky. Quasimodo v den popravy Esmeraldu unese do chrámu, kde jí poskytne azyl a přizná se, že ji tajně miluje. Frollo přemlouvá Esmeraldu, aby se stala jeho milenkou, ona však odmítá. Esmeralda je později popravena, Frollo by ji mohl zachránit, ale neudělal to. Když nemohl mít její lásku on, nechtěl, aby milovala kohokoliv jiného, a raději ji nechává zemřít na šibenici. Quasimodo se za popravu mstí, shodí Frolla z věže chrámu, čímž svého vychovatele zabije. Po letech je Quasimodova kostra nalezena v hrobce u Esmeraldy. Quasimodo Esmeraldu velmi miloval, a tak raději dobrovolně zemřel v jejím objetí, než aby žil bez ní.
-
-Quasimodo je typickou romantickou postavou vybudovanou na kontrastech: jeho ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce, svým zevnějškem okolí odpuzuje, lidé ho nenávidí, domnívají se, že je ztělesněním zla. Ve skutečnosti je však schopen těch nejhlubších a nejčistších citů. Obdobně na kontrastech je vybudována postava cikánské tanečnice Esmeraldy, která, ač vyrůstala v prostředí pařížského podsvětí mezi prostitutkami a zloději, si zachovala mravně čistý život.
-
-Po popravě Quasimodo zmizel a po nějaké době byl nalezen v Esmeraldině hrobce, která se nacházela ve sklepení na Mont-Fauconu.
+Hlavní postava Gervaisa přijíždí do Paříže se svým přítelem Lantierem a dvěma syny – Klaudiem a Štěpánem. Z počátku se jim daří velmi dobře, žijí z peněz, které Lantier zdědil po své matce. Peníze ubývají a oni musí rozprodávat své věci, Gervaisa si najde práci v prádelně a stále sní o tom, mít svou vlastní prádelnu. Mezi Lantierem a Gervaisou dochází stále častěji k hádkám a zanedlouho Lantier uteče s jinou. Gervaisa zůstane sama se svými syny a musí je uživit. Seznámí se s klempířem Copeauem, ten se do ní okamžitě zamiluje a chce si jí vzít. Ona po dlouhém přemlouvání souhlasí. Po svatbě se přestěhují do pěkného bytu a narodí se jim dcera Nana. Chtějí splnit Gervaisin sen a pronajmout si krámek na rohu ulice. To ale nevyjde, protože Copeau spadne při práci ze střechy a zraní se. Gervaisa ho odmítá odvést do nemocnice a rozhodne se pro domácí léčení, na které ale utratí veškeré jejich úspory. Copeau se i po roce, kdy už je zcela zdráv, odmítá vrátit do práce a veškerý čas tráví v hospodě. Gervaisin soused, kovář Goujet, který Gervaisu tajně miluje, jí nabídne půjčení peněz na otevření krámku. Nabídku přijímá a hned se pouští do práce. Zanedlouho už celkem slušně vydělává, prádlo k ní nosí skoro celá čtvrť. Tímto splácí Gervaisa dluh sousedům. Na její narozeniny je uspořádaná velká hostina, na kterou přijde i Lantier. Po krátké výměně názorů s Copeauem, je Lantier pozván ke stolu. Zakrátko se ke Copeaovým nastěhuje, nájem neplatí, jen vysedává v drahých restauracích nebo v hospodách a to vše za Gervaisiny peníze. Ta už má tolik dluhů, že nestačí splácet ani ten svůj. Vídá se s mladým Goujetem, protože se u ní učí její mladší syn, ale vždy skončí jen u polibku. Copeau chodí domů věčně opilý a Gervaisa se přesouvá k Lantierovi. Prodá krám a přestěhuje se do malého bytu i s Copeauem. Jejich dcera Nana utíká z domova a je nucena stát se prodejnou ženou. Gervaisa se snaží najít práci, ale nikde jí nechtějí. Je zneužívaná od svého manžela i od bývalého přítele. Cítí se ponížena a propadá alkoholu. Copeau je na chvíli v léčebně, ale po návratu opět propadá pokušení a po druhé se už z léčebny nevrátí. Umírá na delirium tremens – alkoholovou psychózu. Gervaisa se snaží vydělat si na obživu alespoň vlastním tělem, ale nikdo s ní nechce jít. Je tlustá a kulhá na jednu nohu. Nakonec umírá bez přátel i rodiny ve špinavé kobce, ale smrt je pro ni vysvobozením.
 
 ### Téma a motiv
 
 - **téma**
 
-~~Láska ošklivého a společnosti zavrhovaného Quasimoda ke krásné cikánské tanečnici Esmeraldě.~~
-
-Kritika společnosti
+Zobrazení úpadku člověka
 
 - **motiv**
 
-Nenaplněná láska; okraj společnosti; cikáni; zloději; kritika pokrytectví; kritika společnosti; kontrast sociálních vrstev; vyvrženec v prostředí katedrály; střet snu a skutečnosti; lži a přetvářky; opovržení vyčleněnými lidmi; katedrála Notre Dam
+Bída, alkohol, špatné pracovní podmínky, rozdílnost v sociálních vrstvách, alkohol, osud je již člověku předem dán
 
 ### Časoprostor
 
-Paříž, 15. století (1482). Chrám matky boží v Paříži = **Notre Dam**
+Paříž, 2. polovina 19. století (*stejně jako vychází dílo*)
 
 ### Kompoziční výstavba
 
-Chronologický postup s retrospektivními odbočkami do minulosti.
+Chronologický postup.
 
 ### Literární druh a žánr
 
@@ -46,29 +36,16 @@ Epika (= má děj)
 
 - **žánr**
 
-Historický román (= doba v minulosti, kterou sám autor nezažil; román = více dějových linií)
+Naturalistický román
 
 ### Vypravěč / lyrický subjekt
 
-Typické romantické postavy založené na kontrastu - např. Quasimodův ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce atd.
-
 ### Postavy
 
-- **Quasimodo**
-
-Pojmenoval ho jeho nálezce Claudius Frollo, Quasimodo v latině znamená "jaksi, přibližně, jen částečně", Frollo jméno zvolil, proto, že Quasimodo byl jen "přibližně člověkem". Typický romantický hrdina. Znetvořený, ale schopný čisté lásky k Esmeraldě. Osamělý.
-
-- **Esmeralda**
-
-Krásná cikánka, její krása a povaha je v kontrastu s prostředím, kde žije.
-
-- **Frollo**
-
-Kněz, byl velmi inteligentní, už v osmnácti letech se stal doktorem čtyř fakult. V kontrastu s tím se stal spíše záporná postava - Esmeralda mu neopětovala svou lásku, a tak se uchýlil ke zlým činům. Hrubý, žárlivý a mstivý. 
-
-- **Phoebus**
-
-Velitel lučištníků, krásný a bohatý, avšak přelétavý a zasnoubený. S upřímnou láskou Esmeraldy si pouze zahrává.
+- Gervaisa - zpočátku obětí jiných, snaží se dostat ze srabu a je z ní pracovitá žena; trochu naivní, ale přesto odhodlána dosáhnout svého a založit si vlastní prádelnu; postupem času se však mění její priority, a to i díky alkoholu; můžeme u ní sledovat klasický případ stávání se alkoholikem
+- Coupeau - stejně jako Gervaisa je ze začátku pilný a pracovitý, když jí odejde milenec, rád jí pomůže a později k sobě najdou cestu; společně dobře žijí i vycházejí, ale jen dokud Coupeau nemá úraz a nezačne pít alkohol; zahálka mu začíná vyhovovat; finančně i emočně vysává Gervaisu, která nakonec upadne do podobného stavu; umírá v deliriu
+- Lantier - má s Gervaisou dvě děti; přesvědčí ji, aby s ním odešla do Paříže, ale brzy potom ji opouští s jinou ženou; hraje si na velkého a bohatého pána, ve skutečnosti je póvl; po nějakém čase se do příběhu vrací a ubytuje se u Gervaisy v krámku, spřátelí se dokonce s Coupeauem; i on na ní začne parazitovat a přispěje k rozpadu manželství, stane se Gervaisiným milencem
+- Goujet - opravdu pilný a pracovitý; je zamilovaný do Gervaisy a slepě jí půjčuje peníze i přes odpor svojí matky; možná je mírně naivní nebo hloupý; uchovává si svou dobrou a nezkaženou povahu přes všechny nemilosti
 
 ### Vyprávěcí způsoby
 
@@ -84,15 +61,7 @@ Pásmo vypravěče.
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
-XXX
-
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy romány. Dílo bylo mnohokrát zfilmováno.
-
 ### Literální / obecně kulturní kontext
-
-- **Romantismus**
-
-*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Je kladen důraz na kontrast. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román.
