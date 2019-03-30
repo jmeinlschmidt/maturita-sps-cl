@@ -5,10 +5,6 @@
 - Kontrast (v rovině jazykové, ale **především v rovině tématické**)
 - Abychom si uvědomili krásy života a lásky, je potřeba je dát do kontrastu smrti (*= romantismus*)
 - Epická složka je spíše v pozadí, **hlavní je složka lyrická**
-- Vydání díla = doba národního obrození, tj. **setkal se s ostrou kritikou**
-  - není dostatečně vlastenecký
-  - pesimistický
-  - motiv otcovraždy, hlavní hrdina loupežník atd.
 - Vydáno v roce 1836
 
 ## Analýza uměleckého textu
@@ -147,3 +143,7 @@ Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. K
   - 1825 [román] Alexandr Sergejevič Puškin - Evžen Oněgin (Rusko)
     - Evžen Oněgin, znuděný petrohradský dandy, opouští jednotvárný společenský život velkoměsta a stěhuje se na venkov, kde jeho jedinou společností je básník Lenský. Ve venkovském sídle poznává Oněgin ušlechtilou Taťánu, vzbudí v ní lásku, sám ji však neopětuje. Lehkomyslně podnítí žárlivost přítele Lenského a v souboji jej zabije. Otřesen touto tragédií odchází do ciziny, jenomže ani tam nenajde klid. Když se pak po letech vrací, setká se s Taťánou, provdanou za staršího generála. Tentokrát se do ní vášnivě zamiluje, Taťána ho ale odmítne, a Oněgin tak **ztrácí poslední naději, že konečně najde smysl svého bytí**
 - *ačkoliv vyšel v době národního obrození, tak se ale do něj Máj neřadí! těch motivů národního obrození je tam velmi málo*
+  - **setkal se s ostrou kritikou**
+    - není dostatečně vlastenecký
+    - pesimistický
+    - motiv otcovraždy, hlavní hrdina loupežník atd.
