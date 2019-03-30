@@ -86,7 +86,7 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy romány. Dílo bylo mnohokrát zfilmováno.
+- román [1862] Bídníci (*také Ubožáci*)
 
 ### Literální / obecně kulturní kontext
 
