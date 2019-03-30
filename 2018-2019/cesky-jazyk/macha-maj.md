@@ -124,7 +124,7 @@ Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. K
 
 ### Literální / obecně kulturní kontext
 
-- **Romantismus**
+- **romantismus**
   - literární směr a životní postoj (v Evropě i ve světě) [konec 18. stol - 2. pol 19. stol]
     - vznik v období mezi dvěmi revolucemi (ve Francii a v Evropě)
     - naděje na nové společenské uspořádání (volnost, rovnost, bratrství)
@@ -142,8 +142,8 @@ Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. K
   - 1831 [román] Victor Hugo - Chrám matky boží v Paříži
     - Quasimodo (zohyzděný, vyvrhel) - zamilovaný do krasné tanečnice Esmeraldy (cikánka), lásku neopětuje
   - 1845 [balada] Edgar Allan Poe - Havran (USA)
-    - Hlavní hrdina, jeho milá je zesnulá, přepadají ho vzpomínky, utápí se, do pokoje vlétne havran. Hlavní hrdina si myslí, že opustí stejně jako Lenora, havran odpovídá **nevermore** tj. nikdy více. Na každou otázku dostává stejnou odpověď, ví že se jeho milá nikdy nevrátí. Havrana už se nepodaří vyhnat a ten jen sleduje, jak se hlavní hrdina utápi v zoufalství
-    - **Alegorie toho, že havran vlétne do jeho duše (*= pokoje*) a už ji nikdy neopustí**
+    - hlavní hrdina, jeho milá je zesnulá, přepadají ho vzpomínky, utápí se, do pokoje vlétne havran. Hlavní hrdina si myslí, že opustí stejně jako Lenora, havran odpovídá **nevermore** tj. nikdy více. Na každou otázku dostává stejnou odpověď, ví že se jeho milá nikdy nevrátí. Havrana už se nepodaří vyhnat a ten jen sleduje, jak se hlavní hrdina utápi v zoufalství
+    - **alegorie toho, že havran vlétne do jeho duše (*= pokoje*) a už ji nikdy neopustí**
   - 1825 [román] Alexandr Sergejevič Puškin - Evžen Oněgin (Rusko)
     - Evžen Oněgin, znuděný petrohradský dandy, opouští jednotvárný společenský život velkoměsta a stěhuje se na venkov, kde jeho jedinou společností je básník Lenský. Ve venkovském sídle poznává Oněgin ušlechtilou Taťánu, vzbudí v ní lásku, sám ji však neopětuje. Lehkomyslně podnítí žárlivost přítele Lenského a v souboji jej zabije. Otřesen touto tragédií odchází do ciziny, jenomže ani tam nenajde klid. Když se pak po letech vrací, setká se s Taťánou, provdanou za staršího generála. Tentokrát se do ní vášnivě zamiluje, Taťána ho ale odmítne, a Oněgin tak **ztrácí poslední naději, že konečně najde smysl svého bytí**
 - *ačkoliv vyšel v době národního obrození, tak se ale do něj Máj neřadí! těch motivů národního obrození je tam velmi málo*
