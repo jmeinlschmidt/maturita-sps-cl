@@ -108,7 +108,7 @@ er-forma
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-Ovlivnil Májovce (Máj považován za 1. moderní báseň). Bylo zfilmováno. Kritika náboženství a boha, který připustil smrt dvou mladých lidí. Soudobí úmělci jeho dílo zavrhli - projevoval málo vlastenectví.
+Ovlivnil Májovce (= považován za 1. moderní báseň).
 
 - román [1857] Cikáni
   - psal do roku 1835
