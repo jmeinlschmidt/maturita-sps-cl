@@ -1,10 +1,7 @@
 # Karel Hynek Mácha - Máj
 
-- Nejvýznamnější a nejdůslednější básník českého romantismu
+- Nejvýznamnější básník českého romantismu
 - Karel Hynek Mácha [1810 - 1836]
-- Kontrast (v rovině jazykové, ale **především v rovině tématické**)
-- Abychom si uvědomili krásy života a lásky, je potřeba je dát do kontrastu smrti (*= romantismus*)
-- Epická složka je spíše v pozadí, **hlavní je složka lyrická**
 - Vydáno v roce 1836
 
 ## Analýza uměleckého textu
@@ -51,7 +48,7 @@ Po čase přichází poutník, autor se ztotožňuje, zamyšlení nad tragikou l
 
 - **téma**
 
-Láska a smrt (*= v kontrastu*)
+Láska a smrt (*= v kontrastu; abychom si uvědomili krásy života a lásky, je potřeba je dát do kontrastu smrti*)
 
 - **motiv**
 
@@ -73,7 +70,7 @@ Dramatický vzestup, vrchol ve 3. zpěvu, následně sestup (*= jako u dramatu*)
 
 - **druh**
 
-Lyricko-epická báseň
+Lyricko-epická báseň (*epická složka je spíše v pozadí, hlavní je složka lyrická*)
 
 - **žánr**
 
