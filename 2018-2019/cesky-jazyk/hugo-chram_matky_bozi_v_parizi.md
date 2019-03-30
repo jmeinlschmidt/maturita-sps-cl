@@ -38,19 +38,19 @@ Paříž, 15. století (1482). Chrám matky boží v Paříži = **Notre Dam**
 
 Chronologický postup s retrospektivními odbočkami do minulosti.
 
+Typické romantické postavy založené na **kontrastu** (*= např. Quasimodův ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce atd.*)
+
 ### Literární druh a žánr
 
 - **druh**
 
-Epika (= má děj)
+Epika (*= má děj*)
 
 - **žánr**
 
-Historický román (= doba v minulosti, kterou sám autor nezažil; román = více dějových linií)
+Historický román (*= doba v minulosti, kterou sám autor nezažil; román = více dějových linií*)
 
 ### Vypravěč / lyrický subjekt
-
-Typické romantické postavy založené na kontrastu - např. Quasimodův ohyzdný zevnějšek ostře kontrastuje s čistotou jeho srdce atd.
 
 ### Postavy
 
