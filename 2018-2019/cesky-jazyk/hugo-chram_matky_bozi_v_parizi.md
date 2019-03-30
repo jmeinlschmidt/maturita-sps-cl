@@ -90,7 +90,7 @@ Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy r
 
 ### Literální / obecně kulturní kontext
 
-- **Romantismus**
+- **romantismus**
   - literární směr a životní postoj (v Evropě i ve světě) [konec 18. stol - 2. pol 19. stol]
     - vznik v období mezi dvěmi revolucemi (ve Francii a v Evropě)
     - naděje na nové společenské uspořádání (volnost, rovnost, bratrství)
@@ -106,7 +106,7 @@ Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy r
   - jazyk:
     - barvitost, **spisovný**, zvukomalebnost
   - 1836 [poezie] Karel Hynek Mácha - Máj
-    - Láska vs. smrt; oslava přírody; kritika společnosti, vyděděnectví
+    - láska vs. smrt; oslava přírody; kritika společnosti, vyděděnectví
   - 1845 [balada] Edgar Allan Poe - Havran (USA)
     - Hlavní hrdina, jeho milá je zesnulá, přepadají ho vzpomínky, utápí se, do pokoje vlétne havran. Hlavní hrdina si myslí, že opustí stejně jako Lenora, havran odpovídá **nevermore** tj. nikdy více. Na každou otázku dostává stejnou odpověď, ví že se jeho milá nikdy nevrátí. Havrana už se nepodaří vyhnat a ten jen sleduje, jak se hlavní hrdina utápi v zoufalství
     - **Alegorie toho, že havran vlétne do jeho duše (*= pokoje*) a už ji nikdy neopustí**
