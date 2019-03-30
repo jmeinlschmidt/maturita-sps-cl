@@ -94,5 +94,20 @@ Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy r
 ### Literální / obecně kulturní kontext
 
 - **Romantismus**
+  - literární směr a životní postoj (v Evropě i ve světě) [konec 18. stol - 2. pol 19. stol]
+    - vznik v období mezi dvěmi revolucemi (ve Francii a v Evropě)
+    - naděje na nové společenské uspořádání (volnost, rovnost, bratrství)
+    - zcela nesplněny = revoluční zvraty, napoleonské války
+    - to vedlo k nespokojenosti a buřičství
+  - znaky:
+    - důraz na **city** a **fantazii** (*oproti osvicenství a klasicismu, kde je důraz na rozum*)
+    - indvidualismus = **pocit odcizení**
+    - východisko = **obdiv minulosti, mystična, příroda, únik do vlastního nitra**
+    - ústřední hrdina = splýva s autorem, je vyjímečný; neschopnost a nezájem zařadit se do společnosti
+    - romantický hrdina = okraj společnosti, loupežník, vrah, cikán
+    - častá témata = nenaplněná láska
+  - jazyk:
+    - barvitost, **spisovný**, zvukomalebnost
+  
 
 *19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Je kladen důraz na kontrast. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román.
