@@ -1,8 +1,5 @@
 # Victor Hugo - Chrám matky boží v Paříži
 
-- Hugo vychováván v rodině plné kontrastů, což se projevilo do jeho tvorby
-- **Romantismus** = kontrast (ošklivý hlavní hrdina, okraj společnosti atd.), nešťastná láska, konec tragická smrt
-- Kontrast ošklivého Quasimoda a nádherné Esmeraldy; kontrast Quasimodova vzhledu a jeho čistým srdcem
 - Victor Hugo [1802 - 1885]
 - Vydáno v roce 1831
 
@@ -108,6 +105,10 @@ Spolu s románem *Bídníci* patří toto dílo mezi nejvýznamnější Hugovy r
     - častá témata = nenaplněná láska
   - jazyk:
     - barvitost, **spisovný**, zvukomalebnost
-  
-
-*19 století.* Staví na Fantazii a citech. Autoři zdůrazňují touhu po svobodě. Nemá nic společného s romantikou. Romantický hrdina je výjimečný, často společenský vyděděnec. V knihách často postavy loupežníků, katů, vrahů a cikánů. Hlavním motivem je láska, která je komplikovaná, nešťastná či špatně načasovaná. Ústřední hrdina často splývá s autorem – autobiografické rysy. Je kladen důraz na kontrast. Vznikají nové žánry: poema – veršová povídka, nebo román ve verších či historický román.
+  - 1836 [poezie] Karel Hynek Mácha - Máj
+    - Láska vs. smrt; oslava přírody; kritika společnosti, vyděděnectví
+  - 1845 [balada] Edgar Allan Poe - Havran (USA)
+    - Hlavní hrdina, jeho milá je zesnulá, přepadají ho vzpomínky, utápí se, do pokoje vlétne havran. Hlavní hrdina si myslí, že opustí stejně jako Lenora, havran odpovídá **nevermore** tj. nikdy více. Na každou otázku dostává stejnou odpověď, ví že se jeho milá nikdy nevrátí. Havrana už se nepodaří vyhnat a ten jen sleduje, jak se hlavní hrdina utápi v zoufalství
+    - **Alegorie toho, že havran vlétne do jeho duše (*= pokoje*) a už ji nikdy neopustí**
+  - 1825 [román] Alexandr Sergejevič Puškin - Evžen Oněgin (Rusko)
+    - Evžen Oněgin, znuděný petrohradský dandy, opouští jednotvárný společenský život velkoměsta a stěhuje se na venkov, kde jeho jedinou společností je básník Lenský. Ve venkovském sídle poznává Oněgin ušlechtilou Taťánu, vzbudí v ní lásku, sám ji však neopětuje. Lehkomyslně podnítí žárlivost přítele Lenského a v souboji jej zabije. Otřesen touto tragédií odchází do ciziny, jenomže ani tam nenajde klid. Když se pak po letech vrací, setká se s Taťánou, provdanou za staršího generála. Tentokrát se do ní vášnivě zamiluje, Taťána ho ale odmítne, a Oněgin tak **ztrácí poslední naději, že konečně najde smysl svého bytí**
