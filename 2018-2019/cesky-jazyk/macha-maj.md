@@ -77,11 +77,11 @@ Dramatický vzestup, vrchol ve 3. zpěvu, následně sestup (*= jako u dramatu*)
 
 - **druh**
 
-Poezie
+Lyricko-epická báseň
 
 - **žánr**
 
-Lyricko-epická báseň
+Poezie
 
 ### Lyrický subjekt
 
