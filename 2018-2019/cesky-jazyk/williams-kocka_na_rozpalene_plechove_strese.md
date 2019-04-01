@@ -130,7 +130,24 @@ Typy promluv u dramatu - dialog, monolog, replika, scénická poznámka (= navoz
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
-XXX
+```
+BRICK (u barové skříňky): Tak Mae s Gooperem poslouchají, co? 
+TAŤKA: No. Poslouchaj a choděj mamce zvěstovat, co se tady mezi tebou a Maggií vodehrává. Říkaj, že – (jakoby v rozpacích se zarazí) – že s ní nechceš spát, že spíš na kanapi. Je to pravda, nebo není? Jestli Magii nemáš rád, tak se jí zbav! – Copak to tam děláš? 
+BRICK: Dolejvám si skleničku! 
+TAŤKA: Jestlipak sis uvědomil, synu, že se už z tebe stal regulérní alkoholik? 
+BRICK: Tak jest. 
+TAŤKA: A protos přestal dělat toho sportovního reportéra, - že se z tebe stal alkoholik? 
+BRICK: Tak jest, pravděpodobně proto. (Neurčitě, ale přívětivě se na otce přes svou znova naplněnou sklenici usměje)
+TAŤKA: Bricku, život, to je důležitá věc. …Posaď se semhle, abychom nemuseli zvyšovat hlas, tady maj stěny uši.
+BRICK: (se dobelhá k pohovce a sedne si vedle otce) Už jsem tady.
+TAŤKA: (po pauze pokračuje zastřeným hlasem) A poslouchej, co ti říkám, a nedívej se porád na ten zatracenej lustr – Tak tys toho nechal! – Ňáký zklamání?
+BRICK: Nevím.
+```
+
+- dialog doplněný scénickými poznámkami (*v závorkách*)
+- `BRICK (u barové skříňky): Tak Mae s Gooperem poslouchají, co?` řečnická otázka
+- `TAŤKA: No. Poslouchaj a choděj mamce zvěstovat, co se tady mezi tebou a Maggií` *poslouchaj, choděj, mamce* = hovorová čeština (spadá do spisovné češtiny)
+- vodehrává. Říkaj, že – (jakoby v rozpacích se zarazí) –
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
