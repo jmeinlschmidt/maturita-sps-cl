@@ -103,7 +103,34 @@ er-forma
 
 ### Veršovaná výstavba
 
-### Jazykové prostředky a jejich funkce ve výňatku
+### Tropy a figury a jejich funkce ve výňatku
+
+Ukázka:
+
+```
+Byl pozdní večer - první máj - 
+večerní máj - byl lásky čas. 
+Hrdliččin zval ku lásce hlas, 
+kde borový zaváněl háj. 
+O lásce šeptal tichý mech; 
+květoucí strom lhal lásky žel, 
+svou lásku slavík růži pěl, 
+růžinu jevil vonný vzdech. 
+Jezero hladké v křovích stinných 
+zvučelo temně tajný bol, 
+břeh objímal je kol a kol; 
+a slunce jasná světů jiných 
+bloudila blankytnými pásky, 
+planoucí tam co slzy lásky.
+```
+
+Rozbor:
+
+- `Hrdliččin zval ku lásce hlas,` inverzní slovosled, personifikace
+- `kde borový zaváněl háj` inverzní slovosled
+- `O lásce šeptal tichý mech` personifikace
+- `květoucí strom lhal lásky žel` eufonie (*= umělecké uspořádání hlásek a jejich opakování, libozvučnost*)
+- `svou lásku slavík růži pěl` eufonie (*= umělecké uspořádání hlásek a jejich opakování, libozvučnost*)
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
