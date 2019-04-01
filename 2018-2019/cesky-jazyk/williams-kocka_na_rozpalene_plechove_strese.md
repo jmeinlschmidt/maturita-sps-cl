@@ -1,7 +1,6 @@
 # Tennesse Williams - Kočka na rozpálené plechové střeše
 
 - Tennesse Williams [1911 - 1983]
-- Další autorovo známé dílo Tramvaj do stanice Touha [1947]
 - Vydáno v roce 1955
 - **Dílo získalo Pulitzerovu cenu za nejlepší drama**
 
@@ -146,10 +145,13 @@ BRICK: Nevím.
 
 - dialog doplněný scénickými poznámkami (*v závorkách*)
 - `BRICK (u barové skříňky): Tak Mae s Gooperem poslouchají, co?` řečnická otázka
-- `TAŤKA: No. Poslouchaj a choděj mamce zvěstovat, co se tady mezi tebou a Maggií` *poslouchaj, choděj, mamce* = hovorová čeština (spadá do spisovné češtiny)
-- vodehrává. Říkaj, že – (jakoby v rozpacích se zarazí) –
+- `TAŤKA: No. Poslouchaj a choděj mamce zvěstovat, co se tady mezi tebou a Maggií vodehrává. Říkaj, že – (jakoby v rozpacích se zarazí) – že s ní nechceš spát, že spíš na kanapi. Je to pravda, nebo není? Jestli Magii nemáš rád, tak se jí zbav! – Copak to tam děláš?` *poslouchaj, choděj, mamce, vodehrává* = hovorová čeština (spadá do spisovné češtiny), *že s ní nechceš spát, tak se jí zbav* - metonymie, *tak se jí zbav!* = expresivní výraz (*vykřičník*)
+- `BRICK: Dolejvám si skleničku!` - *dolejvám* = hovorová čeština (spadá do spisovné češtiny)
+- `TAŤKA: Jestlipak sis uvědomil, synu, že se už z tebe stal regulérní alkoholik?`
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
+
+- drama [1947] Tramvaj do stanice Touha
 
 ### Literální / obecně kulturní kontext
