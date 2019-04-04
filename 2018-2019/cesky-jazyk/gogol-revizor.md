@@ -87,6 +87,8 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
+- román [1842] Mrtvé duše
+
 ### Literální / obecně kulturní kontext
 - **realismus**
   - literární směr a životní postoj (v Evropě i ve světě) [2. pol 19. stol]
