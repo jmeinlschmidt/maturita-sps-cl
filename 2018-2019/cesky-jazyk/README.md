@@ -16,7 +16,7 @@ Světová a česká literatura do konce 18. století
 Světová a česká literatura 19. století
 
 3. **[doplnit ukázku]** [Hugo: Chrám matky boží v Paříži (překl. Milena Tomášová)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/hugo-chram_matky_bozi_v_parizi.md)
-4. **[doplnit ukázku/kontext]** [Zola: Zabiják (překl. Luděk Kárl)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/zola-zabijak.md)
+4. **[doplnit ukázku]** [Zola: Zabiják (překl. Luděk Kárl)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/zola-zabijak.md)
 5. **[doplnit ukázku]** [Mácha: Máj](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/macha-maj.md)
 
 Literatura 20. a 21. století
@@ -39,7 +39,7 @@ Světová literatura (minimálně 4 literární díla)
 Další tituly podle své volby
 
 15. **[doplnit ukázku/kontext]** [Borovský Havlíček: Král Lávra](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-havlicek-borovsky_kral-lavra.md)
-16. **[doplnit ukázku/kontext]** [Gogol: Revizor (prekl. Bohumil Mathesius)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/gogol-revizor.md)
+16. **[doplnit ukázku]** [Gogol: Revizor (prekl. Bohumil Mathesius)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/gogol-revizor.md)
 17. **[doplnit ukázku/kontext]** [Wolker: Host do domu](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/wolker-host_do_domu.md)
 18. **[nevypracováno, ale vyzkoušen]** Viewegh: Báječná léta pod psa
 19. **[doplnit ukázku]** [Neruda: Balady a romance](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-balady_a_romance.md)
