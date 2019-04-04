@@ -88,3 +88,22 @@ XXX
 ### Kontext autorovy tvorby
 
 ### Literální / obecně kulturní kontext
+- **realismus**
+  - literární směr a životní postoj (v Evropě i ve světě) [2. pol 19. stol]
+    - prakticky opak romantismu
+    - popisuje realitu, vliv rozvoje přírodních věd, techniky
+    - literatura je zde vědecká analýza společnosti
+  - znaky:
+    - pravdivý obraz skutečnosti (společnost, nitro člověka)
+    - typizace = **na jednotlivci je zobrazeno obecné** (opak individualismu)
+    - objektivní (autor se zpravidla neúčastní děje, svůj názor uplatňuje výběrem faktů a témat)
+    - kritika nedostatků ve společnosti
+  - jazyk:
+    - poprvé se objevuje **hovorová řeč!**
+  - 1835 [encyklopedický román] Honóre de Balzac - Otec Goriot (Francie)
+  - 1835 [román] Honóre de Balzac - Paní Bovaryová (Francie)
+  - 1839 [román] Charles Dickens - Oliver Twist (Anglie)
+  - 1876 [naturalistický román] Emil Zola - Zabiják (Francie)
+  - xx [xx] Anton Pavlovič Čechov - Tři sestry (Rusko)
+  - xx [xx] Fjodor Michajlovič Dostojevskij - Zločin a trest (Rusko)
+  - xx [xx] Lev Nikolajevič Tolstoj - Vojna a mír (Rusko)
