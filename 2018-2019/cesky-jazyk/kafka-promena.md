@@ -8,8 +8,8 @@
 - Ačkoliv byl hlavní hrdina velmi blízkou osobou (syn, bratr, prakticky hlava rodiny), rodina z něj prakticky okamžitě udělala nepotřebnou věc (havěť)
 - *Vydáno v roce 1915*
 - Stěžejní autor moderní literatury
-- Kafka nepsal pro čtenáře ale pro sebe, podle závěti měly jeho díla být spáleny
-- Spojitost mezi Kafkou a jeho díly
+- Kafka nepsal pro čtenáře ale pro sebe, podle závěti měla jeho díla být spálena
+- Spojitost mezi Kafkou a jeho díly (= prvky autobiografie)
 - Křehká psychika, absurdní témata (přeměna člověka v brouka) postavená na reálných faktech
 - Kafka byl součástí menšiny, která byla součásti měnšiny (něměcký žid v Praze; možná proto to odloučení a nepochopení)
 - Pohled hrdiny je je osamělý, odcizený od ostatních, nedokáže se dorozumět (brouk), vzbuzuje chlad, pocit viny
