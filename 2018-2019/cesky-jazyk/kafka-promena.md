@@ -108,6 +108,14 @@ Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesi
 ### Literální / obecně kulturní kontext
 
 - **světová próza, 1. polovina 20. století**
-  - tématicky i žánrově velmi pestrá
-  - řadu podnětů z přírodních a společenských věd
-  - v popředí problematika válečné doby. Uplatňovány umělecké směry – realismus (dějová linie v logické časové posloupnosti zaměřena na psychiku), naturalismus (nezkreslená realita), experimentální próza (bourá dějovou linii, prolíná se mnoha časovými a významovými rovinami, složitá symbolika, experiment s jazykem).
+  - rozvoj techniky a civilizace
+  - **Proměna vyšla v Němčině, proto to je světová literatura, ne česká!**
+  - první světová válka, krize ve 30. letech, druhá světová válka
+  - v popředí problematika válečné doby
+  - mnoho uměleckých směrů
+    - vitalismus (J. Wolker, K. Čapek) - *reakce na válku, vyjádřeni radosti z nejprostších maličkostí, jednoduchost, radost z existence, oslava života*
+    - kubofuturismus (Guillaume Apollinaire) - *polytematičnost, spontánní proud představ, **kaligramy***
+    - poetismus (V. Nezval, J. Seifer, V. Vančura) - ***výlučně český avantgardní směr, Devětsil**, volné řetězení představ, **odstraněna interpunkce!**, úsilí poznat krásy světa*
+    - surrealismus (V. Nezval) - *vliv Freudovy psychoanalýzy, využití obraznosti, frantazie, volný tok obrazoů bez rozumové kontroly a zábran*
+    - existencialismus (F. Kafka) - *výklad člověka jako osamoceného a odcizeného jedince, zoufalství, beznaděj, život chápán jako směřování ke smrti*
+    - proletářská literatura a socialistický realismus (J. Wolker) - *sny o spravedlivější společnosti, marxistické směry, kolektivismus*
