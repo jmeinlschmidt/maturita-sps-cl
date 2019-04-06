@@ -105,4 +105,10 @@ XXX
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
+- Poutník – Mágův deník
+- Veronika se rozhodla zemřít
+
 ### Literální / obecně kulturní kontext
+- **magický realismus**
+  - Gabriel García Márguez [1927 – 2014] - *nejvýraznější představitel magického realismu*
+  - novela Kronika ohlášené smrti, román Sto roků samoty
