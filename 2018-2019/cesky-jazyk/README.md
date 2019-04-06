@@ -25,7 +25,7 @@ Světová literatura (minimálně 4 literární díla)
 
 6. **[doplnit ukázku]** [Kafka: Proměna](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/kafka-promena.md)
 7. **[doplnit ukázku]** [Remarque: Na západní frontě klid (překl. Ivana Parkmanová)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/remarque-na_zapadni_fronte_klid.md)
-8. **[doplnit ukázku/kontext]** [Coelho: Alchymista (překl. Pavla Lidmilová)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/coelho-alchymista.md)
+8. **[doplnit ukázku]** [Coelho: Alchymista (překl. Pavla Lidmilová)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/coelho-alchymista.md)
 9. **[doplnit ukázku/kontext]** [Williams: Kočka na rozpálené plechové střeše (překl. Rudolf Pellar)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/williams-kocka_na_rozpalene_plechove_strese.md)
 
 Česká literatura (minimálně 5 literárních děl)
