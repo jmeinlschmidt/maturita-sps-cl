@@ -101,9 +101,10 @@ XXX
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
-- **Obecné rysy Kafkových děl**
-
-Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesimismus. Záhadné, neznáme postavy (nemají jméno atd.). O hlavních postavách nevíme téměř nic (neznáme jejich minulost, vzhled, rodinné zázemí). Prvky v knize - odcizení člověka od rodiny, nereálnost.
+- **obecné rysy Kafkových děl**
+  - absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesimismus. Záhadné, neznáme postavy (nemají jméno atd.). O hlavních postavách nevíme téměř nic (neznáme jejich minulost, vzhled, rodinné zázemí). Prvky v knize - odcizení člověka od rodiny, nereálnost
+- vrcholná díla nedokončená, autor povídek, deníkových záznamů, existenciální filozofie
+- 1925 [román] Proces
 
 ### Literální / obecně kulturní kontext
 
@@ -119,3 +120,9 @@ Absurdní, nereálný svět (líčen velmi detailně). Odcizení člověka. Pesi
     - surrealismus (V. Nezval) - *vliv Freudovy psychoanalýzy, využití obraznosti, frantazie, volný tok obrazoů bez rozumové kontroly a zábran*
     - existencialismus (F. Kafka) - *výklad člověka jako osamoceného a odcizeného jedince, zoufalství, beznaděj, život chápán jako směřování ke smrti*
     - proletářská literatura a socialistický realismus (J. Wolker) - *sny o spravedlivější společnosti, marxistické směry, kolektivismus*
+  - meziválečná literatura
+    - 1928 [protiválečný román] Remarque - Na západní frontě klid (Německo)
+- **existencialismus**
+  - výklad člověka jako osamoceného a odcizeného jedince,
+  - zoufalství, beznaděj, život chápán jako směřování ke smrti
+  - Franz Kafka
