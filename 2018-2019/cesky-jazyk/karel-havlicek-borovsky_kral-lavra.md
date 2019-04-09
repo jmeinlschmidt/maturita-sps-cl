@@ -74,13 +74,24 @@ Volný rým (bez schématu).
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
-XXX
-
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-XXX
+Karel Havlíček Borovský [1821 – 1856], klasik české politické satiry. Po revoluc 1848 - proti vídeňské vládě. Pronásledován, souzen 1851 policejně odvezen do Tyrol (Brixen), kde vznikly jeho satiry.
+
+- 1861 [satira] Tyrolské elegie
+    - výrazný autobiografie, jeho zatčení, obraz osobní i národnostní tragédie
 
 ### Literální / obecně kulturní kontext
-
-XXX
+- **národní obrození**
+    - 70. léta 18. století - 50. léta 19. stol
+    - velké společenské hnutí
+    - vzkříšení národa (proto *buditelé* nebo *vzkřísitelé*)
+    - větší míra psychologické analýzy, větší zaměření na vztah človeka k době
+    - Josef Jungmann [1773 - 1847]
+    - František Ladislav Čelakovský [1799 - 1852]
+    - Josef Kajetán Tyl [1808 - 1856] (*1847 Strakonický dudák*)
+        - české lidové postavy, příběh lásky Švandy a Dotorotky
+    - Karel Jaromír Erben [1811 - 1870] (*1853 Kytice*)
+        - sbírka klasických balad
+        - boj člověka s přírodou, nadpřirozenými silami - bezmocnost
