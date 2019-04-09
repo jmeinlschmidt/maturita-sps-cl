@@ -38,7 +38,7 @@ Světová literatura (minimálně 4 literární díla)
 
 Další tituly podle své volby
 
-15. **[doplnit ukázku/kontext]** [Borovský Havlíček: Král Lávra](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-havlicek-borovsky_kral-lavra.md)
+15. **[doplnit ukázku]** [Borovský Havlíček: Král Lávra](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-havlicek-borovsky_kral-lavra.md)
 16. **[doplnit ukázku]** [Gogol: Revizor (prekl. Bohumil Mathesius)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/gogol-revizor.md)
 17. **[doplnit ukázku/kontext]** [Wolker: Host do domu](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/wolker-host_do_domu.md)
 18. **[nevypracováno, ale vyzkoušen]** Viewegh: Báječná léta pod psa
