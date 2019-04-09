@@ -69,13 +69,21 @@ Volný rým (bez schématu).
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
-XXX
-
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-XXX
+Představitel proletářské poezie.
+
+- 1922 [poezie] Těžký hodina
+    - proletářská poezie, sociální tématika
+    - svědectví o změně, chlapecké srdce je pohřbíváno a mění se v srdce muže
 
 ### Literální / obecně kulturní kontext
 
-XXX
+- **česká literatura 1. pol. 20. stol**
+    - Jaroslav Seifert [1901 - 1986] (*1925 Na vlnách TSF*)
+        - poetismus
+    - Vítězslav Nezval [1900 - 1958] (*1928 Edison*)
+        - poetismus
+
+Guillaume Apollinaire
