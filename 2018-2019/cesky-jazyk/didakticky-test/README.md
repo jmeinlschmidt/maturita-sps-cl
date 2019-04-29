@@ -247,6 +247,11 @@ jsou ty kraje vodní (K. J. Eerben)
 Sníh žije, když taje (V. Závada)
 ```
 
+- zeugma - spojení dvou členů stejnou vazbou, i když každý z nich má mít jinou vazbu: `před i po obědě. (Před obědem i po obědě.)`
+- kontaminace - smíšení dvou různých větných staveb: `cenit si odměny (smíšení vazeb cenit si odměnu a vážit si odměny)`.
+- atrakce - splynutí vazeb v některých ustálených spojeních: `ber, kde ber (místo ber, kde bereš)`
+- vsuvka - připojení doplňující informace do věty. Vsuvka se odděluje čárkami a může být z věty vypuštěna, aniž by věta ztratila původní smysl: `To je, jak známo, nemožné.`
+
 ### Figury
 
 Syntaktické konstrukce vznikající pravidelným seskupováním slov nebo
