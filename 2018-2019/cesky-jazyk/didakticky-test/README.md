@@ -246,3 +246,58 @@ jsou ty kraje vodní (K. J. Eerben)
 ```
 Sníh žije, když taje (V. Závada)
 ```
+
+### Figury
+
+Syntaktické konstrukce vznikající pravidelným seskupováním slov nebo
+opakováním některého slova na určitém, vždy stejném místě ve větě nebo verši
+
+- opakování slova - ve větě nebo v dalším textu, ne však těsně za sebou
+
+```
+A na břehu **tiché** vody není žádné zábradlí, nýbrž **tiché** a veliké stromy a **tichá** průčelí
+domů s jasnými okny; a to všechno se tiše zrcadlí v té vodě. (Karel Čapek)
+```
+
+- epizeuxis - opakování slova v jedné větě těsně po sobě
+
+```
+Tam **žádný - žádný - žádný** cíl
+- bez konce dál - bez konce jen
+se na mne věčnost dívá.
+(Karel Hynek Mácha)
+```
+
+- anafora - opakování jednoho nebo několika slov na začátku dvou nebo několika po sobě
+jdoucích veršů nebo vět
+
+```
+… **krev** teče mi z čela, **krev** teče mi z očí,
+**krev** utíká z šíje, **krev** ubíhá z prsou...
+(Petr Bezruč) 
+```
+
+- epifora - opakování jednoho nebo několika slov na konci dvou nebo několika po sobě jdoucích
+veršů nebo vět
+
+```
+Jaký je to divný kraj,
+milý bože, divný kraj!
+(František Ladislav Čelakovský)
+```
+
+- epanastrofa - opakování téhož slova na konci jednoho a na začátku následujícího verše nebo věty
+
+```
+… a nazván Volžanín, po vychování,
+po vychování u matky Volhy.
+(František Ladislav Čelakovský)
+```
+
+- aliterace - náslovný rým, opakování stejné hlásky nebo skupin hlásek na začátku sousedních slov
+
+```
+**Potkal potkan potkana**
+**pod** kamenem, **pod** kamenem
+**po**čkat pane **po**tkane…(J. Suchý)
+```
