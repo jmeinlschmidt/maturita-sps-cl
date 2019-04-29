@@ -188,3 +188,61 @@ kříž – křesťanství
 
 ### Odchylky od pravidelné větné skladby
 
+- anakolut - vyšinutí z vazby, změna větného schématu
+
+```
+Já, já toho věštec od Beskydu lidu,
+Bůh mne jim nedal. Ten té dbá země,
+kde zlaté obilí k obzoru běží,…
+(Petr Bezruč)
+```
+
+- elipsa - vypuštění podstatného větného členu /např. holého přísudku/ ve větě, věta neúplná
+
+```
+My o vlku a vlk za humny. /místo: My mluvíme o vlku a vlk je za humny./
+```
+
+- apoziopeze - neukončená výpověď, zpravidla graficky označovaná třemi tečkami
+
+```
+Tak se mi jeví svět v tu chvíli,
+sedm let po Hirošimě,
+v tu hypnotickou **chvíli…**
+(František Hrubín) 
+```
+
+- osamostatňování větných členů - větný člen stojí mimo větu, přestože patří vlastně do jejího schématu
+
+```
+Ale kdybyste se mě zeptali, co se mi v Holandsku líbilo nejvíc, tedy vyhrknu bez
+dlouhého přemýšlení, že lidské příbytky. **A krávy. A květiny.**
+(Karel Čapek) 
+```
+
+- inverze (inverzní slovosled) - změna pořádku slov
+- apostrofa - oslovení
+
+```
+Čechy krásné, Čechy mé
+```
+
+- pleonasmus - nadbytečné hromadění slov
+
+```
+Po **modrém blankytu** bělavé páry hynou (K. H. Mácha)
+```
+
+- tautologie - sdělení téhož dvěma a více způsoby
+
+```
+**Nevesely, truchlivy**
+
+jsou ty kraje vodní (K. J. Eerben)
+```
+
+- paradox - zdánlivě protismyslné tvrzení, které odporuje vžité představě
+
+```
+Sníh žije, když taje (V. Závada)
+```
