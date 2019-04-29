@@ -188,7 +188,7 @@ kříž – křesťanství
 
 ### Odchylky od pravidelné větné skladby
 
-- anakolut - vyšinutí z vazby, změna větného schématu
+- anakolut - opuštění větné stavby v průběhu výpovědi
 
 ```
 Já, já toho věštec od Beskydu lidu,
