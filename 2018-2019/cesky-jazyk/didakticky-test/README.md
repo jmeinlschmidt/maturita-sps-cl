@@ -15,11 +15,9 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 3. **onomatopoie** - zvukomalba – hromadění podobných hlásek, která navozují zvuky - například:
     - s, š – **š**umění;
     - r, ř – **ř**inčení – **ř**inčí h**ř**mot **ř**etězů (K. H. Mácha);
-    - použití citoslovcí – buch, buch
-4. **zvukosled** – opakování hlásek nebo skupin hlásek
-    - spí myrty s mírnými lístky i mírnými stíny (K. Biebl)
-5. **paronomázie** – hromadění slov odvozených od stejného kmene
-    - slavme slavně slávu Slávů slavných (Kollár)
+    - použití citoslovcí – `buch, buch`
+4. **zvukosled** – opakování hlásek nebo skupin hlásek `spí myrty s mírnými lístky i mírnými stíny (K. Biebl)`
+5. **paronomázie** – hromadění slov odvozených od stejného kmene - `slavme slavně slávu Slávů slavných (Kollár)`
     
 ### Spisovné prostředky
 
@@ -40,32 +38,19 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 
 ### Slova stylově zabarvená
 
-- augmentativa – zveličují, zesilují význam slova
-    - psisko, zoban
-- deminutiva – zdrobněliny
-    - pejsánek, nosánek
-- pejorativa – hanlivá slova
-    - dědek, babizna
-- familiaria – důvěrná rodinná slova
-    - bábinka, mamča
-- hypokoristika – mazlivá slova
-    - zlatíčko, hamat
-- slang – profesionální a zájmová mluva
-    - kanár, plnej počet
-- argot – mluva deklasovaných vrstev společnosti
-    - fízl, udělat káču
-- dialektizmy – nářeční slova
-    - šufánek, roba, gazda
-- vulgarismy - hrubá slova
-    - blbec, hajzl
-- neologismy – nová slova
-    - smuténka, kráčivec
-- archaismy – zastaralá slova
-    - týn, hvozd
-- historismy – pojmenování zaniklo skutečnosti
-    - dráb, sudlice
-- poetismy – básnická slova
-    - vesna, luna
+- augmentativa – zveličují, zesilují význam slova `psisko, zoban`
+- deminutiva – zdrobněliny `pejsánek, nosánek`
+- pejorativa – hanlivá slova `dědek, babizna`
+- familiaria – důvěrná rodinná slova `bábinka, mamča`
+- hypokoristika – mazlivá slova `zlatíčko, hamat`
+- slang – profesionální a zájmová mluva `kanár, plnej počet`
+- argot – mluva deklasovaných vrstev společnosti `fízl, udělat káču`
+- dialektizmy – nářeční slova `šufánek, roba, gazda`
+- vulgarismy - hrubá slova `blbec, hajzl`
+- neologismy – nová slova `smuténka, kráčivec`
+- archaismy – zastaralá slova `týn, hvozd`
+- historismy – pojmenování zaniklo skutečnosti `dráb, sudlice`
+- poetismy – básnická slova `vesna, luna`
 - umělci tvoří velmi často tzv. obrazná pojmenování /tropy/ - vytvářejí neočekávaná  spojení slov, přenášejí význam apod.
 
 ### Tropy - obrazná (nepřímá) pojmenování
