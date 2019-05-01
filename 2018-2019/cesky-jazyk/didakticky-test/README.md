@@ -38,24 +38,24 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 
 ### Slova stylově zabarvená
 
-- augmentativa – zveličují, zesilují význam slova `psisko, zoban`
-- deminutiva – zdrobněliny `pejsánek, nosánek`
-- pejorativa – hanlivá slova `dědek, babizna`
-- familiaria – důvěrná rodinná slova `bábinka, mamča`
-- hypokoristika – mazlivá slova `zlatíčko, hamat`
-- slang – profesionální a zájmová mluva `kanár, plnej počet`
-- argot – mluva deklasovaných vrstev společnosti `fízl, udělat káču`
-- dialektizmy – nářeční slova `šufánek, roba, gazda`
-- vulgarismy - hrubá slova `blbec, hajzl`
-- neologismy – nová slova `smuténka, kráčivec`
-- archaismy – zastaralá slova `týn, hvozd`
-- historismy – pojmenování zaniklo skutečnosti `dráb, sudlice`
-- poetismy – básnická slova `vesna, luna`
+- **augmentativa** – zveličují, zesilují význam slova `psisko, zoban`
+- **deminutiva** – zdrobněliny `pejsánek, nosánek`
+- **pejorativa** – hanlivá slova `dědek, babizna`
+- **familiaria** – důvěrná rodinná slova `bábinka, mamča`
+- **hypokoristika** – mazlivá slova `zlatíčko, hamat`
+- **slang** – profesionální a zájmová mluva `kanár, plnej počet`
+- **argot** – mluva deklasovaných vrstev společnosti `fízl, udělat káču`
+- **dialektizmy** – nářeční slova `šufánek, roba, gazda`
+- **vulgarismy** - hrubá slova `blbec, hajzl`
+- **neologismy** – nová slova `smuténka, kráčivec`
+- **archaismy** – zastaralá slova `týn, hvozd`
+- **historismy** – pojmenování zaniklo skutečnosti `dráb, sudlice`
+- **poetismy** – básnická slova `vesna, luna`
 - umělci tvoří velmi často tzv. obrazná pojmenování /tropy/ - vytvářejí neočekávaná  spojení slov, přenášejí význam apod.
 
 ### Tropy - obrazná (nepřímá) pojmenování
 
-- antiteze - přirovnání protikladem
+- **antiteze** - přirovnání protikladem
     - první část obsahuje obraz (1), ten je ve druhé části popřen (2) a ve třetí je vyjádřen
 základní přirovnávaný jev (3)
 
@@ -71,7 +71,7 @@ proto se tak svítí,
 že je upřímná. (3)
 ```
 
-- metafora - přirovnání na základě podobnosti
+- **metafora** - přirovnání na základě podobnosti
   - přímý význam slova pro obraz jevu `perly – klenoty`
   - na základě vnější podobnosti i přenesený význam slova `perly rosy-kapky rosy, kapka je podobná perle`
   - metafora může být vyjádřena různými způsoby - od nejjednoduššího způsobu přívlastkového např. stříbrný vítr, až po složité větné a veršové konstrukce:
@@ -86,7 +86,7 @@ Okno je skleněná loď
 připoutaná k břehům mé světnice. (J. Wolker)
 ```
 
-- personifikace - je prostředek, jímž se pojmenování vlastností nebo činů živých bytostí přenáší na předměty neživé
+- **personifikace** - je prostředek, jímž se pojmenování vlastností nebo činů živých bytostí přenáší na předměty neživé
 
 ```
 Na zemi se v liliovém dolu hrbily zapadané střechy chalup. (Karel Václav Rais)
@@ -94,7 +94,7 @@ Na zemi se v liliovém dolu hrbily zapadané střechy chalup. (Karel Václav Rai
 ticho, do něhož mrkalo jen několik osvětlených okének… (Karel Václav Rais)
 ```
 
-- metonymie -  jedná se o přenesení významu na základě věcné souvislosti
+- **metonymie** -  jedná se o přenesení významu na základě věcné souvislosti
     
 ```
 město /sídelní forma/ … a město čeká, úzkost ve zdech svých… (Jaroslav Seifert) -
@@ -108,14 +108,14 @@ Je psáno jeho rukou
 Hrad reagoval okamžitě
 ```
 
-- synekdocha
+- **synekdocha**
     - nahrazení části za celek
     
 ```
 „Tak už jsem tady,“ řekly veverčí zuby. (Karel Čapek) /místo …řekl pán s veverčími zuby/
 ```
 
-- perifráze - je opis, kterým se vystihuje určitý jev nebo děj pomocí typických znaků
+- **perifráze** - je opis, kterým se vystihuje určitý jev nebo děj pomocí typických znaků
 
 ```
 „Nenadála jsem se, že se tak brzy u vás budou péci **svatební koláče**.“ (Vojtěch
@@ -125,13 +125,13 @@ Za trochu lásky šel bych **světa kraj**, jak ten, kdo zpívá u dveří a pro
 Vrchlický)
 ```
 
-- eufemismus - znamená zjemnění, zjemňuje výrazy, které pro nás znamenají nepříjemné představy
+- **eufemismus** - znamená zjemnění, zjemňuje výrazy, které pro nás znamenají nepříjemné představy
 
 ```
 Až bude růst nade mnou tráva. (Petr Bezruč)
 ```
 
-- hyperbola - nadsázka, zveličení výrazu
+- **hyperbola** - nadsázka, zveličení výrazu
 
 ```
 **tisíckrát** tě líbám
@@ -139,13 +139,13 @@ Až bude růst nade mnou tráva. (Petr Bezruč)
 **Stokrát** jsem tě prosila
 ```
 
-- litotes - vyjádření kladu pomocí dvou záporů
+- **litotes** - vyjádření kladu pomocí dvou záporů
 
 ```
 nemá mne nerada
 ```
 
-- oxymorón - zdánlivě nelogické spojení dvou slov /živá mrtvola/, jednoho z takto používaných slov užíváme ve významu posunutém nebo přeneseném 
+- **oxymorón** - zdánlivě nelogické spojení dvou slov /živá mrtvola/, jednoho z takto používaných slov užíváme ve významu posunutém nebo přeneseném 
 
 ```
 …zbortěné harfy tón, ztrhané strůny zvuk,
@@ -153,7 +153,7 @@ zašlého věku děj, umřelé hvězdy svit,
 zašlé bludice pouť, mrtvé milenky cit,
 to jestiť zemřelých krásný dětinský čas. (Karel Hynek Mácha)
 ```
-- ironie a sarkasmus (tj. zesílená ironie) - jsou prostředky, v nichž je užito slova v opačném významu, než v jakém se ho používá
+- **ironie a sarkasmus** (tj. zesílená ironie) - jsou prostředky, v nichž je užito slova v opačném významu, než v jakém se ho používá
 obvykle
 
 ```
@@ -162,8 +162,8 @@ Ty tu máš ale pořádek!
 Oslí uši právě dobře ke koruně sluší (K. H. Borovský)
 ```
 
-- alegorie (jinotaj) - utajení skutečného obsahu
-- symbol (znak) - konkrétní slovo nahrazuje abstraktní pojem
+- **alegorie (jinotaj)** - utajení skutečného obsahu
+- **symbol (znak)** - konkrétní slovo nahrazuje abstraktní pojem
 
 ```
 kříž – křesťanství
@@ -173,7 +173,7 @@ kříž – křesťanství
 
 ### Odchylky od pravidelné větné skladby
 
-- anakolut - opuštění větné stavby v průběhu výpovědi
+- **anakolut** - opuštění větné stavby v průběhu výpovědi
 
 ```
 Já, já toho věštec od Beskydu lidu,
@@ -182,13 +182,13 @@ kde zlaté obilí k obzoru běží,…
 (Petr Bezruč)
 ```
 
-- elipsa - vypuštění podstatného větného členu /např. holého přísudku/ ve větě, věta neúplná
+- **elipsa** - vypuštění podstatného větného členu /např. holého přísudku/ ve větě, věta neúplná
 
 ```
 My o vlku a vlk za humny. /místo: My mluvíme o vlku a vlk je za humny./
 ```
 
-- apoziopeze - neukončená výpověď, zpravidla graficky označovaná třemi tečkami
+- **apoziopeze** - neukončená výpověď, zpravidla graficky označovaná třemi tečkami
 
 ```
 Tak se mi jeví svět v tu chvíli,
@@ -197,7 +197,7 @@ v tu hypnotickou **chvíli…**
 (František Hrubín) 
 ```
 
-- osamostatňování větných členů - větný člen stojí mimo větu, přestože patří vlastně do jejího schématu
+- **osamostatňování větných členů** - větný člen stojí mimo větu, přestože patří vlastně do jejího schématu
 
 ```
 Ale kdybyste se mě zeptali, co se mi v Holandsku líbilo nejvíc, tedy vyhrknu bez
@@ -205,20 +205,20 @@ dlouhého přemýšlení, že lidské příbytky. **A krávy. A květiny.**
 (Karel Čapek) 
 ```
 
-- inverze (inverzní slovosled) - změna pořádku slov
-- apostrofa - oslovení
+- **inverze (inverzní slovosled)** - změna pořádku slov
+- **apostrofa** - oslovení
 
 ```
 Čechy krásné, Čechy mé
 ```
 
-- pleonasmus - nadbytečné hromadění slov
+- **pleonasmus** - nadbytečné hromadění slov
 
 ```
 Po **modrém blankytu** bělavé páry hynou (K. H. Mácha)
 ```
 
-- tautologie - sdělení téhož dvěma a více způsoby
+- **tautologie** - sdělení téhož dvěma a více způsoby
 
 ```
 **Nevesely, truchlivy**
@@ -226,30 +226,30 @@ Po **modrém blankytu** bělavé páry hynou (K. H. Mácha)
 jsou ty kraje vodní (K. J. Eerben)
 ```
 
-- paradox - zdánlivě protismyslné tvrzení, které odporuje vžité představě
+- **paradox** - zdánlivě protismyslné tvrzení, které odporuje vžité představě
 
 ```
 Sníh žije, když taje (V. Závada)
 ```
 
-- zeugma - spojení dvou členů stejnou vazbou, i když každý z nich má mít jinou vazbu: `před i po obědě. (Před obědem i po obědě.)`
-- kontaminace - smíšení dvou různých větných staveb: `cenit si odměny (smíšení vazeb cenit si odměnu a vážit si odměny)`.
-- atrakce - splynutí vazeb v některých ustálených spojeních: `ber, kde ber (místo ber, kde bereš)`
-- vsuvka - připojení doplňující informace do věty. Vsuvka se odděluje čárkami a může být z věty vypuštěna, aniž by věta ztratila původní smysl: `To je, jak známo, nemožné.`
+- **zeugma** - spojení dvou členů stejnou vazbou, i když každý z nich má mít jinou vazbu: `před i po obědě. (Před obědem i po obědě.)`
+- **kontaminace** - smíšení dvou různých větných staveb: `cenit si odměny (smíšení vazeb cenit si odměnu a vážit si odměny)`.
+- **atrakce** - splynutí vazeb v některých ustálených spojeních: `ber, kde ber (místo ber, kde bereš)`
+- **vsuvka** - připojení doplňující informace do věty. Vsuvka se odděluje čárkami a může být z věty vypuštěna, aniž by věta ztratila původní smysl: `To je, jak známo, nemožné.`
 
 ### Figury
 
 Syntaktické konstrukce vznikající pravidelným seskupováním slov nebo
 opakováním některého slova na určitém, vždy stejném místě ve větě nebo verši
 
-- opakování slova - ve větě nebo v dalším textu, ne však těsně za sebou
+- **opakování slova** - ve větě nebo v dalším textu, ne však těsně za sebou
 
 ```
 A na břehu **tiché** vody není žádné zábradlí, nýbrž **tiché** a veliké stromy a **tichá** průčelí
 domů s jasnými okny; a to všechno se tiše zrcadlí v té vodě. (Karel Čapek)
 ```
 
-- epizeuxis - opakování slova v jedné větě těsně po sobě
+- **epizeuxis** - opakování slova v jedné větě těsně po sobě
 
 ```
 Tam **žádný - žádný - žádný** cíl
@@ -258,7 +258,7 @@ se na mne věčnost dívá.
 (Karel Hynek Mácha)
 ```
 
-- anafora - opakování jednoho nebo několika slov na začátku dvou nebo několika po sobě
+- **anafora** - opakování jednoho nebo několika slov na začátku dvou nebo několika po sobě
 jdoucích veršů nebo vět
 
 ```
@@ -267,7 +267,7 @@ jdoucích veršů nebo vět
 (Petr Bezruč) 
 ```
 
-- epifora - opakování jednoho nebo několika slov na konci dvou nebo několika po sobě jdoucích
+- **epifora** - opakování jednoho nebo několika slov na konci dvou nebo několika po sobě jdoucích
 veršů nebo vět
 
 ```
@@ -276,7 +276,7 @@ milý bože, divný kraj!
 (František Ladislav Čelakovský)
 ```
 
-- epanastrofa - opakování téhož slova na konci jednoho a na začátku následujícího verše nebo věty
+- **epanastrofa** - opakování téhož slova na konci jednoho a na začátku následujícího verše nebo věty
 
 ```
 … a nazván Volžanín, po vychování,
@@ -284,7 +284,7 @@ po vychování u matky Volhy.
 (František Ladislav Čelakovský)
 ```
 
-- aliterace - náslovný rým, opakování stejné hlásky nebo skupin hlásek na začátku sousedních slov
+- **aliterace** - náslovný rým, opakování stejné hlásky nebo skupin hlásek na začátku sousedních slov
 
 ```
 **Potkal potkan potkana**
