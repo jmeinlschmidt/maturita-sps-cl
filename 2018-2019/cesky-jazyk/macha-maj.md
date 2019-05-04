@@ -166,6 +166,9 @@ Ovlivnil Májovce (= považován za 1. moderní báseň).
     - **alegorie toho, že havran vlétne do jeho duše (*= pokoje*) a už ji nikdy neopustí**
   - 1825 [román] Alexandr Sergejevič Puškin - Evžen Oněgin (Rusko)
     - Evžen Oněgin, znuděný petrohradský dandy, opouští jednotvárný společenský život velkoměsta a stěhuje se na venkov, kde jeho jedinou společností je básník Lenský. Ve venkovském sídle poznává Oněgin ušlechtilou Taťánu, vzbudí v ní lásku, sám ji však neopětuje. Lehkomyslně podnítí žárlivost přítele Lenského a v souboji jej zabije. Otřesen touto tragédií odchází do ciziny, jenomže ani tam nenajde klid. Když se pak po letech vrací, setká se s Taťánou, provdanou za staršího generála. Tentokrát se do ní vášnivě zamiluje, Taťána ho ale odmítne, a Oněgin tak **ztrácí poslední naději, že konečně najde smysl svého bytí**
+- **český romantismus**
+  - 1853 [román] Karel Jaromír Erben - Kytice
+      - romantické prvky - napřirozeno, přírodní motivy, vina a trest atd.
 - *ačkoliv vyšel v době národního obrození, tak se ale do něj Máj neřadí! těch motivů národního obrození je tam velmi málo*
   - **setkal se s ostrou kritikou**
     - není dostatečně vlastenecký
