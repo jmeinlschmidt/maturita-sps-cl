@@ -1,8 +1,6 @@
 # Témata ústní formy profilové maturitní zkoušky Software 
 - Studijní obor: 18-20-M/01 - Informační technologie
 - Škola - Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
-- Odborný dozor: Ing. Michna Michal, Mgr. Harašta Milan
-- Konzultace: Ing. Bašta Josef
 - Školní rok: 2018/19
 - Odkaz: http://sps-cl.cz/sites/default/files/1718_Temata_profilovych_zkousek.pdf
 
