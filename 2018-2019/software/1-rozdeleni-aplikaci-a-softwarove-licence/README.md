@@ -2,3 +2,122 @@
 ## Zadání
 -	Rozdělení aplikací
 -	Softwarové licence
+
+## Vypracováno
+
+### 1. Rozdělení aplikací 
+-	Systémové
+    - Operační systém
+        - je soubor systémových programů, které uživateli umožňující spouštět aplikační programy
+        - lze pomocí příkazového řádku, kam se pomocí klávesnice zadávají příkazy, nebo pomocí grafického rozhraní pomocí myši (klikací)
+    - Ovladače periferií
+        - je SW, který umožňuje OS pracovat s HW
+        - rozšiřují možnosti BIOSu
+        - umožňují využívat myši, tablety, grafické/zvukové/… karty, atd…
+        - vytváří rozhraní mezi HW a OS
+        - některé bývají součástí OS, jiné distribuovány s HW, nebo ke stažení na internetu 
+    - Počítačové sítě
+        - LAN nebo WAN vyžadují pro svou činnost rozsáhlé bloky programů
+        - tyto programy se lidí dle druhu sítě
+        - jedná se například o systém Novell (ten je nutné nainstalovat)
+        - většinou potřebují server, na kterém jsou uchovány informace
+- Uživatelské
+    - Nadstavby OS
+        - umožňují zadávat příkazy pomocí systému menu
+        - zároveň využívají i možnosti klávesových zkratek nebo práce s myší
+        - k nejběžnějším nadstavbám patří
+            - diskové manažery: Total commander, volkov commander, …
+            - komprimační programy: 7zip, WinZip, WinRar, …
+    - Programovací jazyky a překladače
+        - slouží pro tvorbu vlastního uživatelského programu/programového vybavení
+        - každý spustitelný program na PC musí být nejdříve napsán
+        - moderní programovací jazyky se dělí na dvě základní skupiny
+            - interprety: program se překládá během provádění, přeloží se příkaz a hned se provede (Karel)
+            - překladače: zdrojový kód se přeloží celý (Pascal, C)
+    - Textové editory
+        - programy pro tvorbu psaných dokumentů
+        - výstupem je soubor, který může být vytištěn jako papírový dokument
+        - umožňuje kdykoliv měnit uložený dokument, nebo použít pro tvorbu jiného dokumnetu
+        - existuje velké množství, které se liší počtem zabudovaných služeb, které jsou uživateli poskytovány
+        - př. MS Word
+    - Tabulkové procesory
+        - programy umožňující užívat tabulky rozdělené na sloupce a řádky (vymezují základní stavební kámen tabulky –> buňku)
+    - Databázové systémy
+        - umožňují větší seskupení dat, které mají určitou logiku a lze je vyhodnocovat, zpracovávat a analyzovat
+        - lze rozdělit na vyhledávání a výběr dat, aktializaci dat
+        - př. MS Access
+    - Grafické aplikace
+        - 3D – umožňuje "představit" si návrh, "virtuální realita"
+        - CAD/CAM
+        - programy pro práci s rastrovou a vektorovou grafikou
+    - Prohlížeče
+        - umožňují prohlížení nejrůznějších dokumentů
+        - neumožní je upravit
+        - př. HTML, PDF, multimediální (AVI, MP3, …), obrázků
+    - Anivirové
+        - slouží k ochraně PC před útoky PC virů
+        - dříve docházelo k nakažení z disket, dnes email či internet
+        - k nejznámějším patří: AVG, Eset, AVAST
+    - Hry
+        - textové –> uživatelem si jen povídají, pracují s textovou interpretací
+        - grafické: využívají grafické adaptéry, disponují škálou zvuků pro zvukové karty
+- Řídící
+    - slouží pro řízení technologických procesů
+        - PC musí být pro tyto účely dostatečně vybaven speciálními I/O deskami s A/D D/A pro připojení potřebných periferií
+    - Firmware: programové vybavení určené pro řídící funci zařízení (pračky, video, mobil, tiskárna, …)
+    - mohou mít podobu posloupnosti příkazů (všechny příkazy se provedou jeden po druhém), cyklu (v závislosti na podmínce se některé příkazy provedou vícekrát) nebo větvení (příkaz se vykoná v závislosti na splnění podmínky –> příkaz se provede, nebo skočí jinam)
+
+### 2. Softwarové licence
+- každý SW má svého autora, který si za svou práci nárokuje odměnu
+    - tyto nároky se nazývají autorská práva
+    - ochranu práv zajišťuje zákon
+    - autor může rozhodnout jakým způsobem je možné s jeho produktem/programem nakládat
+- Existuje řada druhů licencí:
+    - Komerční:
+        - uživatel si kupuje právo programy používat
+        - součástí bývá instalační médium
+        - k zakoupení je často poskytována řada výhod: technická podpora k programu, aktualizace SW (vylepšení, opravné balíčky, …) či zlevněný upgrade (nová verze programu)
+    - OEM:
+        - původní zařízení výrobce
+        - licence k programovému využité je získána se zakoupením HW či jiného SW
+        - V: programy jsou v ceně vybavení, nebo jsou levnější
+        - N: možnost používat většinou jen na daném zařízení, zpravidla bez nároku na technickou podporu ani na upgrade
+    - Shareware:
+        - k produktu jsou autorská práva
+        - jsou šířeny zdarma nebo za malý poplatek
+        - autor vyžaduje zaplacení, pokud se uživateli produkt líbí a využívá ho
+        - zaplacením a většinou i registrací se uživatel stane legálním uživatelem SW a může získávat aktualizace
+            - je mu poskytnuta i online podpora
+        - tímto způsobem může dojít k výrazně většímu rozšíření programu a tím i většímu zisku autora
+    - Freeware:
+        - je SW vytvořený a k dispozici zdarma
+        - tvůrce neuvolní zdrojový kód a ponechá si autorská práva
+        - autoři poskytují SW pod touto licencí většinou k prosazení pokrokového nápadu, pro dobro všech, k vlastnímu uspokojení (získá si jméno)
+    - Public domain:
+        - autor SW se zřekl všech práv => zdrojový kód je plně k dispozici
+        - lze jej volně šířit a používat
+        - lze i měnit a zahrnout do vlastních aplikací
+    - Open source SW:
+        - je SW s otevřeným zdrojovým kódem
+        - tato licence umožňuje používat, prohlížet a upravovat kód programu
+        - vývoj je zpravidla zajišťován dobrovolnickou komunitou (př. Linux)
+        - vznikají tak i rozsáhlé programy
+        - N: riziko ukončení činnosti autora a rozpad komunity, ukončení vývoje a technické podpory SW, chyby v SW nelze reklamovat, za škody způsobené chybou SW nelze vymáhat náhradu
+    - GPL/GNU:
+        - svobodný SW
+        - další druh licence, která zajišťuje zcela volný přístup k programům
+        - oproti Open source však musí splňovat další podmínky:
+            - např. umožnit uživateli šířid díla odvozená z původního programu
+    - Zkušební verze/Demoverze:
+        - verze programu, která slouží k odzkoušení jeho funkčnosti
+        - mají svá omezení:
+            - chybí některé funkce
+            - zablokované ukládání dat
+            - omezení velikosti zpracovávaných dat
+            - fungují pouze po určitou dobu (kolem 30 dní od nainstalování)
+    - Adware:
+        - užívání SW pod touto licencí je bezplatné
+        - v programu se zobrazuje reklama, ze kterého je vývoj placen
+        - odstranění reklamy proto není možné a ani není v souladu s licencí
+        - reklama bývá stahována z internetu
+        - př. prohlížeč Opera, ICQ
