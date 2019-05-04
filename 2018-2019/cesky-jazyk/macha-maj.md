@@ -1,9 +1,5 @@
 # Karel Hynek Mácha - Máj
 
-- Nejvýznamnější básník českého romantismu
-- Karel Hynek Mácha [1810 - 1836]
-- Vydáno v roce 1836
-
 ## Analýza uměleckého textu
 
 ### Zasazení výňatku do kontextu díla
@@ -136,6 +132,10 @@ Rozbor:
 ### Kontext autorovy tvorby
 
 Ovlivnil Májovce (= považován za 1. moderní báseň).
+
+- Nejvýznamnější básník českého romantismu
+- Karel Hynek Mácha [1810 - 1836]
+- Vydáno v roce 1836
 
 - román [1857] Cikáni
   - psal do roku 1835
