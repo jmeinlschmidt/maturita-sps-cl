@@ -136,7 +136,6 @@ Ovlivnil Májovce (= považován za 1. moderní báseň).
 - Nejvýznamnější básník českého romantismu
 - Karel Hynek Mácha [1810 - 1836]
 - Vydáno v roce 1836
-
 - román [1857] Cikáni
   - psal do roku 1835
   - původně neprošlo cenzurou, vyšlo až posmrtně
