@@ -123,5 +123,6 @@ Nejproslulejší Moliérova hra, inspirovaná Komedií o hrnci (*autor Platus*)
   - na první místo klade rozum před citem
   - krása je v pravdě a v obrazu přírody
   - **vzorem je antické umění**, reakce na baroko  
-  - Carlo Goldoni, Ital 18. st.
-    – *Sluha dvou pánů* - tradiční postupy commedia dell'arte. Jde o druh improvizovaného divadla barokní Itálie.  
+  - 1746 [komedie] Carlo Goldoni - Sluha dvou pánů (Itálie)
+      - tradiční postupy commedia dell'arte
+      - jde o druh improvizovaného divadla barokní Itálie.  
