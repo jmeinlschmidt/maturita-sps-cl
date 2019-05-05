@@ -1,6 +1,6 @@
 # Témata ústní formy profilové maturitní zkoušky Software 
 - Studijní obor: 18-20-M/01 - Informační technologie
-- Škola - Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
+- Škola: Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
 - Školní rok: 2018/19
 - Odkaz: http://sps-cl.cz/sites/default/files/1718_Temata_profilovych_zkousek.pdf
 
@@ -8,31 +8,31 @@
 Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
 
 ## Témata
-1. ~~Rozdělení aplikací a softwarové licence~~ *nevypracováno*
-2. ~~Tabulkové procesory~~ *nevypracováno*
-3. ~~Rastrová grafika~~ *nevypracováno*
-4. ~~Vektorová grafika~~ *nevypracováno*
-5. ~~Značkovací jazyk HTML~~ *nevypracováno*
-6. ~~Kaskádové styly CSS~~ *nevypracováno*
-7. ~~Značkovací jazyk XML~~ *nevypracováno*
-8. ~~Databáze a dotazovací jazyk SQL~~ *nevypracováno*
-9. ~~Algoritmizace~~ *nevypracováno*
-10. ~~Datové struktury~~ *nevypracováno*
-11. ~~Vývojové diagramy, UML a návrhové vzory~~ *nevypracováno*
-12. ~~Vyhledávající a třídící algoritmy~~ *nevypracováno*
-13. ~~Strukturované programování~~ *nevypracováno*
-14. ~~Objektově orientované programování~~ *nevypracováno*
-15. ~~Událostmi řízené programování~~ *nevypracováno*
-16. ~~Webové aplikace~~ *nevypracováno*
-17. ~~Komunikace na linkové vrstvě OSI/ISO – aktivní prvky~~ *nevypracováno*
-18. ~~Komunikace na síťové vrstvě OSI/ISO – směrovače~~ *nevypracováno*
-19. ~~Bezdrátové sítě~~ *nevypracováno*
-20. ~~GNU/Linux – struktura, zavádění OS~~ *nevypracováno*
-21. ~~Windows – struktura, zavádění OS~~ *nevypracováno*
-22. ~~GNU/Linux – instalace a konfigurace OS~~ *nevypracováno*
-23. ~~Windows – instalace a konfigurace OS~~ *nevypracováno*
-24. ~~Bezpečnost - záloha a obnova dat~~ *nevypracováno*
-25. ~~Bezpečnost - ochrana OS~~ *nevypracováno*
+1. Rozdělení aplikací a softwarové licence
+2. Tabulkové procesory
+3. Rastrová grafika
+4. Vektorová grafika
+5. Značkovací jazyk HTML
+6. Kaskádové styly CSS
+7. Značkovací jazyk XML
+8. Databáze a dotazovací jazyk SQL
+9. Algoritmizace
+10. Datové struktury
+11. Vývojové diagramy, UML a návrhové vzory
+12. Řadící, třídící a vyhledávací algoritmy
+13. Strukturované programování
+14. Objektově orientované programování
+15. Událostmi řízené programování
+16. Webové aplikace
+17. Komunikace na linkové vrstvě OSI/ISO – aktivní prvky
+18. Komunikace na síťové vrstvě OSI/ISO – směrovače
+19. Bezdrátové sítě
+20. GNU/Linux – struktura, zavádění OS
+21. Windows – struktura, zavádění OS
+22. GNU/Linux – instalace a konfigurace OS
+23. Windows – instalace a konfigurace OS
+24. Bezpečnost - záloha a obnova dat
+25. Bezpečnost - ochrana OS
 
 ## Forma vypracování témat a přispívání
 Pro úspěšné připuštění k maturitní zkoušce z předmětu Hardware je potřeba v řádném nebo konečném termínu odevzdat **ručně** vypracováná a odborným dozorem schválená maturitní témata.
