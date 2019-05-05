@@ -1,4 +1,4 @@
-# 2/25 - Komunikace na síťové vrstvě OSI/ISO
+# 18/25 - Komunikace na síťové vrstvě OSI/ISO
 ## Zadání
 -	Komunikace na síťové vrstvě OSI/ISO
 - Směrovače
