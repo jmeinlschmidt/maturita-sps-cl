@@ -1,4 +1,4 @@
-## Obsah
+# Obsah
 1. Rozdělení aplikací a softwarové licence
 2. Tabulkové procesory
 3. Rastrová grafika
