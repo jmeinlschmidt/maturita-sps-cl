@@ -123,9 +123,8 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
         - až 600 MHz (při využití konektorů GG45, ARJ45, nebo TERA)
         - vznik 2002
         - 10/100/1000/10GBASE-T do 100 m
-        - kompatibilní s 8P8C konektorem (RJ45), ale nedochází k využití maximální frekvence
         - GG45, ARJ45, nebo TERA konektory využivá velmi málo hardwaru (specializovaný hardware, vysoká cena)
-        - mnohem vhodnější využít cat 6a (cenově i vzhledem ke konektoru atd.)
+        - kompatibilní s 8P8C konektorem (RJ45), ale nedochází k využití maximální frekvence; vzhledem k tomu je cenově výhodnější využít CAT 6a (pokud není potřeba extra stínění)
     - CAT 7a (třída Fa)
         - až 1000 MHz
         - vznik 2010
