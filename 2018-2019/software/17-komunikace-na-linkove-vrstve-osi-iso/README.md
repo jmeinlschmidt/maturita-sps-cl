@@ -5,7 +5,7 @@
 - Společná norma znalostí pro všechny okruhy
     - Kabeláž – typy, kategorie, normy, zapojení
     - WiFi:
-        - 802.11 - 2,4/5GHz – kanály, 
+        - 802.11 - 2,4/5GHz – kanály
         - Half/Full duplex, CSMA/CA - kolize
         - antény
         - módy WiFi přenosů
@@ -45,18 +45,8 @@
     - access point
     - poe
 - síťová karta - jedinečná MAC adresa (Media Access Control) - linková vrstva
-    
-### 2. WiFi
-- šíření signálu
-    - unicast - dvoubodový přenos (point-to-point)
-    - broadcast - všem stanicím
-    - multicast - skupinově (do určených stanic)
-- dvoubodový přenos
-    - simples - jednosměrný
-    - half-duplex - obousměrný střídavý (vždy právě jeden směr)
-    - full-duplex - obousměrný současný
-    
-### 3. Přenos signálu
+      
+### 2. Přenos signálu
 - vodič
     - elektrické vodiče
         - kroucená dvojlinka (anglicky Twisted Pair - **TP**) - UTP, STP, SFTP atd.
@@ -64,18 +54,10 @@
     - optické vodiče (využívá se určité pásmo, např. 1260-1650 nm, každé pásmo jiný útlum, vzdálenost útlum atd., lze mít více pásem v jednom vodiči - potřeba použít rozbočovač)
         - jednovidové (anglicky Single Mode - **SM**) - delší vzdálenosti
         - vícevidové (anglicky Multi Mode - **MM**) - kratší vzdálenosti
+        - **není rušení el. mag. polem! - je to světlo**
 - signál
 
-### 4. ISO/OSI referenční model
-1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
-2. prezentační vrstva (upravení dat do podoby, kterou program vyžaduje - šifrování, serializace XML, JSON atd.)
-3. relační vrstva (navazování, udržování a zavírání spojení; protokoly L2TP, SOCKS - websockety)
-4. transportní vrstva (TCP, UDP) -> **čísla portů, TCP/UDP segment**
-5. síťová vrstva (protokoly IP, IPSec) -> **IP adresy, paket**
-6. linková vrstva (bridge, switch) -> **MAC adresy, datagram*
-7. fyzická vrstva (fyzická kabeláž, přenos dat, signál atd.) -> **frame**
-
-### 5. Kabeláž - kroucená dvojlinka
+### 3. Kabeláž - kroucená dvojlinka
 Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, snížení rušení. Mb/s  Mbps (per second) Gb/s Gbps. !!! G**B**/s  = 8 x G**b**/s  !!!
 
 - typ vodiče
@@ -178,3 +160,38 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
 - Gigabit Ethernet
     - vyhrazené všechny 4 páry (1 TX; 1 RX; 2 Bi - obousměrné, karty se dohodnou)
     - podpora PoE (Power Over Ethernet)
+    
+### 4. WiFi
+Wireless Fidelity. Využití v místě, kde nelze kabel.
+
+- šíření signálu
+    - unicast - dvoubodový přenos (point-to-point)
+    - broadcast - všem stanicím
+    - multicast - skupinově (do určených stanic)
+- dvoubodový přenos
+    - simples - jednosměrný
+    - half-duplex - obousměrný střídavý (vždy právě jeden směr)
+    - full-duplex - obousměrný současný
+- IEEE 802.11 v pásmu 2.4 GHz
+    - IEEE 802.11b-1999 - až 11 Mb/s [**WiFi 1**]
+    - IEEE 802.11g-2003 - až 54 Mb/s [**WiFi 3**]
+- IEEE 802.11n-2009 2.4/5 Ghz - až 600 Mb/s v závislosti na počtu antén, typu modulace, pásma, šířce kanálu atd. (MIMO) [**WiFi 4**]
+- kanály IEEE 802.11 v pásmu 5 GHz
+     - IEEE 802.11a-1999 - až 54 Mb/s [**WiFi 2**]
+     - IEEE 802.11ac (2013) [**WiFi 5**]
+         - podporuje šířky pásem 20, 40, 80 a 160 MHz
+         - až 8 MIMO samostatných datových toků
+         - až 4 klienty v MU-MIMO
+         - hustější modulace až 256-QAM
+         - až 6.77 Gb/s pro agregaci (pro MU-MIMO)
+         - až 3466.8 Mb/s pro jednoho klienta (160 MHz, 4 samostatné datové toky)
+     - IEEE 802.11ax (2019) [**WiFi 6**]
+
+### 5. ISO/OSI referenční model
+1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
+2. prezentační vrstva (upravení dat do podoby, kterou program vyžaduje - šifrování, serializace XML, JSON atd.)
+3. relační vrstva (navazování, udržování a zavírání spojení; protokoly L2TP, SOCKS - websockety)
+4. transportní vrstva (TCP, UDP) -> **čísla portů, TCP/UDP segment**
+5. síťová vrstva (protokoly IP, IPSec) -> **IP adresy, paket**
+6. linková vrstva (bridge, switch) -> **MAC adresy, datagram*
+7. fyzická vrstva (fyzická kabeláž, přenos dat, signál atd.) -> **frame**
