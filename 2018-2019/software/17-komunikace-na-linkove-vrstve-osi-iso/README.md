@@ -93,7 +93,7 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
     - F/FTP - fólie okolo celého kabelu a fólie kolem každého páru
     - S/FTP - opletení okolo celého kabelu a fólie kolem každého páru
     - SF/FTP - fólie a opletení okolo celého kabelu a fólie kolem každého páru
-- kategorie ISO/IEC 11801
+- kategorie
     - CAT 1 (telefonní linky, max 100 kHz)  (třída A)
     - CAT 2 (digitální přenos zvuku, max 1 MHz)  (třída B)
     - CAT 3  (třída C)
@@ -164,3 +164,17 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
         - Třída II (CAT 8.2) - plně kompatibilní s CAT 7a (pomocí konektoru TERA nebo GG45)
             - standardně provedení S/FTP nebo F/FTP
             - **popisuje pouze ISO/IEC ISO/IEC 11801-1:2017, nikoliv TIA/EIA**
+- zapojení párů
+    - Norma EIA/TIA 568A (USA) 
+    - Norma EIA/TIA 568B (Evropa)
+    - vždy se střídá dvoubarevný s jednobarevným
+    - crossover - využije se na jedné straně norma A a na druhé straně norma B (využití pro propojení dvou síťových zařízení, v dnešní době již není potřeba, síťová karta to pozná sama)
+- Ethernet 10BASE-T (10 Mb/s)
+    - vyhrazené 2 páry (1 TX; 1 RX)
+    - vodiče 1, 2, 3 a 6
+- Fast Ethernet 100BASE-T4 (100 Mb/s)
+    - vyhrazené všechny 4 páry (1 TX; 1 RX; 2 Bi - obousměrné, karty se dohodnou)
+    - podpora PoE (Power Over Ethernet)
+- Gigabit Ethernet
+    - vyhrazené všechny 4 páry (1 TX; 1 RX; 2 Bi - obousměrné, karty se dohodnou)
+    - podpora PoE (Power Over Ethernet)
