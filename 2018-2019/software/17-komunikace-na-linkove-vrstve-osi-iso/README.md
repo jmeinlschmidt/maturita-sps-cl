@@ -84,6 +84,15 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
 - použití
     - venkovní (ochrana proti UV, odolnější plášť, vyztužené - umožňuje zavěšení)
     - vnitřní
+- stínění
+    - U/UTP (anglicky Unshielded Twisted Pair) - nestíněné
+    - U/FTP (anglicky Foiled Twisted Pair) - fólie okolo každého páru
+    - F/UTP - fólií okolo celého kabelu
+    - S/UTP - pletení okolo celého kabelu
+    - SF/UTP - fólie a opletení okolo celého kabelu
+    - F/FTP - fólie okolo celého kabelu a fólie kolem každého páru
+    - S/FTP - opletení okolo celého kabelu a fólie kolem každého páru
+    - SF/FTP - fólie a opletení okolo celého kabelu a fólie kolem každého páru
 - kategorie ISO/IEC 11801
     - CAT 1 (telefonní linky, max 100 kHz)
     - CAT 2 (digitální přenos zvuku, max 1 MHz)
@@ -93,31 +102,37 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
         - převážně v 90. letech pro telefonní linku
         - 10BASE-T
         - 100BASE-T4 při využití 4 párů
+        - Standardně UTP
     - CAT 4 (velmi rychle nahrazena CAT 5, často se ani neuvádí)
         - až 20 MHz
         - 10BASE-T
         - 100BASE-T4 při využití 4 párů
+        - Standardně UTP
     - **TIA/EIA popisuje následující**
     - CAT 5
         - až 100 MHz
         - 10BASE-T and 100BASE-TX při využití dvou párů (díky tomu lze teoreticky udělat 2x100BASE-TX); každý pár pro jeden směr - full duplex (max 100 m)
         - 1000BASE-T při využití 4 párů (vzdálenost není definována)
         - využívá se 8P8C konektor (RJ45)
+        - Standardně UTP
     - CAT 5e
         - zhruba stejné parametry jako CAT 5
         - vyšší nároky na výrobu, nižší impedance, menší přeslechy atd. => větší šance, že se povede dosáhnout 1000BASE-T
         - využívá se 8P8C konektor (RJ45)
+        - Standardně UTP nebo STP
     - CAT 6
         - až 250 MHz
         - 10/100/1000BASE-T do 100 m
         - 10GBASE-T do 55 m
         - využívá se 8P8C konektor (RJ45)
+        - Standardně UTP nebo STP
     - CAT 6a
         - až 500 MHz
         - vznik 2009
         - 10/100/1000/10GBASE-T do 100 m
         - menší útlum než CAT 6, tj. zvládne to samé, ale na delší vzdálenost
         - využívá se 8P8C konektor (RJ45)
+        - Standardně UTP, F/UTP nebo U/FTP
     - **následující popisuje pouze ISO/IEC 11801, nikoliv TIA/EIA**
     - CAT 7 (třída F)
         - až 600 MHz (při využití konektorů GG45, ARJ45, nebo TERA)
@@ -125,6 +140,7 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
         - 10/100/1000/10GBASE-T do 100 m
         - GG45, ARJ45, nebo TERA konektory využivá velmi málo hardwaru (specializovaný hardware, vysoká cena)
         - kompatibilní s 8P8C konektorem (RJ45), ale nedochází k využití maximální frekvence; vzhledem k tomu je cenově výhodnější využít CAT 6a (pokud není potřeba extra stínění)
+        - Standardně S/FTP nebo F/FTP
     - CAT 7a (třída Fa)
         - až 1000 MHz
         - vznik 2010
@@ -133,7 +149,11 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
         - a 100 GbE do 15 m
         - oficálně však 40Gbase-T nepodporuje
         - nejsou komerční zařízení, co by CAT 7a podporovala
+        - Standardně S/FTP nebo F/FTP
     - CAT 8 (třída I a třída II)
         - až 2000 MHz
+        - 25GBASE-T / 40GBASE-T
         - Třída I (CAT 8.1) - plně kompatibilní s CAT 6a (pomocí 8P8C konektoru - RJ45)
+            - standardně provedení F/UTP nebo U/FTP	
         - Třída II (CAT 8.2) - plně kompatibilní s CAT 7a (pomocí konektoru TERA nebo GG45)
+            - standardně provedení S/FTP nebo F/FTP	
