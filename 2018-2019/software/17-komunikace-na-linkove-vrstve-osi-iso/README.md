@@ -94,53 +94,57 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
     - S/FTP - opletení okolo celého kabelu a fólie kolem každého páru
     - SF/FTP - fólie a opletení okolo celého kabelu a fólie kolem každého páru
 - kategorie ISO/IEC 11801
-    - CAT 1 (telefonní linky, max 100 kHz)
-    - CAT 2 (digitální přenos zvuku, max 1 MHz)
-    - **TIA/EIA popisuje až následující kategorie**
-    - CAT 3
+    - CAT 1 (telefonní linky, max 100 kHz)  (třída A)
+    - CAT 2 (digitální přenos zvuku, max 1 MHz)  (třída B)
+    - CAT 3  (třída C)
         - až 16 MHz
-        - převážně v 90. letech pro telefonní linku
+        - převážně v 90. letech pro telefonní linku, lze se s ní setkat dodnes
         - 10BASE-T
         - 100BASE-T4 při využití 4 párů
-        - Standardně UTP
+        - standardně UTP
+        - - **TIA/EIA-568-B**
     - CAT 4 (velmi rychle nahrazena CAT 5, často se ani neuvádí)
         - až 20 MHz
         - 10BASE-T
         - 100BASE-T4 při využití 4 párů
-        - Standardně UTP
-    - **TIA/EIA popisuje následující**
+        - standardně UTP
     - CAT 5
         - až 100 MHz
         - 10BASE-T and 100BASE-TX při využití dvou párů (díky tomu lze teoreticky udělat 2x100BASE-TX); každý pár pro jeden směr - full duplex (max 100 m)
         - 1000BASE-T při využití 4 párů (vzdálenost není definována)
         - využívá se 8P8C konektor (RJ45)
-        - Standardně UTP
-    - CAT 5e
+        - standardně UTP
+        - **TIA/EIA-568-B**
+    - CAT 5e (třída D)
         - zhruba stejné parametry jako CAT 5
         - vyšší nároky na výrobu, nižší impedance, menší přeslechy atd. => větší šance, že se povede dosáhnout 1000BASE-T
         - využívá se 8P8C konektor (RJ45)
-        - Standardně UTP nebo STP
-    - CAT 6
+        - standardně UTP nebo STP
+        - **TIA/EIA-568-B**
+    - CAT 6 (třída E)
         - až 250 MHz
         - 10/100/1000BASE-T do 100 m
         - 10GBASE-T do 55 m
         - využívá se 8P8C konektor (RJ45)
-        - Standardně UTP nebo STP
-    - CAT 6a
+        - standardně UTP nebo STP
+        - **ISO/IEC 11801 2nd Ed. (2002), ANSI/TIA 568-B.2-1**
+        - *nejčastěji instalovaný kabel ve Finsku*
+    - CAT 6a (třída Ea)
         - až 500 MHz
         - vznik 2009
         - 10/100/1000/10GBASE-T do 100 m
         - menší útlum než CAT 6, tj. zvládne to samé, ale na delší vzdálenost
         - využívá se 8P8C konektor (RJ45)
-        - Standardně UTP, F/UTP nebo U/FTP
-    - **následující popisuje pouze ISO/IEC 11801, nikoliv TIA/EIA**
+        - standardně UTP, F/UTP nebo U/FTP
+        - **ISO/IEC 11801 2nd Ed. Am. 2. (2008), ANSI/TIA-568-C.1 (2009)**
     - CAT 7 (třída F)
         - až 600 MHz (při využití konektorů GG45, ARJ45, nebo TERA)
         - vznik 2002
         - 10/100/1000/10GBASE-T do 100 m
         - GG45, ARJ45, nebo TERA konektory využivá velmi málo hardwaru (specializovaný hardware, vysoká cena)
         - kompatibilní s 8P8C konektorem (RJ45), ale nedochází k využití maximální frekvence; vzhledem k tomu je cenově výhodnější využít CAT 6a (pokud není potřeba extra stínění)
-        - Standardně S/FTP nebo F/FTP
+        - standardně S/FTP nebo F/FTP
+        - **ISO/IEC 11801 2nd Ed. (2002); TIA/EIA nepopisuje**
     - CAT 7a (třída Fa)
         - až 1000 MHz
         - vznik 2010
@@ -149,11 +153,14 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
         - a 100 GbE do 15 m
         - oficálně však 40Gbase-T nepodporuje
         - nejsou komerční zařízení, co by CAT 7a podporovala
-        - Standardně S/FTP nebo F/FTP
+        - standardně S/FTP nebo F/FTP
+        - **ISO/IEC 11801 2nd Ed. (2008); TIA/EIA nepopisuje**
     - CAT 8 (třída I a třída II)
         - až 2000 MHz
         - 25GBASE-T / 40GBASE-T
         - Třída I (CAT 8.1) - plně kompatibilní s CAT 6a (pomocí 8P8C konektoru - RJ45)
-            - standardně provedení F/UTP nebo U/FTP	
+            - standardně provedení F/UTP nebo U/FTP
+            - **ANSI/TIA-568-C.2-1, ISO/IEC 11801-1:2017**
         - Třída II (CAT 8.2) - plně kompatibilní s CAT 7a (pomocí konektoru TERA nebo GG45)
-            - standardně provedení S/FTP nebo F/FTP	
+            - standardně provedení S/FTP nebo F/FTP
+            - **popisuje pouze ISO/IEC ISO/IEC 11801-1:2017, nikoliv TIA/EIA**
