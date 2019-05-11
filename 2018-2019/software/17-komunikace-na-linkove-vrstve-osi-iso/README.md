@@ -255,7 +255,7 @@ Sektorové (30° až 180°)
 
 Směrové (pod 10°)
 
-#### 4.3 Módy bezdrátové komunikace
+#### 4.4 Módy bezdrátové komunikace
 
 Jednotlivé módy
 1. Ad-Hoc / Peer-to Peer Networking
@@ -316,6 +316,31 @@ SSID - Service Set Identifier
     - uživatelé skupiny ESS mohou volně cestovat mezi BSS
     - přičemž je zachováno trvalé připojení 
 
+BSSID - Basic Service Set IDentifier
+- MAC adresa AP
+
+#### 4.4 Šifrování
+
+Nezabezpečená bezdrátová síť WLAN
+- vaším jménem lze konat trestnou činnost
+- provádět průniky do cizích sítí (banky, armáda, státní orgány…)
+- díky IP adrese zjistí poskytovatele INETu
+
+Základní metody zabezpečení (čím více použitých metod, tím více překážek k prolomení)
+1. zamezení vysílání mimo perimetr (uvnitř budovy, snížit vysílací výkon, použít sektorové antény)
+2. změna výchozích přístupových údajů k nastavení AP (heslo 12 a více znaků)
+3. skrytí SSID (stejně jde ale odposlechnout z komunikace mezi klienty)
+    - stejně se jde připojit přes BSSID
+4. vypnout DHCP (klient tak musí znát svoji IP, bázi, masku a brány podsítě)
+5. filtrování MAC adres
+6. **nejdůležitější** - šifrovaný přenos dat
+    - WEP (již prolomeno)
+    - WPA (delší šifrovaíc klíč než WEP - 128 bit)
+    - WPA-TKIP (bezpečné asi jako WEP) 
+    - WPA-PSK (lepší)
+    - WPA2 (využívá AES, vždy vybírat varianty založené na AES!)
+        - personal (malé domací sítě - pouze heslo)
+        - enterprise (rozšířené autentizace - jméno/heslo) - řeší RADIUS server (protokol AAA), server buď přihlášení přijme nebo odmítne
 
 ### 5. ISO/OSI referenční model
 1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
