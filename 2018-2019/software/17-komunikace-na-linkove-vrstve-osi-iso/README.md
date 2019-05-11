@@ -401,6 +401,26 @@ Základní metody zabezpečení (čím více použitých metod, tím více přek
         - bez záruky, na pořadí doručených datagramů, že se nedoručí vícekrát, že se netratí atd.
         - vhodný na streamy dat, kde server nevyžaduje odpověď
     - RUDP (něco mezi TCP a UDP)
+- aplikační vrstva
+    - určeny přímo pro aplikace, říkají co s daty dělat
+    - identifikovány číslem (**portem** - 0 až 65535)
+        - nejběžnější služby 0 až 1023
+        - registrované porty u ICANN 1024 až 49151
+        - dynamické a soukromé porty 49152 až 65535 (nejsou pevně přiděleny!)
+    - cílová stanice přesně adresována
+        - IP adresou
+        - protokolem transportní vrstvy (TCP nebo UDP)
+        - portem
+    - protokol FTP (File Transfer Protocol), porty 20 (pro řízení) a 21 (pro data) nezabezpečná
+    - protokol SFTP (SSH File Transfer Protocol), port 115
+    - protokol Telnet, ovládání vzdáleného počítače přes příkazovou řádku, port 23
+    - protokol SSH, port 22
+    - protokol SMTP (port 25), POP3 (port 110), IMAP4 (port 143)
+    - protokol HTTP, port 80
+    - protokol HTTPS, port 443
+    - protokol NTP (Network Time Protocol), port 123
+    - protokol DHCP, server port 68, klient port 67
+    - protokol DNS, port 53
     
 #### 5.3 IPv4
 Internet protocol verze 4
