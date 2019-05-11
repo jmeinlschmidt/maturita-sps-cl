@@ -584,3 +584,44 @@ Funkce portů
  - směrovací protokol RIP (Routing Information Protocol)
      - určování nejkratší cesty v síti podle počtu HOPů (HOP count), maximální počet 15
      - více hopů EIGRP
+
+#### 9. VLAN
+
+- logické členění sítě bez ohledu na fyzickou strukturu
+- **trunk port - port pro více LAN**
+- switch musí umět pracovat na vrstvě L3
+- switch v L3 neumí routovat pomocí IP adres, ale bude routovat pomocí MAC adres
+- metody zařazení počítače do VLAN
+    - podle portu (podle portu na kterém je), nejpoužívanější a nejrychlejší řešení
+    - podle MAC adresy (dynamické zařazení), např. v kombinaci s RADIUS serverem
+    - podle protokolu IPv4
+    - podle autentizace - RADIUS server
+    
+#### 10. QoS
+
+- Quality of Service
+- datový tok (lze vyjádřit v kbit/s, Mbit/s atd.)
+- přenosová kapacita - schopnost přenést množství dat za jednotku času
+- šířka přenosového pásma (minimální/maximální přenos dat pro počítač v LAN) - nastavujeme!
+- hrozí vyčerpání přenosové kapacity sítě (jeden PC zabere neúměrně datový tok), ostatní čekají ve frontě
+- pomoci QoS lze nastavit priority, pravidla
+- většinou nastavujeme v routeru
+- lze nastavit podle
+    - IP adresy
+    - služby
+    - atd.
+- tradičně využívá provider - tzv. agregace (např. 100 mbit linka se rozdělí mezi 5 klientů, agregace 5)
+    - ne každý klient využije plnou přenosovou kapacitu v jeden moment
+    
+#### 11. VPN
+
+- Virtual Private Network
+- připojení firemních PC odkudkoliv z internetu do firemní LAN sítě
+- jako by bylo „součástí vnitřní LAN“
+- připojení je zabezpečeno
+- VPN server / VPN klient
+- VPN server ověřuje správnost přístupu (login/heslo)
+- protokoly
+    - IPsec VPN
+    - SSL VPN (využívá buď SSL, HTTPS nebo TLS)
+    - Secure Socket Tunneling Protoco
