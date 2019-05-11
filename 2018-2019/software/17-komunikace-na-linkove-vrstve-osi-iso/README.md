@@ -514,3 +514,49 @@ již se nevyrábí!
     - Store-and-forward - přijme celý rámec, uloží do bufferu, ověří se kontrolní součet (případně zahodí)
 - switch nijak nemění procházející data, nedochází k adresaci atd., může data pouze kontrolovat
 - **některé switche pracují i na síťové vrstvě (layer L3)**
+
+#### 7.1 Propojování switchů
+
+Pomocí Up-Link (speciální port s vyšší propustností), nouzově pomocí normálního portu (nevhodné - vyšší nároky na průchodnost dat)
+
+1. uplink - bude akorát více záznamů v CAM tabulce pro daný port
+    - ideální zapojení do stromu
+2. agregace **musí podporvat switch**
+    - sváže několik portů do jednoho logického (*port trunk group*)
+    - teoreticky vyšší přenosová rychlost a také bezpečnost (přerušení jednoho kabelu)
+3. redundance **musí podporvat switch**
+    - pokud přestane fungovat celý switch = výpadek velké části sítě (ve stromové struktuře)
+    - nadbytečně propojíme switche mezi sebou
+    - změna topologie ze stromu na strom+kruh
+    - **nebezpečí smyček**
+        - k cíli již neexistuje jedna cesta, ale několik
+        - **pokud switch neumí redudanci - data budou pro jednoho hosta vyslána více porty**
+        - vznikne nekonečná smyčka, zacyklení a z toho broadcastová bouře (znemožní chod celé sítě)
+        - proto nastavit, že při normálním chodu, se redudantní spojení nevyužívá!
+        - řesí SPT (Spanning Tree Protocol)
+        - nepovolí přenos smyčkami pokud existuje nejkratší cesta
+        
+#### 7.2 Protokol SPT
+
+- Spanning-tree algoritmus - vytvoření logické topologie bez smyček
+- STP ustanoví kořenový uzel - root bridge – jeden switch
+- vytvoří topologii s jednou nejkratší cestou ke každému uzlu
+- označí port jako designated port – bude přeposílat frame (forward)
+- záložní port jako non-designated port 
+- redundandní spoje (non-designated port) jsou blokovány blocking state
+- selže-li nejkratší spojení
+    - vytvoří se nová topologie s novou nejkratší
+    - redundandní spoj je povýšen na nejkratší cestu
+
+Stavy portů (každý port jeden z pěti stavů)
+1. blocking state - dočasně blokováno
+2. listening state - poslouchání
+3. learning state - učení
+4. forwarding state - přeposílání
+5. disabled state - vypnutí
+
+Funkce portů
+1. root port - pouze jeden, nejkratší cesta
+2. disabled port - vypnutý, nebude použit jako záložní (např. koncové stanice)
+3. designated port - port na kterých je povoleno přenášet data mezi switchi, v každém segmentu - pouze jeden port, všechny zbývající jsou jako záložní
+4. non-designated port - alternativní (redundantní spoje)
