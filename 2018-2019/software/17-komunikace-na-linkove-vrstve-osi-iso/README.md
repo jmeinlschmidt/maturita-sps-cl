@@ -488,3 +488,29 @@ Příklad (50 zařízení, třída A)
 4. báze - třída A je **10.0.0.0 – 10.255.255.255**, takže vybereme například 10.0.100.0 (**musí končit nulou**) 
 5. broadcast (poslední adresa v subnetu) 10.0.100.63
 6. počet volných adres je 64 - 2 (báze a broadcast) **takže 62**
+
+#### 6. HUB (rozbočovač)
+již se nevyrábí!
+
+- aktivní prvek počítačové sítě (chová se tak **zároveň jako repeater - opakovač**)
+- **pracuje na fyzické vrstvě (layer L1)**
+- data z portu posílají na všechny ostatní porty - všechna zařízení vidí všechna síťová data, zbytečné přetěžování sítě atd.
+
+### 7. Switch (přepínač)
+
+- **pracuje na linkové vrstvě (layer L2)**
+- obsahuje CAM tabulku (Content Addressable Memory) - ke každému portu má přiřazenou MAC adresu
+- princip
+    1. přijde-li frame, přečtě zdrojovou MAC adresu
+    2. v tabulce vytvoří záznam portu a MAC adresy
+    3. podívá se na cílovou MAC adresu
+    4. podívá se do tabulky CAM; pokud najde, odešle na daný port
+    5. pokud nenajde, ale je propojení s dalším switchem - pošle jemu
+    6. pokud nenajde a není propojen - pošle na broadcast (v L2 je to FF:FF:FF:FF)
+- narozdíl od HUBu méně zatežuje síť, je bezpečnější
+- lze zaútočit MAC floodingem - dojde k zaplavení MAC adresami a switch se pak začně chovat jako HUB
+- metody přeposílání framů
+    - Cut-through - pošle tak jak přijde (bez kontroly chyb)
+    - Store-and-forward - přijme celý rámec, uloží do bufferu, ověří se kontrolní součet (případně zahodí)
+- switch nijak nemění procházející data, nedochází k adresaci atd., může data pouze kontrolovat
+- **některé switche pracují i na síťové vrstvě (layer L3)**
