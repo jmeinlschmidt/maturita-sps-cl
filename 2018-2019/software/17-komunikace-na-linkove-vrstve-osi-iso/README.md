@@ -560,3 +560,27 @@ Funkce portů
 2. disabled port - vypnutý, nebude použit jako záložní (např. koncové stanice)
 3. designated port - port na kterých je povoleno přenášet data mezi switchi, v každém segmentu - pouze jeden port, všechny zbývající jsou jako záložní
 4. non-designated port - alternativní (redundantní spoje)
+
+### 8. Routery (směrovače, brány)
+
+- **pracuje na síťové vrstvě (layer L3)**
+- přenos dat na základě IP adres
+- propojuje minimálně 2 podsítě (alespoň 2 síťové karty)
+- rozhodují do jaké sítě bude paket poslát a kudy
+- **brána (gateway) - adresa nejbližšího routeru (cesty do další sítě)**
+- port WAN - cesta do jiné sítě
+- PID (Process Identifier) - identifikátor každého procesu, komu jaký požadavek patří
+- **záměna adres a pidů se nazývá NAT (Network Address Translation)**
+- masquarade (síťový maškaráda), druh NATu (**dynamický NAT**)
+    - z vnitřní sítě přijde IP datagram s cílem v jiné LAN
+    - cílová adresa zůstává, zdrojová se změní za adresu routeru (brány) ve vnější LAN
+    - to samé se děje při dalším HOPu
+- informace uloženy ve směrovací tabulce
+- IPv6 už NAT nepotřebuje
+- pasivní vliv na bezpečnost sítě, není ale firewall!!!
+     - zvenčí nelze zjistit topologii sítě, ani se připojit na zařízení
+ - **statický NAT** - údaje se do směrovací tabulky zadávají ručně, při změně topologie nutno ručně přenastavit
+ - **dynamický NAT** - sám zjišťuje nejlepší cesty v síti
+ - směrovací protokol RIP (Routing Information Protocol)
+     - určování nejkratší cesty v síti podle počtu HOPů (HOP count), maximální počet 15
+     - více hopů EIGRP
