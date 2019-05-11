@@ -57,9 +57,18 @@
         - **není rušení el. mag. polem! - je to světlo**
 - signál
 
-### 3. Kabeláž - kroucená dvojlinka
-Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, snížení rušení. Mb/s  Mbps (per second) Gb/s Gbps. !!! G**B**/s  = 8 x G**b**/s.
+### 3. Kabeláž
 
+Kroucená dvojlinka - TP (twisted pair).
+
+Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů.
+
+```
+Mb/s  Mbps (per second) Gb/s Gbps
+GB/s  = 8 x Gb/s.
+```
+
+#### 3.1 Rozdělení
 - typ vodiče
     - drát (jeden kus mědi, nelze ohýbat příliš často, láme se)
     - licna (hodně malých drátků - lepší pro propojení, lze ohýbat, namáhat, neláme se, ale větší útlum - jen na menší vzdálenosti)
@@ -75,82 +84,80 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
     - F/FTP - fólie okolo celého kabelu a fólie kolem každého páru
     - S/FTP - opletení okolo celého kabelu a fólie kolem každého páru
     - SF/FTP - fólie a opletení okolo celého kabelu a fólie kolem každého páru
-- kategorie
-    - CAT 1 (telefonní linky, max 100 kHz)  (třída A)
-    - CAT 2 (digitální přenos zvuku, max 1 MHz)  (třída B)
-    - CAT 3  (třída C)
-        - až 16 MHz
-        - převážně v 90. letech pro telefonní linku, lze se s ní setkat dodnes
-        - 10BASE-T
-        - 100BASE-T4 při využití 4 párů
-        - standardně UTP
-        - - **TIA/EIA-568-B**
-    - CAT 4 (velmi rychle nahrazena CAT 5, často se ani neuvádí)
-        - až 20 MHz
-        - 10BASE-T
-        - 100BASE-T4 při využití 4 párů
-        - standardně UTP
-    - CAT 5
-        - až 100 MHz
-        - 10BASE-T and 100BASE-TX při využití dvou párů (díky tomu lze teoreticky udělat 2x100BASE-TX); každý pár pro jeden směr - full duplex (max 100 m)
-        - 1000BASE-T při využití 4 párů (vzdálenost není definována)
-        - využívá se 8P8C konektor (RJ45)
-        - standardně UTP
-        - **TIA/EIA-568-B**
-    - CAT 5e (třída D)
-        - zhruba stejné parametry jako CAT 5
-        - vyšší nároky na výrobu, nižší impedance, menší přeslechy atd. => větší šance, že se povede dosáhnout 1000BASE-T
-        - využívá se 8P8C konektor (RJ45)
-        - standardně UTP nebo STP
-        - **TIA/EIA-568-B**
-    - CAT 6 (třída E)
-        - až 250 MHz
-        - 10/100/1000BASE-T do 100 m
-        - 10GBASE-T do 55 m
-        - využívá se 8P8C konektor (RJ45)
-        - standardně UTP nebo STP
-        - **ISO/IEC 11801 2nd Ed. (2002), ANSI/TIA 568-B.2-1**
-        - *nejčastěji instalovaný kabel ve Finsku*
-    - CAT 6a (třída Ea)
-        - až 500 MHz
-        - vznik 2009
-        - 10/100/1000/10GBASE-T do 100 m
-        - menší útlum než CAT 6, tj. zvládne to samé, ale na delší vzdálenost
-        - využívá se 8P8C konektor (RJ45)
-        - standardně UTP, F/UTP nebo U/FTP
-        - **ISO/IEC 11801 2nd Ed. Am. 2. (2008), ANSI/TIA-568-C.1 (2009)**
-    - CAT 7 (třída F)
-        - až 600 MHz (při využití konektorů GG45, ARJ45, nebo TERA)
-        - vznik 2002
-        - 10/100/1000/10GBASE-T do 100 m
-        - GG45, ARJ45, nebo TERA konektory využivá velmi málo hardwaru (specializovaný hardware, vysoká cena)
-        - kompatibilní s 8P8C konektorem (RJ45), ale nedochází k využití maximální frekvence; vzhledem k tomu je cenově výhodnější využít CAT 6a (pokud není potřeba extra stínění)
-        - standardně S/FTP nebo F/FTP
-        - **ISO/IEC 11801 2nd Ed. (2002); TIA/EIA nepopisuje**
-    - CAT 7a (třída Fa)
-        - až 1000 MHz
-        - vznik 2010
-        - záměr pro budoucí podporu 40Gbase-T
-        - měření potvrdilo podporu 40Gbase-T do 50 m
-        - a 100 GbE do 15 m
-        - oficálně však 40Gbase-T nepodporuje
-        - nejsou komerční zařízení, co by CAT 7a podporovala
-        - standardně S/FTP nebo F/FTP
-        - **ISO/IEC 11801 2nd Ed. (2008); TIA/EIA nepopisuje**
-    - CAT 8 (třída I a třída II)
-        - až 2000 MHz
-        - 25GBASE-T / 40GBASE-T
-        - Třída I (CAT 8.1) - plně kompatibilní s CAT 6a (pomocí 8P8C konektoru - RJ45)
-            - standardně provedení F/UTP nebo U/FTP
-            - **ANSI/TIA-568-C.2-1, ISO/IEC 11801-1:2017**
-        - Třída II (CAT 8.2) - plně kompatibilní s CAT 7a (pomocí konektoru TERA nebo GG45)
-            - standardně provedení S/FTP nebo F/FTP
-            - **popisuje pouze ISO/IEC ISO/IEC 11801-1:2017, nikoliv TIA/EIA**
-- zapojení párů
-    - Norma EIA/TIA 568A (USA) 
-    - Norma EIA/TIA 568B (Evropa)
-    - vždy se střídá dvoubarevný s jednobarevným
-    - crossover - využije se na jedné straně norma A a na druhé straně norma B (využití pro propojení dvou síťových zařízení, v dnešní době již není potřeba, síťová karta to pozná sama)
+    
+#### 3.2 Kategorie
+- CAT 1 (telefonní linky, max 100 kHz)  (třída A)
+- CAT 2 (digitální přenos zvuku, max 1 MHz)  (třída B)
+- CAT 3  (třída C)
+    - až 16 MHz
+    - převážně v 90. letech pro telefonní linku, lze se s ní setkat dodnes
+    - 10BASE-T
+    - 100BASE-T4 při využití 4 párů
+    - standardně UTP
+    - **TIA/EIA-568-B**
+- CAT 4 (velmi rychle nahrazena CAT 5, často se ani neuvádí)
+    - až 20 MHz
+    - 10BASE-T
+    - 100BASE-T4 při využití 4 párů
+    - standardně UTP
+- CAT 5
+    - až 100 MHz
+    - 10BASE-T and 100BASE-TX při využití dvou párů (díky tomu lze teoreticky udělat 2x100BASE-TX); každý pár pro jeden směr - full duplex (max 100 m)
+    - 1000BASE-T při využití 4 párů (vzdálenost není definována)
+    - využívá se 8P8C konektor (RJ45)
+    - standardně UTP
+    - **TIA/EIA-568-B**
+- CAT 5e (třída D)
+    - zhruba stejné parametry jako CAT 5
+    - vyšší nároky na výrobu, nižší impedance, menší přeslechy atd. => větší šance, že se povede dosáhnout 1000BASE-T
+    - využívá se 8P8C konektor (RJ45)
+    - standardně UTP nebo STP
+    - **TIA/EIA-568-B**
+- CAT 6 (třída E)
+    - až 250 MHz
+    - 10/100/1000BASE-T do 100 m
+    - 10GBASE-T do 55 m
+    - využívá se 8P8C konektor (RJ45)
+    - standardně UTP nebo STP
+    - **ISO/IEC 11801 2nd Ed. (2002), ANSI/TIA 568-B.2-1**
+    - *nejčastěji instalovaný kabel ve Finsku*
+- CAT 6a (třída Ea)
+    - až 500 MHz
+    - vznik 2009
+    - 10/100/1000/10GBASE-T do 100 m
+    - menší útlum než CAT 6, tj. zvládne to samé, ale na delší vzdálenost
+    - využívá se 8P8C konektor (RJ45)
+    - standardně UTP, F/UTP nebo U/FTP
+    - **ISO/IEC 11801 2nd Ed. Am. 2. (2008), ANSI/TIA-568-C.1 (2009)**
+- CAT 7 (třída F)
+    - až 600 MHz (při využití konektorů GG45, ARJ45, nebo TERA)
+    - vznik 2002
+    - 10/100/1000/10GBASE-T do 100 m
+    - GG45, ARJ45, nebo TERA konektory využivá velmi málo hardwaru (specializovaný hardware, vysoká cena)
+    - kompatibilní s 8P8C konektorem (RJ45), ale nedochází k využití maximální frekvence; vzhledem k tomu je cenově výhodnější využít CAT 6a (pokud není potřeba extra stínění)
+    - standardně S/FTP nebo F/FTP
+    - **ISO/IEC 11801 2nd Ed. (2002); TIA/EIA nepopisuje**
+- CAT 7a (třída Fa)
+    - až 1000 MHz
+    - vznik 2010
+    - záměr pro budoucí podporu 40Gbase-T
+    - měření potvrdilo podporu 40Gbase-T do 50 m
+    - a 100 GbE do 15 m
+    - oficálně však 40Gbase-T nepodporuje
+    - nejsou komerční zařízení, co by CAT 7a podporovala
+    - standardně S/FTP nebo F/FTP
+    - **ISO/IEC 11801 2nd Ed. (2008); TIA/EIA nepopisuje**
+- CAT 8 (třída I a třída II)
+    - až 2000 MHz
+    - 25GBASE-T / 40GBASE-T
+    - Třída I (CAT 8.1) - plně kompatibilní s CAT 6a (pomocí 8P8C konektoru - RJ45)
+        - standardně provedení F/UTP nebo U/FTP
+        - **ANSI/TIA-568-C.2-1, ISO/IEC 11801-1:2017**
+    - Třída II (CAT 8.2) - plně kompatibilní s CAT 7a (pomocí konektoru TERA nebo GG45)
+        - standardně provedení S/FTP nebo F/FTP
+        - **popisuje pouze ISO/IEC ISO/IEC 11801-1:2017, nikoliv TIA/EIA**
+        
+#### 3.3 Normy
 - Ethernet 10BASE-T (10 Mb/s)
     - vyhrazené 2 páry (1 TX; 1 RX)
     - vodiče 1, 2, 3 a 6
@@ -160,7 +167,13 @@ Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, s
 - Gigabit Ethernet
     - vyhrazené všechny 4 páry (1 TX; 1 RX; 2 Bi - obousměrné, karty se dohodnou)
     - podpora PoE (Power Over Ethernet)
-    
+
+#### 3.4 Zapojení
+- Norma EIA/TIA 568A (USA) 
+- Norma EIA/TIA 568B (Evropa)
+- vždy se střídá dvoubarevný s jednobarevným
+- crossover - využije se na jedné straně norma A a na druhé straně norma B (využití pro propojení dvou síťových zařízení, v dnešní době již není potřeba, síťová karta to pozná sama)
+
 ### 4. WiFi
 Wireless Fidelity. Využití v místě, kde nelze kabel.
 
@@ -342,11 +355,83 @@ Základní metody zabezpečení (čím více použitých metod, tím více přek
         - personal (malé domací sítě - pouze heslo)
         - enterprise (rozšířené autentizace - jméno/heslo) - řeší RADIUS server (protokol AAA), server buď přihlášení přijme nebo odmítne
 
-### 5. ISO/OSI referenční model
+### 5. ISO/OSI
+
+#### 5.1 Referenční model
+
 1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
 2. prezentační vrstva (upravení dat do podoby, kterou program vyžaduje - šifrování, serializace XML, JSON atd.)
 3. relační vrstva (navazování, udržování a zavírání spojení; protokoly L2TP, SOCKS - websockety)
 4. transportní vrstva (TCP, UDP) -> **čísla portů, TCP/UDP segment**
 5. síťová vrstva (protokoly IP, IPSec) -> **IP adresy, paket**
-6. linková vrstva (bridge, switch) -> **MAC adresy, datagram*
+6. linková vrstva (bridge, switch) -> **MAC adresy, datagram**
 7. fyzická vrstva (fyzická kabeláž, přenos dat, signál atd.) -> **frame**
+
+#### 5.2 Protokoly
+
+#### 5.3 IPv4
+Internet protocol verze 4
+
+- 32 bitové adresy
+- binárně (`10000000.00001010.00000000.00000001`)
+- decimálně 4 byte (128.10.0.1)
+- každý byte se nazývá „okten“ / „oktet“ (z leva)
+- 192.168.10.**0** - adresa sítě
+- 192.168.10.**133** - adresa uzlu
+- veřejné IP adresy
+    - viditelné z WANu
+    - celkem 2^32 (cca 4 294 967 296)
+    - **docházejí**
+- privátní IP adresy
+    - nejsou viditelné z WANu
+    - mohou se v různých LAN sítích opakovat 
+    - řeší nedostatek IPv4
+    - třídy
+        - A: **10.0.0.0 – 10.255.255.255** (počet adres 16 777 216)
+        - B: **172.16.0.0 – 172.31.255.255** (počet adres 1 048 576)
+        - C: **192.168.0.0 – 192.168.255.255** (počet adres 65 536)
+
+#### 5.4 IPv6
+Internet protocol verze 6
+
+- 128 bitové adresy
+- osm 16-ti bitových polí
+- `FEA1:122B:0000:0000:0000:0000:4A51:1022 = FEA1:122B::4A51:1022`
+- není zatím nasazen jako standard
+
+#### 5.5 Návrh LAN sítí
+- = podsíť / subnet / subnetwork
+- význam subnetu - **uzly mohou vzájemně komunikovat bez potřeby chodit přes bránu (gateway)!**
+- routování - přechod mezi subnety
+- maska
+    - pro třídu A - 255.0.0.0 (je volný 2, 3 a 4. okten)
+    - pro třídu B - 255.255.0.0 (je volný 3 a 4. okten)
+    - pro třídu C - 255.255.255.0 (je volný pouze 4. okten)
+- prefix (zjednodušený zápis masky)
+    - maska (binárně) - `11111111. 11111111. 11111111.00000000`
+    - počet jedniček - 24
+    - tj. zápis např `198.114.67.0/24`
+- neplatné masky např. `11111111.11111111.11110111.11000000` tj. **počet zařízení vždy sudý!**
+- význam omezení 4. oktetu - bezpečnost (omezení počtu zařízení)
+    - jakmile je IP adresa jednou využita, nelze ji využít jinde
+
+
+Výpočet počtu zařízení podle prefixu
+- 2^n - 2 (báze a broadcast)
+- n = počet nul v masce
+- příklad
+    - `prefix /27` je 27 jedniček (tj. 32 bitů - 27 jedniček je 5 nul)
+    - 2^5 je 32
+    - 32 - 2 je **30 zařízení**
+
+Příklad (50 zařízení, třída A)
+1. nejbližší vyšší počet 50 je 64
+2. maska 256 - 64 je 192 tj. 255.255.255.192
+3. prefix pro 64 je `/26`
+    - je potřeba odvodit
+    - 256 ... `/24`
+    - 128 ... `/25`
+    - 64 ... `/26`
+4. báze - třída A je **10.0.0.0 – 10.255.255.255**, takže vybereme například 10.0.100.0 (**musí končit nulou**) 
+5. broadcast (poslední adresa v subnetu) 10.0.100.63
+6. počet volných adres je 64 - 2 (báze a broadcast) **takže 62**
