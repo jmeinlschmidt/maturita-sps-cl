@@ -363,12 +363,45 @@ Základní metody zabezpečení (čím více použitých metod, tím více přek
 2. prezentační vrstva (upravení dat do podoby, kterou program vyžaduje - šifrování, serializace XML, JSON atd.)
 3. relační vrstva (navazování, udržování a zavírání spojení; protokoly L2TP, SOCKS - websockety)
 4. transportní vrstva (TCP, UDP) -> **čísla portů, TCP/UDP segment**
-5. síťová vrstva (protokoly IP, IPSec) -> **IP adresy, paket**
+5. síťová vrstva (protokoly IP, IPSec, ARP, ICMP atd.) -> **IP adresy, paket**
 6. linková vrstva (bridge, switch) -> **MAC adresy, datagram**
 7. fyzická vrstva (fyzická kabeláž, přenos dat, signál atd.) -> **frame**
 
 #### 5.2 Protokoly
-
+- protokol - pravidla pro elektronickou komunikaci
+- handshake - automatický proces vyjednávání
+- síťová vrstva
+    - datagramy putují sítí nezávisle na sobě
+    - pořadí doručení **nemusí** odpovídat pořadí ve zprávě
+    - bezpečné doručení datagramu není zaručeno (zajišťuje až **transportní vrstva**)
+    - protokol IPv4 a IPv6 - adresace pomocí IP adres
+    - protokol ARP (Address Resolution Protocol)
+        - **přiřadí IP adresu k MAC adrese**
+        - ARP dotaz nepřekročí hranice dané podsítě
+    - protokol RARP (Reverse Address Resolution Protocol)
+        - opačná funkce ARP (**přiřadí MAC adresu k IP adrese**)
+        - využívá např. DHCP
+        - RARP server obsahuje databázi MAC adres
+    - protokol ICMP (Internet Control Message Protocol)
+        - potřebný počítač nebo router je/není dostupný
+        - `ping` - Echo Request / Echo Reply
+        - `traceroute`
+- transportní vrstva
+    - protokol TCP (Transmision Control Protocol)
+        - spojovaná služba
+        - naváže spojení
+        - vytvoří virtuální okruh na dobu spojení
+        - okruh je plně duplexní
+        - čísluje přenášené datagramy
+        - znovu vyžádá ztracená/poškozená data
+        - kontroluje integritu pomocí kontrolního součtu
+        - přenos je **orientován na spolehlivost**
+    - protokol UDP (User Datagram Protocol)
+        - bez záruky na přenos dat
+        - bez záruky, na pořadí doručených datagramů, že se nedoručí vícekrát, že se netratí atd.
+        - vhodný na streamy dat, kde server nevyžaduje odpověď
+    - RUDP (něco mezi TCP a UDP)
+    
 #### 5.3 IPv4
 Internet protocol verze 4
 
