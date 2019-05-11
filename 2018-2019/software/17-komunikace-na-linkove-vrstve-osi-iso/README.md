@@ -624,4 +624,37 @@ Funkce portů
 - protokoly
     - IPsec VPN
     - SSL VPN (využívá buď SSL, HTTPS nebo TLS)
-    - Secure Socket Tunneling Protoco
+    - Secure Socket Tunneling Protocol
+    
+#### 12. Diagnostika sítě
+
+- v cmd příkazy ipconfig -all zobrazí veškeré informace o aktuální síti
+- příkaz ping ověří, že "vidí" zařízení na dané IP adrese
+
+LEDky síťové karty blikají
+
+- ovladač OS, propojení plné funkční
+- zkontrolujeme nastavení sítě
+  - IP adresa (neplatná IP/maska/DNS)
+
+LEDky síťové karty stále svítí
+
+- poškozený/nevhodný TP kabel
+- ovladač-driver karty korektně nefunguje
+- zkontrolujeme
+  - změna kabelu
+  - funkčnost karty
+  - ping 127.0.0.1
+    - není li typ v pořádku
+      - závada ovladače síťové karty
+      - aktualizovat ovladače karty
+      - přeinstalovat ovladače
+
+Síťová karta
+
+- ipconfig /all
+- PC v subnetu ping, arp
+- brána routeru: ping
+- pc mimo náš subnet: ping tracert
+  - zjistíme, kde se nám ping zastaví
+  - "násobný ping" na další a další brány
