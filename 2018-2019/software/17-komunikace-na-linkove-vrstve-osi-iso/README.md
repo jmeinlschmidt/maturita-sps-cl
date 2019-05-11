@@ -176,7 +176,7 @@ Wireless Fidelity. Využití v místě, kde nelze kabel.
     - IEEE 802.11b-1999 - až 11 Mb/s [**WiFi 1**]
     - IEEE 802.11g-2003 - až 54 Mb/s [**WiFi 3**]
 - IEEE 802.11n-2009 2.4/5 Ghz - až 600 Mb/s v závislosti na počtu antén, typu modulace, pásma, šířce kanálu atd. (MIMO) [**WiFi 4**]
-- kanály IEEE 802.11 v pásmu 5 GHz
+- IEEE 802.11 v pásmu 5 GHz
      - IEEE 802.11a-1999 - až 54 Mb/s [**WiFi 2**]
      - IEEE 802.11ac (2013) [**WiFi 5**]
          - podporuje šířky pásem 20, 40, 80 a 160 MHz
@@ -185,7 +185,30 @@ Wireless Fidelity. Využití v místě, kde nelze kabel.
          - hustější modulace až 256-QAM
          - až 6.77 Gb/s pro agregaci (pro MU-MIMO)
          - až 3466.8 Mb/s pro jednoho klienta (160 MHz, 4 samostatné datové toky)
-     - IEEE 802.11ax (2019) [**WiFi 6**]
+     - IEEE 802.11ax (2019) [**WiFi 6**] [ještě nevyšla]
+- kanály 2.4 GHz
+    - Český telekomunikační úřad povoluje v bezlicenčním pásmu využívat **13 kanálů** (2412 - 2472 MHz), vzájemně posunuty o 5 MHz
+        - kanál 1 - 2412
+        - kanál 2 - 2417
+        - atd. (*viz obrázek*)
+    - Český telekomunikační úřad stanovuje maximální vysílací výkon na **20 dBm** (decibel nad miliwatten) neboli **100 mW** ve zmíněném pásmu
+    - jednotlivé kanály se překrývají (šírka 22 MHz) = **vzájemné rušení**
+        - kanály, které se při šířce 22 MHz nepřekrývají - 1, 6 a 11 (*viz obrázek*)
+    - velmi časté zaneřádění pásma, vysílače se navzájem překrývají atd.
+    - časté rušení od mikrovlnek atd.
+    - výhodou je delší vlnová délka - tj. větší dosah, ale menší rychlost
+- kanály 5 GHz
+    - Český telekomunikační úřad povoluje v bezlicenčním pásmu využívat frekvence
+        - 5150 MHz až 5350 MHz - pouze uvnitř budov (povolen vysílací výkon 200 mW střední e.i.r.p.)
+        - 5470 MHz až 5855 MHz - mimo budovy (standard IEEE 802.11a) (*jiné vysílací výkony...*)
+    - to se rovná více nepřekrývaných kanálů
+    - vhodné do míst, kde nejsou překážky, kratší vzdálenosti
+    - menší zaneřádění pásma a rušení
+    - vyšší rychlosti na kratší vzdálenosti
+- WiFi je **half-duplex**! (definuje norma 802.11)
+   - full-duplex - stále výsada kabelů (část párů pro přenos jedním směrem, část druhým)
+   - teoreticky lze udělat full duplex (v reálném světe se standardně nevyužívá) - vyhradit jeden kanál pro přenos jedním směrem a druhý pro přenos druhým směrem (*vyžaduje další vysílač a příjmáč!*)
+- pro řešení přenosu dat v **half-duplexu** se využívá protokol CSMA (v ethernetu), CSMA/CA (ve WiFi), abych nedocházelo ke **kolizím** při přenosu dat v daném směru, uzly nejsou schopny naráz vysílat a příjmat
 
 ### 5. ISO/OSI referenční model
 1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
