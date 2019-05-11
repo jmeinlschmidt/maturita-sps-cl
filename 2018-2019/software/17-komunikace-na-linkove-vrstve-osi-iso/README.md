@@ -58,7 +58,7 @@
 - signál
 
 ### 3. Kabeláž - kroucená dvojlinka
-Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, snížení rušení. Mb/s  Mbps (per second) Gb/s Gbps. !!! G**B**/s  = 8 x G**b**/s  !!!
+Důvod kroucení - vzájemné vyrušení el. mag pole, snížení přeslechů, snížení rušení. Mb/s  Mbps (per second) Gb/s Gbps. !!! G**B**/s  = 8 x G**b**/s.
 
 - typ vodiče
     - drát (jeden kus mědi, nelze ohýbat příliš často, láme se)
@@ -172,6 +172,9 @@ Wireless Fidelity. Využití v místě, kde nelze kabel.
     - simples - jednosměrný
     - half-duplex - obousměrný střídavý (vždy právě jeden směr)
     - full-duplex - obousměrný současný
+
+#### 4.1 Kanály IEEE 802.11
+
 - IEEE 802.11 v pásmu 2.4 GHz
     - IEEE 802.11b-1999 - až 11 Mb/s [**WiFi 1**]
     - IEEE 802.11g-2003 - až 54 Mb/s [**WiFi 3**]
@@ -205,10 +208,114 @@ Wireless Fidelity. Využití v místě, kde nelze kabel.
     - vhodné do míst, kde nejsou překážky, kratší vzdálenosti
     - menší zaneřádění pásma a rušení
     - vyšší rychlosti na kratší vzdálenosti
-- WiFi je **half-duplex**! (definuje norma 802.11)
-   - full-duplex - stále výsada kabelů (část párů pro přenos jedním směrem, část druhým)
-   - teoreticky lze udělat full duplex (v reálném světe se standardně nevyužívá) - vyhradit jeden kanál pro přenos jedním směrem a druhý pro přenos druhým směrem (*vyžaduje další vysílač a příjmáč!*)
-- pro řešení přenosu dat v **half-duplexu** se využívá protokol CSMA (v ethernetu), CSMA/CA (ve WiFi), abych nedocházelo ke **kolizím** při přenosu dat v daném směru, uzly nejsou schopny naráz vysílat a příjmat
+
+#### 4.2 CSMA/CA
+WiFi je **half-duplex**! (definuje norma 802.11)
+- full-duplex - stále výsada kabelů (část párů pro přenos jedním směrem, část druhým)
+- teoreticky lze udělat full duplex (v reálném světe se standardně nevyužívá) - vyhradit jeden kanál pro přenos jedním směrem a druhý pro přenos druhým směrem (*vyžaduje další vysílač a příjmáč!*)
+
+
+Pro řešení přenosu dat v **half-duplexu** se využívá protokol **CSMA (v ethernetu), CSMA/CA (ve WiFi)**, aby nedocházelo ke **kolizím** při přenosu dat v daném směru, uzly nejsou schopny naráz vysílat a příjmat.
+- vysílač naslouchá: zda-li jiné uzly již nevysílají
+- vysílá-li uzel: vysílač počká, než probíhající vysílání skončí
+- každý uzel informuje ostatní uzly o úmyslu vysílat
+- všechny uzly **vědí o vysílání dříve, než k němu dojde**
+
+
+#### 4.3 Antény
+
+Reálné ztráty signálu (útlum)
+1. fyzické překážky
+2. vlhkost
+    - nejvíce pohlcují signál mokré listnaté dřeviny
+3. interference signálu
+4. konektory
+5. útlum pigtailu (anténní kabel)
+6. útlum bleskojistky
+
+Kompenzance ztrát
+- vyšší vysílací výkon (max do limitu dle Českého telekomunikačního úřadu)
+- zisk vysílacích / příjmacích antén (max do limitu dle Českého telekomunikačního úřadu)
+
+Fresnellova zóna
+- přímá viditelnost není dostačující podmínka
+- = prostor bez překážek (**elipsoid kolem spojnice vysílacích/příjmacích bodů**)
+
+Šíření signálu
+1. všesměrové (360°)
+2. sektorové (30° až 180°)
+3. směrové (pod 10°)
+
+Všesměrové (360°)
+- tvar zploštělé koule okolo prutové antény (donut)
+- vhodný do míst s velkým počtem klientů, rozlehlá plocha
+- vhodné umístění doprostřed budovy (pozor - zdi deformují signál)
+
+Sektorové (30° až 180°)
+
+Směrové (pod 10°)
+
+#### 4.3 Módy bezdrátové komunikace
+
+Jednotlivé módy
+1. Ad-Hoc / Peer-to Peer Networking
+2. AP (Access Point) - přístupový bod
+3. WiFi router - gateway
+4. Klient
+5. Bridge - bezdrátový spoj
+6. MultiPoint Bridge 
+7. WDS (Wireless Distribution System)
+
+Ad-Hoc / Peer-to Peer Networking
+- WiFi síť neobsahuje žádný společný přístupový bod
+- uzle komunikují pouze mezi sebou (klient a server zároveň)
+
+AP – Access Point (přístupový bod)
+- v uvozovkách WiFi switch
+- uzle komunikují s jedním centrálním prvkem (AP)
+
+WiFi router - gateway
+- AP s NAT
+- uzle komunikují s jedním centrálním prvkem (AP)
+
+Klient
+- nejčastěji používaná funkce (vždyck bude více klientů než serverů)
+- přímo adaptéry PCI, PCI-e, USB apod.
+
+Bridge - bezdrátový spoj
+- specifikován v normě 802.11c 
+- transparentní propojení dvou počítačových sítí
+- bezdrátový spoj se tváří stejně, jako kdyby zde vedl klasický TP kabel
+- nastavení režimu
+    - zadáváme ethernetovou MAC adresa protějšího zařízení
+    - vznikne point-to-point WiFi spoj
+    - spoj je naprosto odolný proti pokusům o průnik
+    - do takovéhoto spoje již nelze připojit další zařízení
+
+MultiPoint Bridge
+- režim je podobný režimu Ad-Hoc / Peer-to Peer Networking 
+- všechny AP v síti - nakonfigurovány v tomto režimu
+- všechny body v síti jsou pak 100% transparentně spojeny
+
+WDS (Wireless Distribution System)
+- bezdrátové propojení dvou access pointů
+- lze připojit až 6 zařízení k jednomu AP
+- připojením dalších klientů – rychlost rapidně klesá
+- vytvořením WDS bridge – snížení reálné rychlosti na polovinu
+- použitelné je pro malé sítě
+    - kde nezáleží na rychlosti přenášených dat
+    - lepší řešení - **repeater nebo více AP**
+    
+SSID - Service Set Identifier
+- jedinečná identifikace AP – Textový řetězec 
+- čitelný všemi wifi klienty - broadcast
+- při vzájemné komunikaci - musí předávat tentýž SSID
+- BSS (Basic Service set) ESS (Extended Service Set):
+    - Konfigurace skupin klientů
+    - AP si předávají klienta  - podpora roamingu
+    - uživatelé skupiny ESS mohou volně cestovat mezi BSS
+    - přičemž je zachováno trvalé připojení 
+
 
 ### 5. ISO/OSI referenční model
 1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
