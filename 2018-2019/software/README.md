@@ -16,14 +16,14 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovan
 6. Kaskádové styly CSS
 7. Značkovací jazyk XML
 8. Databáze a dotazovací jazyk SQL
-9. Algoritmizace
-10. Datové struktury
-11. Vývojové diagramy, UML a návrhové vzory
-12. Řadící, třídící a vyhledávací algoritmy
-13. Strukturované programování
-14. Objektově orientované programování
-15. Událostmi řízené programování
-16. Webové aplikace
+9. [**ručně**] Algoritmizace
+10. [**ručně**] Datové struktury
+11. [**ručně**] Vývojové diagramy, UML a návrhové vzory
+12. [**ručně**] Řadící, třídící a vyhledávací algoritmy
+13. [**ručně**] Strukturované programování
+14. [**ručně**] Objektově orientované programování
+15. [**ručně**] Událostmi řízené programování
+16. [**ručně**] Webové aplikace
 17. [**hotovo**] Komunikace na linkové vrstvě OSI/ISO – aktivní prvky
 18. [**hotovo**] Komunikace na síťové vrstvě OSI/ISO – směrovače
 19. [**hotovo**] Bezdrátové sítě
