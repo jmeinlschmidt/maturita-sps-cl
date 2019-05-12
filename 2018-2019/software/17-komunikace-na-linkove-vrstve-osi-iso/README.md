@@ -222,6 +222,8 @@ Wireless Fidelity. Využití v místě, kde nelze kabel.
     - menší zaneřádění pásma a rušení
     - vyšší rychlosti na kratší vzdálenosti
 
+![kanaly 2.4 GHz](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/software/17-komunikace-na-linkove-vrstve-osi-iso/obrazky/obrazek-1.png "kanaly 2.4 GHz")
+
 #### 4.2 CSMA/CA
 WiFi je **half-duplex**! (definuje norma 802.11)
 - full-duplex - stále výsada kabelů (část párů pro přenos jedním směrem, část druhým)
