@@ -24,9 +24,9 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovan
 14. Objektově orientované programování
 15. Událostmi řízené programování
 16. Webové aplikace
-17. Komunikace na linkové vrstvě OSI/ISO – aktivní prvky
-18. Komunikace na síťové vrstvě OSI/ISO – směrovače
-19. Bezdrátové sítě
+17. [**hotovo**] Komunikace na linkové vrstvě OSI/ISO – aktivní prvky
+18. [**hotovo**] Komunikace na síťové vrstvě OSI/ISO – směrovače
+19. [**hotovo**] Bezdrátové sítě
 20. GNU/Linux – struktura, zavádění OS
 21. Windows – struktura, zavádění OS
 22. GNU/Linux – instalace a konfigurace OS
