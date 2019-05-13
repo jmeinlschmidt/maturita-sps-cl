@@ -72,15 +72,15 @@ Více uživatelů na 1 PC
     - označené jako **ring 0** (*= plný přístup k hardwaru, **privilegovaný režim***), ostatní programy mají ring > 0 (**neprivilegovaný režim**), pro přístup musí žádat jádro
     - jádro v adresáři `/boot`
 
-#### 2.2 Souborový systém
+### 3. Souborový systém
 
-Pravidla pro ukládání souborů na pevný disk
+#### 3.1 Pravidla pro ukládání souborů na pevný disk
 - kde na pevném disku je soubor uložen
 - jak se jmenuje a v jakém adresáři
 - kdo má jaká přístupová práva
 - každý oddíl musí mít vlastní souborový systém
 
-Kořenový adresář
+#### 3.2 Kořenový adresář
 - `/` root adresář (pouze jeden)
 - `/boot` obsahuje jádro `vmlinuz-xxx` a GRUB - zavaděč (boot loader) pro GNU/Linux
 - `/bin` základní spustitelné soubory nutné pro běh systému, pouze čtení (root může)
@@ -110,13 +110,13 @@ Kořenový adresář
 - `/usr` programové balíčky, aplikace
 - `/home` domovské adresáře uživatelů
 
-Značení
+#### 3.3 Značení
 - `/` root
 - `.` aktuální adresář
 - `..` nadřazený adresář
 - `~` tilda - domovský adresář
 
-Rozdělení
+#### 3.4 Rozdělení
 1. tradiční souborové systémy
 2. žurnálovací souborové systémy
 3. síťové souborové systémy
@@ -152,7 +152,7 @@ Virtuální souborové systémy
 - cílem poskytnout aplikacím stejný přístup k různým souborovém systémům
 - prováděno prostřednictvím jednotného API
 
-Soubory Linuxu
+#### 3.5 Soubory Linuxu
 - obyčejný soubor
     - rozlišují se velká a malá písmena
     - `.soubor` skrytý soubor
@@ -176,7 +176,7 @@ Soubory Linuxu
 - socket
     - soubor reprezentující síťové spojení
 
-Symbolika znakových zařízení
+#### 3.6 Symbolika znakových zařízení
 - konzole
     - `/dev/console` skutečná konzole
     - `/dev/tty` virtuální konzole
