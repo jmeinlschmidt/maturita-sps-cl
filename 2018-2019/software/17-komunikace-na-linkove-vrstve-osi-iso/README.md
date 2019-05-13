@@ -1,6 +1,6 @@
 # 17/25 - Komunikace na linkové vrstvě OSI/ISO - aktivní prvky
 ## Zadání
--	Komunikace na linkové vrstvě OSI/ISO
+- Komunikace na linkové vrstvě OSI/ISO
 - Aktivní prvky
 - Společná norma znalostí pro všechny okruhy
     - Kabeláž – typy, kategorie, normy, zapojení
