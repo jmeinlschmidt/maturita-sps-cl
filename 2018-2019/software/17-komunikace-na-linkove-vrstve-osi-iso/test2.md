@@ -3,7 +3,7 @@
 
 #### 5.1 Referenční model
 
-1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data*
+1. aplikační vrstva (FTP, SFTP, SSH, HTTP, HTTPS, DNS, DHCP, POP, IMAP, Telnet atd.) -> **aplikační data**
 2. prezentační vrstva (upravení dat do podoby, kterou program vyžaduje - šifrování, serializace XML, JSON atd.)
 3. relační vrstva (navazování, udržování a zavírání spojení; protokoly L2TP, SOCKS - websockety)
 4. transportní vrstva (TCP, UDP) -> **čísla portů, TCP/UDP segment**
