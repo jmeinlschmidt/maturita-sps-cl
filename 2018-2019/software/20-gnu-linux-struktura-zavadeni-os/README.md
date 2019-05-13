@@ -27,8 +27,8 @@ Základní části
 #### 1.3 Multitasking (multiúlohové OS)
 
 Je to souběžný běh více programů
-1. **skutečný multitasking** - více CPU, vykonávají úlohy nezávisle na sobě
-2. **preemptivní (přerušovaný) multitasking** - rychlá, přerušovaná činnost jednoho CPU
+1. skutečný multitasking - více CPU, vykonávají úlohy nezávisle na sobě
+2. preemptivní (přerušovaný) multitasking - rychlá, přerušovaná činnost jednoho CPU
 
 #### 1.4 Multiuživatelské systémy (multi-user OS)
 
