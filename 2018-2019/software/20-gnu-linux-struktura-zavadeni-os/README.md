@@ -334,7 +334,18 @@ Využívá se i na počítači, kde není žádné internetové připojení, př
 - konfigurujeme `/etc/init.d`
 - potřeba nastavit firewall
 
-### 8. Zavádění GNU/Linux
+### 8. Základní SW pro správu OS
+
+#### 8.1 Správce balíčků
+- package manager
+- jeden program může mít více balíčků (dependencies, závislosti)
+- Debian - Advanced Packaging Tool - `apt-get` nebo `apt`
+- `apt-get update`
+- `apt-get install`
+- `apt-get remove`
+- `apt-get upgrade`
+
+### 9. Zavádění GNU/Linux
 1. zapnutí PC
     - BIOS/UEFI - diagnostika HW, kontrola periferií
     - načte bootloader (zavaděč) v MBR (512 B)
