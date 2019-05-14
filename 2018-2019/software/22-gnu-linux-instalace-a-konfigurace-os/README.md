@@ -38,3 +38,8 @@
 - vybrat v BIOSu médium, ze kterého chceme instalovat (musí mít vlastní zavaděč - boot loader)
 
 #### 1.2 Struktura HDD
+
+#### 1.3 LBA vs CHS
+
+#### 1.4 BIOS vs UEFI
+
