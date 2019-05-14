@@ -157,7 +157,7 @@ Virtuální souborové systémy
     - rozlišují se velká a malá písmena
     - `.soubor` skrytý soubor
 - adresář (v terminologii Windows - *složka*)
-    - je soubor, který obsahuje odkazy na jiné soubory
+    - **seznam adresářů a souborů které obsahuje**
 - symbolický odkaz
     - odkaz na jiný soubor, řeší jádro linuxu
     - smazání, kopírovaní, změna se dotkne pouze odkazu, nikoli původního souboru
@@ -197,3 +197,40 @@ Symbolika blokových zařízení
 - CD mechaniky
     - `/dev/scd0`
     - `/dev/scd1`
+
+#### 3.7 Přístupová práva
+- každý uživatel unikátní `UID`
+- každá skupina unikátní `GID`
+- soubor v linuxu patří uživateli, který jej vytvořil (vlastnictví se dá změnit)
+- soubor v linuxu náleží ke skupině, kde je i uživatel (skupina lze taky změnit)
+- ostatní atributy souboru
+    - datum a čas vytvoření/změny
+    - vlastník UID, skupina GID
+    - uživatelská práva
+
+Uživatelská práva
+1. čtení - `r`
+2. zápis - `w`
+3. spouštění (vstup do adresáře) - `x`
+
+Definují se zvlášť pro
+1. uživatele
+2. skupinu
+3. ostatní
+
+### 4. Paměť
+
+#### 4.1 Rozdělení
+1. **FAP** - fyzický adresní prostor (fyzická operační paměť)
+2. **LAP** - logický adresní prostor (obohacený o **SWAP**)
+    - buď samostatný oddíl (např. některé distribuce Linuxu, rychlejší)
+    - nebo soubor (např. Windows)
+    
+#### 4.2 Práce s paměti
+- démon `kswapd`
+- je-li proces dlouho neaktivní, přesune z RAM do swapu
+- pokročilá činnost
+    - vytvoření swapu mkswap `/dev/hda3`
+    - používání swapu swapon `/dev/hda3`
+    - vypnutí swapu swapoff `/dev/hda3`
+- jinak OS proces sestřelí
