@@ -51,7 +51,7 @@ Více uživatelů na 1 PC
 
 Čím lehčí jádro, tím rychlejší, menší atd.
 
-Kernel
+Kernel (jádro)
 - vykonává neustále dokola instrukce v privilegovaném režimu (*= chráněném režimu*)
 - kontroluje např.
     - stav procesoru
@@ -65,17 +65,13 @@ Kernel
     - připravený (zatím mu nebyl přidělen strojový čas)
     - čekající (spící, blokovaný nebo čeká na spouštěcí událost)
 - poskytuje API (DirectX, OpenGL)
-
-Monolitické jádro
-- funguje jako celek
-- složené z modulů (modulárnost)
-- moduly lze vkládat a vyndavat přímo za běhu
 - označené jako **ring 0** (*= plný přístup k hardwaru, **privilegovaný režim***), ostatní programy mají ring > 0 (**neprivilegovaný režim**), pro přístup musí žádat jádro
 - jádro v adresáři `/boot`
-
-Mikrojádro
-- samotné jádro poskytuje jen základní funkčnost nezbytnou pro vykonávání služeb
-- definuje jednoduchou abstrakci hardwaru se soupravou primitivních funkcí
+- druhy jader
+    - monolitické jádro (ovladače zakomponovány do jednoho celku)
+    - modulární jádro (ovladače v modulech, lze přímo za běhu vyndavat a přidávat)
+    - jádro linuxu - něco mezi
+    - 
 
 
 ### 3. Souborový systém
