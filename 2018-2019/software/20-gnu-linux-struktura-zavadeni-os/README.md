@@ -209,14 +209,36 @@ Symbolika blokových zařízení
     - uživatelská práva
 
 Uživatelská práva
-1. čtení - `r`
-2. zápis - `w`
-3. spouštění (vstup do adresáře) - `x`
+1. čtení - `r` **4**
+2. zápis - `w` **2**
+3. spouštění (vstup do adresáře) - `x` **1**
 
 Definují se zvlášť pro
 1. uživatele
 2. skupinu
 3. ostatní
+
+`-rw-rw-r-- 1 harrach ahoj 482503 zář 14 23:14:59 vystup.pdf`
+
+- `-` mód souboru
+    - `-` normální soubor
+    - `d` adresář
+    - `c` znakové zařízení
+    - `b` blokové zařízení
+    - `l` symbolický odkaz
+- `rw-rw-r--` přístupová práva
+- `1` počet odkazů na soubor
+- `harrach` uživatel (vlastník)
+- `ahoj` skupina
+- `482503` velikost v bytech
+- zbytek datum zmeny a nazev
+
+```
+Příklad
+755
+
+Vlastník může vše, ostatní pouze čtení a spouštění atd.
+```
 
 ### 4. Paměť
 
