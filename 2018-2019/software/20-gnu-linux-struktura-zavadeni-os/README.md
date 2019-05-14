@@ -51,26 +51,32 @@ Více uživatelů na 1 PC
 
 Čím lehčí jádro, tím rychlejší, menší atd.
 
-1. Kernel
-    - vykonává neustále dokola instrukce v privilegovaném režimu (*= chráněném režimu*)
-    - kontroluje např.
-        - stav procesoru
-        - stav paměti
-        - stav I/O operací
-        - stav a požadavky IRQ (* = Interrupt Request*)
-        - stav a přidělování strojového času jednotlivým úlohám
-        - vyhodnocuje jejich prioritu a může ji měnit
-    - stavy procesů
-        - běžící (je mu přidělen strojový čas)
-        - připravený (zatím mu nebyl přidělen strojový čas)
-        - čekající (spící, blokovaný nebo čeká na spouštěcí událost)
-    - poskytuje API (DirectX, OpenGL)
-2. monolitické jádro
-    - funguje jako celek
-    - složené z modulů (modulárnost)
-    - moduly lze vkládat a vyndavat přímo za běhu
-    - označené jako **ring 0** (*= plný přístup k hardwaru, **privilegovaný režim***), ostatní programy mají ring > 0 (**neprivilegovaný režim**), pro přístup musí žádat jádro
-    - jádro v adresáři `/boot`
+Kernel
+- vykonává neustále dokola instrukce v privilegovaném režimu (*= chráněném režimu*)
+- kontroluje např.
+    - stav procesoru
+    - stav paměti
+    - stav I/O operací
+    - stav a požadavky IRQ (* = Interrupt Request*)
+    - stav a přidělování strojového času jednotlivým úlohám
+    - vyhodnocuje jejich prioritu a může ji měnit
+- stavy procesů
+    - běžící (je mu přidělen strojový čas)
+    - připravený (zatím mu nebyl přidělen strojový čas)
+    - čekající (spící, blokovaný nebo čeká na spouštěcí událost)
+- poskytuje API (DirectX, OpenGL)
+
+Monolitické jádro
+- funguje jako celek
+- složené z modulů (modulárnost)
+- moduly lze vkládat a vyndavat přímo za běhu
+- označené jako **ring 0** (*= plný přístup k hardwaru, **privilegovaný režim***), ostatní programy mají ring > 0 (**neprivilegovaný režim**), pro přístup musí žádat jádro
+- jádro v adresáři `/boot`
+
+Mikrojádro
+- samotné jádro poskytuje jen základní funkčnost nezbytnou pro vykonávání služeb
+- definuje jednoduchou abstrakci hardwaru se soupravou primitivních funkcí
+
 
 ### 3. Souborový systém
 
@@ -239,6 +245,10 @@ Příklad
 
 Vlastník může vše, ostatní pouze čtení a spouštění atd.
 ```
+
+- `chmod` change mode
+- `chown` change owner
+- `chgrp` change group
 
 ### 4. Paměť
 
