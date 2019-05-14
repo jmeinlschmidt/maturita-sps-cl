@@ -3,6 +3,19 @@
 -	GNU/Linux – struktura, zavádění OS
 - Význam OS, Informační systém, druhy OS, LIVE systémy
     - multiuživatelské systémy
+- Struktura OS Windows/Linux
+    - jádro – složení, fukce
+    - privilegovaný/neprivilegovaný režim
+    - vrstvy OS, správa:
+        - pamět, rozdělení, FAP,LAP, swap, systémové prostředky
+        - souborové systémy – rozdělení, popis, vlastnosti
+            - přístupová práva (adresáře, soubory, kvóty)
+            - typy souborů v OS
+            - adresářová struktura OS (významné adresáře W/L) 
+    - procesy, 
+    - komunikace
+    - GUI, CLI/CMD
+    - základní systémový SW pro správu OS
 
 ## Vypracováno
 
