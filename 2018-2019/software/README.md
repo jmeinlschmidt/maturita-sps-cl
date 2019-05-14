@@ -27,7 +27,7 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovan
 17. [**hotovo**] Komunikace na linkové vrstvě OSI/ISO – aktivní prvky
 18. [**hotovo**] Komunikace na síťové vrstvě OSI/ISO – směrovače
 19. [**hotovo**] Bezdrátové sítě
-20. GNU/Linux – struktura, zavádění OS
+20. [**hotovo**] GNU/Linux – struktura, zavádění OS
 21. Windows – struktura, zavádění OS
 22. GNU/Linux – instalace a konfigurace OS
 23. Windows – instalace a konfigurace OS
