@@ -360,13 +360,23 @@ Využívá se i na počítači, kde není žádné internetové připojení, př
 
 ### 9. Zavádění GNU/Linux
 1. zapnutí PC
-    - BIOS/UEFI - diagnostika HW, kontrola periferií
-    - načte bootloader (zavaděč) v MBR (512 B)
-2. bootloader GNU/Linux
-    - vejde-li se do MBR, název **LILO** (Linux Loader)
-    - pokud se nevejde - bootloader pouze odkáže na místo na disku
-        - hlavní zaváděcí program GRUB
-        - načte do paměti a spustí
+    - BIOS/UEFI - diagnostika HW, kontrola periferií (**POST**)
+    - výběr média (disk, USB, CD/DVD, síť atd.)
+    - načte bootloader (zavaděč) v MBR (*úplně první sektor zvoleného media*)
+2. zavaděč
+    - program spuštění po POST
+    - aktivuje jádro zvoleného operačního systému (nahraje ho do paměti)
+    - umístění
+        - pokud se vejde do jednoho sektoru, tak v MBR
+        - pokud ne, tak v MBR je pouze odkaz na místo na disku, kde je boot loader
+    - nemusí sloužit pouze k výběru OS, taky umožňuje spouštět jádra s určitými parametry
+    - na jednom stroji více OS (volba při startu)
+    - druhy
+        - NTLDR (Windows NT/2000/XP)
+        - GRUB (Linuxový nástupce LILO) - grafické rozhraní
+        - LILO (Linux Loader)
+        - XOSL - freeware zavaděč
+        - Windows Boot Manager (aktuální)
 3. kernel
     - detekuje hardware
     - připojí root adresář
