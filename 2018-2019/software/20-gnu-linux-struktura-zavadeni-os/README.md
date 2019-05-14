@@ -70,8 +70,7 @@ Kernel (jádro)
 - druhy jader
     - monolitické jádro (ovladače zakomponovány do jednoho celku)
     - modulární jádro (ovladače v modulech, lze přímo za běhu vyndavat a přidávat)
-    - jádro linuxu - něco mezi
-    - 
+    - **jádro linuxu - něco mezi, umožňuje vkládat moduly**
 
 
 ### 3. Souborový systém
@@ -246,6 +245,21 @@ Vlastník může vše, ostatní pouze čtení a spouštění atd.
 - `chown` change owner
 - `chgrp` change group
 
+#### 3.8 Uživatelé a skupiny
+- adresář `/home`, vše ostatní velmi omezený přístup
+- `/etc/passwd` login, uid, gid, jméno uživatele, adresář atd.
+- `/etc/shadow` zahashovaná hesla
+- `/etc/group` informace o skupinách, kdo kam patří
+- vykonání příkazu s právy roota
+    - `sudo`
+    - `su`
+- `adduser <uzivatel>` přidání uživatele
+- `deluser <uzivatel>` odebrání uživatele
+- `addgroup <skupina>` přidání skupiny
+- `delgroup <skupina>` odebrání skupiny
+- `adduser <uzivatel> <skupina>` přidání uživatele do skupiny
+- `cat /etc/group | grep <uzivatel>` zjištení, v jaké skupině je uživatel (pipe - roura)
+
 ### 4. Paměť
 
 #### 4.1 Rozdělení
@@ -262,3 +276,85 @@ Vlastník může vše, ostatní pouze čtení a spouštění atd.
     - používání swapu swapon `/dev/hda3`
     - vypnutí swapu swapoff `/dev/hda3`
 - jinak OS proces sestřelí
+
+### 5. Procesy
+- identifikovány PID
+- rodičem všech procesů je `/sbin/init` (PID 1, je zodpovědný za nastartováni celého systému)
+- procesy řídí jádro (přiděluje čas a systémové prostředky)
+- čas CPU - podle `niceness` (slušnost)
+    - nabývá hodnot od -20 do 19
+    - -20 = nejvíce času CPU
+- jen root může procesům nastavit méně než 0
+
+#### 5.1 Signály
+- mění chování procesů
+- `TERM` (požádá o vypnutí)
+- `KILL` (bez milosti sestřelí proces)
+
+#### 5.2 Démoni
+- procesy běžící na pozadí
+- uživatel je nemá pod kontrolou
+- konfigurační soubory zpravidla v `/etc/init.d`
+
+### 6. GUI a CLI
+- GUI pro GNU/Linux - unixový standard X Windows System
+    - označení `X11` nebo `X`
+    - X Server obsahuje X klienty
+    - **nezávislé komponenty**
+        - X Server (pouze X Server má přístup k ovladačům grafiky)
+        - knihovna Xlib
+        - **WindowManager (X klient)**, programy přes něj posílají své požadavky
+    - spadne-li X Server, je k dispozici pouze příkazová řádka
+    - X Server je možné znovu spustit
+    
+#### 6.1 Volby grafického prostředí
+- dle HW slabší PC (tj. jednoduché prostředí) nebo naopak (3D prostředí)
+- typy GUI
+    - KDE 4, KDE 3 (TDE) - 3D grafika, efekty, HW náročnější
+    - GNOME 3, GNOME 2, Classic - přívětivé prostředí
+    - Unity (nadstavbe Ubuntu) - nový kabát
+    - xfce, lxde - *minimální nároky na HW*
+    
+### 7. Komunikace (síťové prostředí)
+Využívá se i na počítači, kde není žádné internetové připojení, přes tzv. loopback `127.0.0.1`
+- data neopustí počítač
+- pro mnoho programů naprosto nezbytné
+
+#### 7.1 Druhy připojení
+- ethernet
+    - identifikujeme `ethX` (např. `eth0`)
+    - nastavujeme `ifconfig` a `route`
+- wifi 
+    - identifikujeme `wlanX` (např. `wlan0`)
+    - nastavujeme `iwconfig`
+
+
+#### 7.2 Servery
+- naslouchají na portech
+- konfigurujeme `/etc/init.d`
+- potřeba nastavit firewall
+
+### 8. Zavádění GNU/Linux
+1. zapnutí PC
+    - BIOS/UEFI - diagnostika HW, kontrola periferií
+    - načte bootloader (zavaděč) v MBR (512 B)
+2. bootloader GNU/Linux
+    - vejde-li se do MBR, název **LILO** (Linux Loader)
+    - pokud se nevejde - bootloader pouze odkáže na místo na disku
+        - hlavní zaváděcí program GRUB
+        - načte do paměti a spustí
+3. kernel
+    - detekuje hardware
+    - připojí root adresář
+    - spustí program `/sbin/init`
+    - z `/etc/inittab` zjistí, jaký runlevel spustit
+4. run levely
+    - startovací skripty
+    - určují které služby sputit
+    - `/etc/rcX.d` (X - číslo run levelu)
+    - obsahuje symbolické odkazy na `/etc/init.d`
+    - GNU/Linux celkem 6 bootovacích úrovní běhu
+        - `0` vypnutí počítače
+        - `1` jednouživatelský systém
+        - `2-5` individuální dle distribuce
+        - `6` restart počítače
