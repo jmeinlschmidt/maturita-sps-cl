@@ -41,5 +41,31 @@
 
 #### 1.3 LBA vs CHS
 
-#### 1.4 BIOS vs UEFI
+#### 1.4 BIOS a UEFI
+- rozdíl oproti BIOS, novější (je to náhrada)
+- podporuje Secure Boot
+- umožňujě využít GPT
 
+GPT (GUID Partition Table)
+- nahrazuje starší tabulku MPT (**Partition Table**; uložena v MBR)
+    - lze adresovat maximálně 2 TB disk
+    - maximálně 4 primární oddíly (jde z nich načíst OS)
+    - nebo 3 primární a jeden rozšířený, těch může být až 128 (ale nelze z nich spouštět OS)
+- umožňuje adresovat obrovské disky
+- až 128 oddílů
+- pracuje pouze s LBA
+- součást UEFI
+
+Secure Boot
+- UEFI tak umožňuje načtení jen ověřených softwarových komponent
+- např. nelze sputit ukradené Windows
+- naopak podporuje OEM instalace (OS zakoupený s např. notebookem)
+- až od Windows 8
+- klíč je přímo v paměti UEFI na desce
+
+#### 1.5 Druhy instalací
+
+### 2. Rozdělení disků
+význam,     připojení oddílů/disků (Linux)
+
+### 3. Základní poinstalační nastavení
