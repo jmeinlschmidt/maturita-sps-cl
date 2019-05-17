@@ -8,8 +8,8 @@
 Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
 
 ## Témata
-1. Rozdělení aplikací a softwarové licence
-2. Tabulkové procesory
+1. [**hotovo**] Rozdělení aplikací a softwarové licence
+2. [**hotovo**] Tabulkové procesory
 3. Rastrová grafika
 4. Vektorová grafika
 5. Značkovací jazyk HTML
@@ -32,7 +32,7 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat.. Zpracovan
 22. GNU/Linux – instalace a konfigurace OS
 23. Windows – instalace a konfigurace OS
 24. Bezpečnost - záloha a obnova dat
-25. Bezpečnost - ochrana OS
+25. [**hotovo**] Bezpečnost - ochrana OS
 
 ## Forma vypracování témat a přispívání
 Pro úspěšné připuštění k maturitní zkoušce z předmětu Hardware je potřeba v řádném nebo konečném termínu odevzdat **ručně** vypracováná a odborným dozorem schválená maturitní témata.
