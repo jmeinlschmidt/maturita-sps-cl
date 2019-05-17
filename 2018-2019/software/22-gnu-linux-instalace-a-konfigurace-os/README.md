@@ -69,3 +69,19 @@ Secure Boot
 význam,     připojení oddílů/disků (Linux)
 
 ### 3. Základní poinstalační nastavení
+
+### 4. Základní konfigurace OS
+- průběh/popis bootování OS, nastavení v BIOS/UEFI (SecureBoot)
+- konfigurační soubory ve Windows/Linuxu
+        - důležité kofig.soubory – umístění popis
+        - W: význam, struktura a údržba registrů
+        - konfigurace síťové karty – nastavení parametrů sítě
+    - GUI, CLI – konfigurační SW/ příkazy
+    - Instalace programů, utilit v OS Windows/Linux
+        - Windows Update/ repozitáře – popis, význam
+        - instalace CLI (Linux – manažer balíčků)
+        - SW – Licence, 
+    - Uživatelské profily/Účty:
+        - význam, druhy, nastavení, bezpečnost
+    - SBO – popis, význam, nastavení, použití
+    - Základní údržba OS – postupy
