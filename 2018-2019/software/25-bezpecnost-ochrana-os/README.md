@@ -115,6 +115,7 @@ FORWARD udp -d! 10.0.0.1 -j DROP
 - přidání na konec řetězu `iptables -A INPUT -p tcp -j DROP`
 - přidání na začátek řetězu `iptables -I INPUT -p icmp -j ACCEPT`
 - **je potřeba povolit loopback!!** `iptables -A INPUT -i lo -j ACCEPT`
+- zobrazení všech pravidel `iptables -L`
 - `--dport` cílový port
 - `--sport` zdrojový port
 
