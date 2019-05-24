@@ -10,7 +10,7 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 ## Témata
 Světová a česká literatura do konce 18. století
 
-1. [Shakespeare: Hamlet (překl. Erich Adolf Saudek)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/shakespeare-hamlet.md)
+1. **[doplnit ukázku]** [Shakespeare: Hamlet (překl. Erich Adolf Saudek)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/shakespeare-hamlet.md)
 2. **[doplnit ukázku]** [Moliére: Lakomec (překl. Erich Adolf Saudek)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/moliere-lakomec.md)
 
 Světová a česká literatura 19. století
@@ -33,7 +33,7 @@ Světová literatura (minimálně 4 literární díla)
 10. **[doplnit ukázku]** [Čapek Karel: R.U.R.](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_rur.md)
 11. **[doplnit ukázku]** [Čapek Karel: Válka s mloky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_valka-s-mloky.md)
 12. **[doplnit ukázku]** [Hrabal: Ostře sledované vlaky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/bohumil-hrabal_ostre-sledovane-vlaky.md)
-13. **[]** [Fuks: Spalovač mrtvol](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/fuks_spalovac-mrtvol.md)
+13. **[nevypracováno]** [Fuks: Spalovač mrtvol](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/fuks_spalovac-mrtvol.md)
 14. **[doplnit ukázku]** [Pavel Ota: Smrt krásných srnců](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/ota-pavel_smrt-krasnych-srncu.md)
 
 Další tituly podle své volby
@@ -41,6 +41,6 @@ Další tituly podle své volby
 15. **[doplnit ukázku]** [Borovský Havlíček: Král Lávra](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-havlicek-borovsky_kral-lavra.md)
 16. **[doplnit ukázku]** [Gogol: Revizor (prekl. Bohumil Mathesius)](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/gogol-revizor.md)
 17. **[doplnit ukázku/kontext]** [Wolker: Host do domu](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/wolker-host_do_domu.md)
-18. **[nevypracováno, ale vyzkoušen]** Viewegh: Báječná léta pod psa
+18. **[nevypracováno]** Viewegh: Báječná léta pod psa
 19. **[doplnit ukázku]** [Neruda: Balady a romance](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-balady_a_romance.md)
 20. **[doplnit ukázku]** [Neruda: Povídky malostranské](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/neruda-povidky_malostranske.md)
