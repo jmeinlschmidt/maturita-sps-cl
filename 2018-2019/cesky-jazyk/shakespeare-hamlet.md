@@ -11,19 +11,23 @@
 
 - **téma**
 
-Vliv techniky na lidstvo
+Pomsta za smrt Hamletova otce
 
 - **motiv**
 
-technika, lidský pokrok, zánik společnosti, lidé se přestanou rodit, roboti, neurčitá budoucnost, lidská morálka, lidský cit, láska
+Láska k otci, náboženské motivy, pomsta, rodina, souboj
 
 ### Časoprostor
 
-Neurčitá budoucnost na Rossumově ostrově. (= alegoricky říká co by se mohlo stát)
+Dánsko, hrad Elsinor. Přelom 16 a 17. století.
 
 ### Kompoziční výstavba
 
 Chronologický postup. **Jedná se o tragédii, takže 5 dějství!**
+
+Na začátku díla a každé scény seznam postav. Jednotlivé repliky. Nositelem děje jsou dialogy a scénické poznámky.** Dále časté monology Hamletových myšlenek.
+
+*Hamletovské dilema = být či nebýt. (je to ve 3. jednání)*
 
 ### Literární druh a žánr
 
@@ -37,41 +41,41 @@ Tragédie
 
 ### Vypravěč / lyrický subjekt
 
-Próza = vypravěč. V této hře se vypravěč nevyskytuje. Děj stojí na replikách jednotlivých postav. Dílo je doplněno scénickými poznámkami.
-
-Ve scénické poznámce je vždy uvedeno, kdo v daném dějství hraje.
+V této hře se vypravěč nevyskytuje. Děj stojí na replikách jednotlivých postav a scénických poznámkách.
 
 ### Postavy
 
 Nositelé morálních hodnot, životních postojů. Nejsou hlouběji popisovány.
 
-- **Roboti**
-    - Umělé bytosti podobné lidem
-    - Postrádají cit, lásku, necíti bolest
-    - Nemají systém hodnot
-    - Vystupují jako masa
-    - Původní účel sloužit lidem, usnadnit život
-- **Primus a Helena**
-    - První roboti u kterých se po úpravavách dr. Gallena začala projevovat láska a cit
-- **Harry Domin**
-    - Centrální ředitel R.U.R.
-    - Manžel Heleny
-    - Posedlý myšlenkou povznést člověka, zbavit jej dřiny, prosazuje roboty
-- **Helena Gloryová**
-    - Manželka Domina
-    - Soucítí s roboty, od začátku chce roboty zrovnoprávnit, dát jim cit a lásku
-    - Zastupuje cit, lásku, dobrý úmysl, ale nebrání se užívat si blahobyt od robotů
-- **stavitel Alquist**
-    - Jeho největší hodnoty naopak jsou lidský život a manuální práce, zastává rozumový přístup k životu
-    - Nehledá usnadnění života roboty
-    - Jeho jediného nechali roboti žít
-- **Dr. Gall**
-    - Přednosta výzkumného oddělení
-    - Na popud Heleny tajně rozvíjí inteligenci robotů
-- **Nána**
-    - Chůva Heleny, jediná používá hovorový, nikoli spisovný jazyk
-    - Robotů se štití a naopak ji přijdou děsiví
- - dále se vyskytují **Ing. Fabry, Busman, robot Radius, robotka Helena, robot Domin, robot Primus atd.**, jejich charaktery ale nejsou hlouběji popsány
+- **Hamlet**
+    - Princ Dánský
+    - Syn Gertrudy
+    - Poznamenala ho smrt otce, chce se pomstít
+    - Předstírá šílenství, aby nebyl odhalen, je považován za blázna
+- **Duch Hamletova otce**
+    - Nabádá Hamleta, aby pomstil otce, Hamlet se dozví pravdu
+    - Žádá ho, aby neublížil matce
+- **Claudius**
+    - Hamletův strýc, manžel Gertrudy, nový král
+    - Zavraždil svého bratra (krále) a zaujal jeho místo
+    - Má výčitky, pozná se při divadelní hře
+    - Hamlet se mu stal nepohodlný, snaží se ho zbavit
+- **Gertruda**
+    - Matka Hamleta
+    - Po smrti manžela truchlila jen krátce
+    - Znepokojena Hamletovým stavem
+- **Polonius**
+    - Otec Ofélie a Laerta
+    - Králův rádce
+    - Hamlet jej omylem zabije při rozhovoru se svojí matkou Gertrudou
+    - Tajně pochován
+- **Ofélie**
+    - Dcera Polonie, Laertova sestra
+    - Miluje Hamleta, ale on jí ne
+    - Po smrti svého otce zešíli a utone v řece
+- **Laertes**
+    - Chce se pomstít Hamletovi, spikne se s Claudiem
+    - V souboji se utká s Hamletem
 
 ### Vyprávěcí způsoby
 
