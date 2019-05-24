@@ -1,5 +1,6 @@
 # William Shakespeare - Hamlet
 - William Shakespeare [1564 – 1616]
+- Vydáno 1603
 
 ## Analýza uměleckého textu
 
@@ -7,7 +8,7 @@
 
 #### Stručný obsah
 
-Hamletův otec - dánský král, umírá za podezřelých okolností. Vše nasvědčuje tomu, že byl zavražděn svým bratrem Claudiem, který se oženil s ovdovělou královnou. Jedné noci se Hamletovi zjeví duch a poví mu pravdu a žádá, aby ho pomstil. Hamlet se rozhodne pomstít otcovu smrt a aby nebyl dopaden, předstírá šílenství spojené s Ofélií. Prožívá těžké duševní stavy - projevují se v jeho monolozích. Do města přijíždí divadelnící, Hamlet je žádá o divadelní inscenaci, při které se má Claudius poznat a svou reakcí usvědčit. Stane se tak. Při rozhovoru se svojí matkou někdo poslouchá za závěsem a Hamlet jej bodne nožem a zabije. Je to Polónius, otec milované Ofelie. Hamlet se stává nepohodlným a je Claudiem poslán do Anglie na popravu. Hamlet však dopis otevře, pozmění dopis pro anglického krále a pošle své opatrovníky na popravu. Hamlet se vrací a utkává se v souboji se synem Polónia - Laertem.
+Hamletův otec - dánský král, umírá za podezřelých okolností. Vše nasvědčuje tomu, že byl zavražděn svým bratrem Claudiem, který se oženil s ovdovělou královnou. Jedné noci se Hamletovi zjeví duch a poví mu pravdu a žádá, aby ho pomstil. Hamlet se rozhodne pomstít otcovu smrt a aby nebyl dopaden, předstírá šílenství spojené s Ofélií. Prožívá těžké duševní stavy - projevují se v jeho monolozích. Do města přijíždí divadelnící, Hamlet je žádá o divadelní inscenaci, při které se má Claudius poznat a svou reakcí usvědčit. Stane se tak. Při rozhovoru se svojí matkou někdo poslouchá za závěsem a Hamlet jej bodne nožem a zabije. Je to Polónius, otec milované Ofelie. Hamlet se stává nepohodlným a je Claudiem poslán do Anglie na popravu. Hamlet však dopis otevře, pozmění dopis pro anglického krále a pošle své opatrovníky na popravu. Hamlet se vrací a utkává se v souboji se synem Polónia - Laertem. Otrávené víno a Laertův meč. Královna se napije vína, umírá. Laert řekne Hamletovi, že Laertův meč je otráven a jelikož byl Hamlet seknut, tak také umírá. Zrada. Prohodí si meče. Hamlet probodne krále. **Nakonec všichni zemřou.** Hamletovi se dostane důstojného pohřbu. Střelba z děl.
 
 ### Téma a motiv
 
