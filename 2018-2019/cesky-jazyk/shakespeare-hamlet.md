@@ -79,7 +79,7 @@ Nositelé morálních hodnot, životních postojů. Nejsou hlouběji popisovány
 
 ### Vyprávěcí způsoby
 
-Přímá, polopřímá, nevlastní a nepřímá řeč, podle ukázky.
+Přímá řeč
 
 ### Typy promluv
 
@@ -87,40 +87,24 @@ Typy promluv u **dramatu** - dialog, monolog, replika, **scénická poznámka** 
 
 ### Veršovaná výstavba
 
-**Není**
+**Podle ukázky**
 
 ### Jazykové prostředky a jejich funkce ve výňatku
 
-XXX
+**Podle ukázky**
 
 ## Literárněhistorický kontext
 ### Kontext autorovy tvorby
 
-- [1921 [drama] R.U.R.](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_rur.md) - Ovlivněno první světovou válkou, varování před vlivem techniky na lidstvo
-- [1936 [román] Válka s mloky](https://github.com/jmeinlschmidt/maturita-sps-cl/blob/master/2018-2019/cesky-jazyk/karel-capek_valka-s-mloky.md) - Ovlivněno politickou situací, varování před rozpínavostí, nenasytností (= lidé si za své neštěstí můžou sami)
-- 1937 [drama] Bílá Nemoc - Nemoc mysli, přípravy na válku, fanatizace společnosti
+- **tragédie** - Romeo a Julie, Hamlet, Julius Caesar, Othello atd.
+- **komedie** - Sen noci svatojánské
+- **historické hry** - Richard II, III atd.
+- **Sonety (zvláštní schéma)**
 
 ### Literální / obecně kulturní kontext
 
-- **demokratický proud**
-    - = česká meziválečná próza
-    - = prolidová, soustředí se na lidství
-    - = tzv. pragmatisté, pragmatismus (= zaměření na užitečnost, smysl, staví do popředí lidské jednání)
-    - Karel Poláček [1892 – 1945] (*1946 Bylo nás pět*)
-        - Psal před odsunem do koncentračního tábora, vyšlo posmrtně
-        - Pohled na život v maloměstě očima dětí, částečná autobiografie
-        - Karikatura světa dospělých, satira až kritika maloměštáctví
-    - Eduard Bass [1888 – 1946] (*1941 Cirkus Humberto*)
-        - Oslavuje člověka (jednotlivce), jeho vytrvalost, pracovitost a píly
-        - Dodává sílu národu během okupace
-- **zakladatel československého odboru PEN klubu**
-    - nejstarší světová organizace na ochranu lidských práv
-    - celosvětové sdružení spisovatelů, žurnalistů a vydavatelů
-    - 1921 založeno v Londýně
-    - 1923 prvním českým členem Alois Jirásek (*1984 Staré pověsti české*)
-    - 1925 vznik československého odboru, prvním předsedou Karel Čapek
-    - 1942 rozpuštěn nacisty
-- **zakladatel pátečníků**
-    - označení pro kulturní a politické osobnosti první republiky z okruhu spisovatele Karla Čapka
-    - scházeli se každý pátek v Čapkovo vile od roku 1925 až do jeho smrti 1938
-    - Karel a Josef Čapkovi, T. G. Masaryk, Edvard Beneš, Ferdinand Peroutka, Eduard Bass, Karel Poláček, Jan Masaryk atd.
+- Humanismus a renesance
+    - Dante Alighieri - Božská komedie (Itálie)
+    - [soubor novel] Giovanni Boccaccio - Dekameron (Itálie)
+        - rámcová povídka
+    - [román] Cervantes - Důmyslný rytíř Don Quijote de la Mancha (Španělsko)
