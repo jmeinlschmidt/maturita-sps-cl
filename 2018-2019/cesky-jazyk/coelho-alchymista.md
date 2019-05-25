@@ -111,4 +111,5 @@ XXX
 ### Literální / obecně kulturní kontext
 - **magický realismus**
   - Gabriel García Márguez [1927 – 2014] - *nejvýraznější představitel magického realismu*
-  - novela Kronika ohlášené smrti, román Sto roků samoty
+      - novela Kronika ohlášené smrti, román Sto roků samoty
+  - Günter Grass - Plechový bubínek
