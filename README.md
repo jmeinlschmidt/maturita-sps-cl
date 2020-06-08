@@ -10,6 +10,7 @@ Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovan�
 - ~~2016/2017~~ *nevypracováno*
 - ~~2017/2018~~ *nevypracováno*
 - [2018/2019](2018-2019)
+- ~~2019/2020~~ *nevypracováno*
 
 ## Přispívání
 Příspívání obsahem, opravou obsahu či alespoň hlášením chyb je vítáno.  Přispívání musí obsahovat pouze stručné, podstatné a ověřené informace.
