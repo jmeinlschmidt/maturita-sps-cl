@@ -2,8 +2,10 @@
 - Studijní obor: 18-20-M/01 - Informační technologie
 - Škola: Střední průmyslová škola, Česká Lípa, Havlíčkova 426, p. o.
 
-## Odpovědnost autora
-Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
+## Úvod
+Neoficiální repozitář obsahující vypracované okruhy k maturitní zkoušce. Jakákoliv přispění (chybějící okruhy, nalezené chyby, překlepy) jsou vítána. 
+
+Repozitář je spravován studenty školy, avšak přispění ze strany učitelů je také vítáno.
 
 ## Ročníky
 - [2015/2016](2015-2016)
@@ -17,8 +19,6 @@ Pro snažší vyhledávání jsou k dispozici indexy jednotlivých portfolií na
 - [Český jazyk a literatura](/INDEX/CESKY-JAZYK.md)
 
 ## Přispívání
-Příspívání obsahem, opravou obsahu či alespoň hlášením chyb je vítáno.  Přispívání musí obsahovat pouze stručné, podstatné a ověřené informace.
+Repozitář je v současné době spravován již pouze bývalými žáky školy. Přispět svou prací může kdokoliv. Pomůžete tím generacím po vás. 
 
-Je potřeba se řídit pokyny pro konkrétní předmět/ročník, aby byla zachována konzistentí struktura informací. Dále je vhodné se řídit poznámkami autora, jinak **nebude** pull-request schválen.
-
-Pro nové ročníky založit novou složku, přidat odkaz a ideálně držet strukturu z předchozího roku.
+S jakýmikoliv dotazy se nebojte obrátit na správce tohoto repozitáře.
