@@ -19,6 +19,10 @@ Pro snažší vyhledávání jsou k dispozici indexy jednotlivých portfolií na
 - [Český jazyk a literatura](/INDEX/CESKY-JAZYK.md)
 
 ## Přispívání
-Repozitář je v současné době spravován již pouze bývalými žáky školy. Přispět svou prací může kdokoliv. Pomůžete tím generacím po vás. 
+Repozitář je v současné době spravován již pouze bývalými žáky školy. Přispět svou prací může kdokoliv.
 
-S jakýmikoliv dotazy se nebojte obrátit na správce tohoto repozitáře.
+Důvodem vzniku jednotného repozitáře byla roztříštěnost, kdy jednotliví žáci měli vlastní repozitáře, ale kolikrát pouze jen s malým obsahem.
+Po dokončení maturitní zkoušky tak repozitáře již pro ně nemají využití a jejich hledání stávajícími maturanty je často zdlouhavé a zbytečné.
+Pokud můžete, centralizujte prosím vaši práci do tohoto repozitáře.
+
+Pomůžete tím generacím po vás. S jakýmikoliv dotazy se nebojte obrátit na správce tohoto repozitáře.
