@@ -7,6 +7,9 @@
 ## Upozornění
 Autor ani odborný dozor neručí za správnost zpracovaných témat. Zpracovaná témata slouží pouze pro studijní účely autora. Autor i odborný dozor se vzdává jakékoliv odpovědnosti za škody vzniklé při využití poznatků nebo jiných informací z uvedených dokumentů.
 
+## Školní seznam literárních děl
+Žák si vybírá 20 děl z celkového [seznamu](./LIST.md) literárních děl, který sestavuje škola.
+
 ## Témata
 Světová a česká literatura do konce 18. století
 
